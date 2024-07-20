@@ -1,0 +1,14 @@
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/EntradaDeDados/bin/Debug/net8.0/EntradaDeDados
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/EntradaDeDados/bin/Debug/net8.0/EntradaDeDados.deps.json
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/EntradaDeDados/bin/Debug/net8.0/EntradaDeDados.runtimeconfig.json
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/EntradaDeDados/bin/Debug/net8.0/EntradaDeDados.dll
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/EntradaDeDados/bin/Debug/net8.0/EntradaDeDados.pdb
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/EntradaDeDados/obj/Debug/net8.0/EntradaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/EntradaDeDados/obj/Debug/net8.0/EntradaDeDados.AssemblyInfoInputs.cache
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/EntradaDeDados/obj/Debug/net8.0/EntradaDeDados.AssemblyInfo.cs
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/EntradaDeDados/obj/Debug/net8.0/EntradaDeDados.csproj.CoreCompileInputs.cache
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/EntradaDeDados/obj/Debug/net8.0/EntradaDeDados.dll
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/EntradaDeDados/obj/Debug/net8.0/refint/EntradaDeDados.dll
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/EntradaDeDados/obj/Debug/net8.0/EntradaDeDados.pdb
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/EntradaDeDados/obj/Debug/net8.0/EntradaDeDados.genruntimeconfig.cache
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/EntradaDeDados/obj/Debug/net8.0/ref/EntradaDeDados.dll

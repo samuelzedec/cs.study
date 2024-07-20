@@ -1,0 +1,14 @@
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/Identificadores/obj/Debug/net8.0/Identificadores.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/Identificadores/obj/Debug/net8.0/Identificadores.AssemblyInfoInputs.cache
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/Identificadores/obj/Debug/net8.0/Identificadores.AssemblyInfo.cs
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/Identificadores/obj/Debug/net8.0/Identificadores.csproj.CoreCompileInputs.cache
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/Identificadores/bin/Debug/net8.0/Identificadores
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/Identificadores/bin/Debug/net8.0/Identificadores.deps.json
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/Identificadores/bin/Debug/net8.0/Identificadores.runtimeconfig.json
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/Identificadores/bin/Debug/net8.0/Identificadores.dll
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/Identificadores/bin/Debug/net8.0/Identificadores.pdb
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/Identificadores/obj/Debug/net8.0/Identificadores.dll
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/Identificadores/obj/Debug/net8.0/refint/Identificadores.dll
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/Identificadores/obj/Debug/net8.0/Identificadores.pdb
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/Identificadores/obj/Debug/net8.0/Identificadores.genruntimeconfig.cache
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/Identificadores/obj/Debug/net8.0/ref/Identificadores.dll

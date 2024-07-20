@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "8Estrutura_for/1.0.0": {
+        "runtime": {
+          "8Estrutura_for.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "8Estrutura_for/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

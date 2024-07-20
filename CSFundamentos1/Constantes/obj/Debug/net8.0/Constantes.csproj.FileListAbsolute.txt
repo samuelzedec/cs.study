@@ -1,0 +1,14 @@
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/Constantes/bin/Debug/net8.0/Constantes
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/Constantes/bin/Debug/net8.0/Constantes.deps.json
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/Constantes/bin/Debug/net8.0/Constantes.runtimeconfig.json
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/Constantes/bin/Debug/net8.0/Constantes.dll
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/Constantes/bin/Debug/net8.0/Constantes.pdb
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/Constantes/obj/Debug/net8.0/Constantes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/Constantes/obj/Debug/net8.0/Constantes.AssemblyInfoInputs.cache
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/Constantes/obj/Debug/net8.0/Constantes.AssemblyInfo.cs
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/Constantes/obj/Debug/net8.0/Constantes.csproj.CoreCompileInputs.cache
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/Constantes/obj/Debug/net8.0/Constantes.dll
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/Constantes/obj/Debug/net8.0/refint/Constantes.dll
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/Constantes/obj/Debug/net8.0/Constantes.pdb
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/Constantes/obj/Debug/net8.0/Constantes.genruntimeconfig.cache
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/Constantes/obj/Debug/net8.0/ref/Constantes.dll

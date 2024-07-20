@@ -1,0 +1,14 @@
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadoresDeAtribuicao/bin/Debug/net8.0/OperadoresDeAtribuicao
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadoresDeAtribuicao/bin/Debug/net8.0/OperadoresDeAtribuicao.deps.json
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadoresDeAtribuicao/bin/Debug/net8.0/OperadoresDeAtribuicao.runtimeconfig.json
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadoresDeAtribuicao/bin/Debug/net8.0/OperadoresDeAtribuicao.dll
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadoresDeAtribuicao/bin/Debug/net8.0/OperadoresDeAtribuicao.pdb
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadoresDeAtribuicao/obj/Debug/net8.0/OperadoresDeAtribuicao.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadoresDeAtribuicao/obj/Debug/net8.0/OperadoresDeAtribuicao.AssemblyInfoInputs.cache
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadoresDeAtribuicao/obj/Debug/net8.0/OperadoresDeAtribuicao.AssemblyInfo.cs
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadoresDeAtribuicao/obj/Debug/net8.0/OperadoresDeAtribuicao.csproj.CoreCompileInputs.cache
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadoresDeAtribuicao/obj/Debug/net8.0/OperadoresDeAtribuicao.dll
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadoresDeAtribuicao/obj/Debug/net8.0/refint/OperadoresDeAtribuicao.dll
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadoresDeAtribuicao/obj/Debug/net8.0/OperadoresDeAtribuicao.pdb
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadoresDeAtribuicao/obj/Debug/net8.0/OperadoresDeAtribuicao.genruntimeconfig.cache
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadoresDeAtribuicao/obj/Debug/net8.0/ref/OperadoresDeAtribuicao.dll

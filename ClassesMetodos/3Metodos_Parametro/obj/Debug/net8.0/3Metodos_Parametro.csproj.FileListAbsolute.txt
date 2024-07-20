@@ -1,0 +1,14 @@
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/3Metodos_Parametro/bin/Debug/net8.0/3Metodos_Parametro
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/3Metodos_Parametro/bin/Debug/net8.0/3Metodos_Parametro.deps.json
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/3Metodos_Parametro/bin/Debug/net8.0/3Metodos_Parametro.runtimeconfig.json
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/3Metodos_Parametro/bin/Debug/net8.0/3Metodos_Parametro.dll
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/3Metodos_Parametro/bin/Debug/net8.0/3Metodos_Parametro.pdb
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/3Metodos_Parametro/obj/Debug/net8.0/3Metodos_Parametro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/3Metodos_Parametro/obj/Debug/net8.0/3Metodos_Parametro.AssemblyInfoInputs.cache
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/3Metodos_Parametro/obj/Debug/net8.0/3Metodos_Parametro.AssemblyInfo.cs
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/3Metodos_Parametro/obj/Debug/net8.0/3Metodos_Parametro.csproj.CoreCompileInputs.cache
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/3Metodos_Parametro/obj/Debug/net8.0/3Metodos_Parametro.dll
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/3Metodos_Parametro/obj/Debug/net8.0/refint/3Metodos_Parametro.dll
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/3Metodos_Parametro/obj/Debug/net8.0/3Metodos_Parametro.pdb
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/3Metodos_Parametro/obj/Debug/net8.0/3Metodos_Parametro.genruntimeconfig.cache
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/3Metodos_Parametro/obj/Debug/net8.0/ref/3Metodos_Parametro.dll

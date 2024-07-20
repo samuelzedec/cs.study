@@ -1,0 +1,14 @@
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadoresAritmeticos/bin/Debug/net8.0/OperadoresAritmeticos
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadoresAritmeticos/bin/Debug/net8.0/OperadoresAritmeticos.deps.json
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadoresAritmeticos/bin/Debug/net8.0/OperadoresAritmeticos.runtimeconfig.json
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadoresAritmeticos/bin/Debug/net8.0/OperadoresAritmeticos.dll
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadoresAritmeticos/bin/Debug/net8.0/OperadoresAritmeticos.pdb
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadoresAritmeticos/obj/Debug/net8.0/OperadoresAritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadoresAritmeticos/obj/Debug/net8.0/OperadoresAritmeticos.AssemblyInfoInputs.cache
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadoresAritmeticos/obj/Debug/net8.0/OperadoresAritmeticos.AssemblyInfo.cs
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadoresAritmeticos/obj/Debug/net8.0/OperadoresAritmeticos.csproj.CoreCompileInputs.cache
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadoresAritmeticos/obj/Debug/net8.0/OperadoresAritmeticos.dll
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadoresAritmeticos/obj/Debug/net8.0/refint/OperadoresAritmeticos.dll
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadoresAritmeticos/obj/Debug/net8.0/OperadoresAritmeticos.pdb
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadoresAritmeticos/obj/Debug/net8.0/OperadoresAritmeticos.genruntimeconfig.cache
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadoresAritmeticos/obj/Debug/net8.0/ref/OperadoresAritmeticos.dll

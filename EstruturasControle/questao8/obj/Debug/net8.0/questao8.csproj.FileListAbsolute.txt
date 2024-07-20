@@ -1,0 +1,14 @@
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/questao8/bin/Debug/net8.0/questao8
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/questao8/bin/Debug/net8.0/questao8.deps.json
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/questao8/bin/Debug/net8.0/questao8.runtimeconfig.json
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/questao8/bin/Debug/net8.0/questao8.dll
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/questao8/bin/Debug/net8.0/questao8.pdb
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/questao8/obj/Debug/net8.0/questao8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/questao8/obj/Debug/net8.0/questao8.AssemblyInfoInputs.cache
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/questao8/obj/Debug/net8.0/questao8.AssemblyInfo.cs
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/questao8/obj/Debug/net8.0/questao8.csproj.CoreCompileInputs.cache
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/questao8/obj/Debug/net8.0/questao8.dll
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/questao8/obj/Debug/net8.0/refint/questao8.dll
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/questao8/obj/Debug/net8.0/questao8.pdb
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/questao8/obj/Debug/net8.0/questao8.genruntimeconfig.cache
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/questao8/obj/Debug/net8.0/ref/questao8.dll

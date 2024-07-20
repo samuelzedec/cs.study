@@ -1,0 +1,14 @@
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/Fase1/obj/Debug/net8.0/Fase1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/Fase1/obj/Debug/net8.0/Fase1.AssemblyInfoInputs.cache
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/Fase1/obj/Debug/net8.0/Fase1.AssemblyInfo.cs
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/Fase1/obj/Debug/net8.0/Fase1.csproj.CoreCompileInputs.cache
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/Fase1/bin/Debug/net8.0/Fase1
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/Fase1/bin/Debug/net8.0/Fase1.deps.json
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/Fase1/bin/Debug/net8.0/Fase1.runtimeconfig.json
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/Fase1/bin/Debug/net8.0/Fase1.dll
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/Fase1/bin/Debug/net8.0/Fase1.pdb
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/Fase1/obj/Debug/net8.0/Fase1.dll
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/Fase1/obj/Debug/net8.0/refint/Fase1.dll
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/Fase1/obj/Debug/net8.0/Fase1.pdb
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/Fase1/obj/Debug/net8.0/Fase1.genruntimeconfig.cache
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/Fase1/obj/Debug/net8.0/ref/Fase1.dll

@@ -1,0 +1,14 @@
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/6Estrutura_while/bin/Debug/net8.0/6Estrutura_while
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/6Estrutura_while/bin/Debug/net8.0/6Estrutura_while.deps.json
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/6Estrutura_while/bin/Debug/net8.0/6Estrutura_while.runtimeconfig.json
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/6Estrutura_while/bin/Debug/net8.0/6Estrutura_while.dll
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/6Estrutura_while/bin/Debug/net8.0/6Estrutura_while.pdb
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/6Estrutura_while/obj/Debug/net8.0/6Estrutura_while.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/6Estrutura_while/obj/Debug/net8.0/6Estrutura_while.AssemblyInfoInputs.cache
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/6Estrutura_while/obj/Debug/net8.0/6Estrutura_while.AssemblyInfo.cs
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/6Estrutura_while/obj/Debug/net8.0/6Estrutura_while.csproj.CoreCompileInputs.cache
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/6Estrutura_while/obj/Debug/net8.0/6Estrutura_while.dll
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/6Estrutura_while/obj/Debug/net8.0/refint/6Estrutura_while.dll
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/6Estrutura_while/obj/Debug/net8.0/6Estrutura_while.pdb
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/6Estrutura_while/obj/Debug/net8.0/6Estrutura_while.genruntimeconfig.cache
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/6Estrutura_while/obj/Debug/net8.0/ref/6Estrutura_while.dll

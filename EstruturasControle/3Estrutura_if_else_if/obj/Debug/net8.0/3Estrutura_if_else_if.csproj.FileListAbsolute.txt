@@ -1,0 +1,14 @@
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/3Estrutura_if_else_if/bin/Debug/net8.0/3Estrutura_if_else_if
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/3Estrutura_if_else_if/bin/Debug/net8.0/3Estrutura_if_else_if.deps.json
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/3Estrutura_if_else_if/bin/Debug/net8.0/3Estrutura_if_else_if.runtimeconfig.json
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/3Estrutura_if_else_if/bin/Debug/net8.0/3Estrutura_if_else_if.dll
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/3Estrutura_if_else_if/bin/Debug/net8.0/3Estrutura_if_else_if.pdb
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/3Estrutura_if_else_if/obj/Debug/net8.0/3Estrutura_if_else_if.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/3Estrutura_if_else_if/obj/Debug/net8.0/3Estrutura_if_else_if.AssemblyInfoInputs.cache
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/3Estrutura_if_else_if/obj/Debug/net8.0/3Estrutura_if_else_if.AssemblyInfo.cs
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/3Estrutura_if_else_if/obj/Debug/net8.0/3Estrutura_if_else_if.csproj.CoreCompileInputs.cache
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/3Estrutura_if_else_if/obj/Debug/net8.0/3Estrutura_if_else_if.dll
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/3Estrutura_if_else_if/obj/Debug/net8.0/refint/3Estrutura_if_else_if.dll
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/3Estrutura_if_else_if/obj/Debug/net8.0/3Estrutura_if_else_if.pdb
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/3Estrutura_if_else_if/obj/Debug/net8.0/3Estrutura_if_else_if.genruntimeconfig.cache
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/3Estrutura_if_else_if/obj/Debug/net8.0/ref/3Estrutura_if_else_if.dll

@@ -1,0 +1,14 @@
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadoresRelacionais/bin/Debug/net8.0/OperadoresRelacionais
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadoresRelacionais/bin/Debug/net8.0/OperadoresRelacionais.deps.json
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadoresRelacionais/bin/Debug/net8.0/OperadoresRelacionais.runtimeconfig.json
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadoresRelacionais/bin/Debug/net8.0/OperadoresRelacionais.dll
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadoresRelacionais/bin/Debug/net8.0/OperadoresRelacionais.pdb
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadoresRelacionais/obj/Debug/net8.0/OperadoresRelacionais.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadoresRelacionais/obj/Debug/net8.0/OperadoresRelacionais.AssemblyInfoInputs.cache
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadoresRelacionais/obj/Debug/net8.0/OperadoresRelacionais.AssemblyInfo.cs
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadoresRelacionais/obj/Debug/net8.0/OperadoresRelacionais.csproj.CoreCompileInputs.cache
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadoresRelacionais/obj/Debug/net8.0/OperadoresRelacionais.dll
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadoresRelacionais/obj/Debug/net8.0/refint/OperadoresRelacionais.dll
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadoresRelacionais/obj/Debug/net8.0/OperadoresRelacionais.pdb
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadoresRelacionais/obj/Debug/net8.0/OperadoresRelacionais.genruntimeconfig.cache
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadoresRelacionais/obj/Debug/net8.0/ref/OperadoresRelacionais.dll

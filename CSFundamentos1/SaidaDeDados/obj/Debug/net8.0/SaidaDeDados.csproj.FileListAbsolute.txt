@@ -1,0 +1,14 @@
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/SaidaDeDados/bin/Debug/net8.0/SaidaDeDados
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/SaidaDeDados/bin/Debug/net8.0/SaidaDeDados.deps.json
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/SaidaDeDados/bin/Debug/net8.0/SaidaDeDados.runtimeconfig.json
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/SaidaDeDados/bin/Debug/net8.0/SaidaDeDados.dll
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/SaidaDeDados/bin/Debug/net8.0/SaidaDeDados.pdb
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/SaidaDeDados/obj/Debug/net8.0/SaidaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/SaidaDeDados/obj/Debug/net8.0/SaidaDeDados.AssemblyInfoInputs.cache
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/SaidaDeDados/obj/Debug/net8.0/SaidaDeDados.AssemblyInfo.cs
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/SaidaDeDados/obj/Debug/net8.0/SaidaDeDados.csproj.CoreCompileInputs.cache
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/SaidaDeDados/obj/Debug/net8.0/SaidaDeDados.dll
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/SaidaDeDados/obj/Debug/net8.0/refint/SaidaDeDados.dll
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/SaidaDeDados/obj/Debug/net8.0/SaidaDeDados.pdb
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/SaidaDeDados/obj/Debug/net8.0/SaidaDeDados.genruntimeconfig.cache
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/SaidaDeDados/obj/Debug/net8.0/ref/SaidaDeDados.dll

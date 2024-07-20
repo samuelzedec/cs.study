@@ -1,0 +1,14 @@
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/TiposDeDados1/bin/Debug/net8.0/TiposDeDados1
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/TiposDeDados1/bin/Debug/net8.0/TiposDeDados1.deps.json
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/TiposDeDados1/bin/Debug/net8.0/TiposDeDados1.runtimeconfig.json
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/TiposDeDados1/bin/Debug/net8.0/TiposDeDados1.dll
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/TiposDeDados1/bin/Debug/net8.0/TiposDeDados1.pdb
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/TiposDeDados1/obj/Debug/net8.0/TiposDeDados1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/TiposDeDados1/obj/Debug/net8.0/TiposDeDados1.AssemblyInfoInputs.cache
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/TiposDeDados1/obj/Debug/net8.0/TiposDeDados1.AssemblyInfo.cs
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/TiposDeDados1/obj/Debug/net8.0/TiposDeDados1.csproj.CoreCompileInputs.cache
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/TiposDeDados1/obj/Debug/net8.0/TiposDeDados1.dll
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/TiposDeDados1/obj/Debug/net8.0/refint/TiposDeDados1.dll
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/TiposDeDados1/obj/Debug/net8.0/TiposDeDados1.pdb
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/TiposDeDados1/obj/Debug/net8.0/TiposDeDados1.genruntimeconfig.cache
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/TiposDeDados1/obj/Debug/net8.0/ref/TiposDeDados1.dll

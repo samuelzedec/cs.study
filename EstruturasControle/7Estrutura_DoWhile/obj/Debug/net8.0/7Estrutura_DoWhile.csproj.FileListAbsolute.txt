@@ -1,0 +1,14 @@
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/7Estrutura_DoWhile/bin/Debug/net8.0/7Estrutura_DoWhile
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/7Estrutura_DoWhile/bin/Debug/net8.0/7Estrutura_DoWhile.deps.json
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/7Estrutura_DoWhile/bin/Debug/net8.0/7Estrutura_DoWhile.runtimeconfig.json
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/7Estrutura_DoWhile/bin/Debug/net8.0/7Estrutura_DoWhile.dll
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/7Estrutura_DoWhile/bin/Debug/net8.0/7Estrutura_DoWhile.pdb
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/7Estrutura_DoWhile/obj/Debug/net8.0/7Estrutura_DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/7Estrutura_DoWhile/obj/Debug/net8.0/7Estrutura_DoWhile.AssemblyInfoInputs.cache
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/7Estrutura_DoWhile/obj/Debug/net8.0/7Estrutura_DoWhile.AssemblyInfo.cs
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/7Estrutura_DoWhile/obj/Debug/net8.0/7Estrutura_DoWhile.csproj.CoreCompileInputs.cache
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/7Estrutura_DoWhile/obj/Debug/net8.0/7Estrutura_DoWhile.dll
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/7Estrutura_DoWhile/obj/Debug/net8.0/refint/7Estrutura_DoWhile.dll
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/7Estrutura_DoWhile/obj/Debug/net8.0/7Estrutura_DoWhile.pdb
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/7Estrutura_DoWhile/obj/Debug/net8.0/7Estrutura_DoWhile.genruntimeconfig.cache
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/7Estrutura_DoWhile/obj/Debug/net8.0/ref/7Estrutura_DoWhile.dll

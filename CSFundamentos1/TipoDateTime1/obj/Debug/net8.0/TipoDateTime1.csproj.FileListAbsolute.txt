@@ -1,0 +1,14 @@
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/TipoDateTime1/bin/Debug/net8.0/TipoDateTime1
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/TipoDateTime1/bin/Debug/net8.0/TipoDateTime1.deps.json
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/TipoDateTime1/bin/Debug/net8.0/TipoDateTime1.runtimeconfig.json
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/TipoDateTime1/bin/Debug/net8.0/TipoDateTime1.dll
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/TipoDateTime1/bin/Debug/net8.0/TipoDateTime1.pdb
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/TipoDateTime1/obj/Debug/net8.0/TipoDateTime1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/TipoDateTime1/obj/Debug/net8.0/TipoDateTime1.AssemblyInfoInputs.cache
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/TipoDateTime1/obj/Debug/net8.0/TipoDateTime1.AssemblyInfo.cs
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/TipoDateTime1/obj/Debug/net8.0/TipoDateTime1.csproj.CoreCompileInputs.cache
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/TipoDateTime1/obj/Debug/net8.0/TipoDateTime1.dll
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/TipoDateTime1/obj/Debug/net8.0/refint/TipoDateTime1.dll
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/TipoDateTime1/obj/Debug/net8.0/TipoDateTime1.pdb
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/TipoDateTime1/obj/Debug/net8.0/TipoDateTime1.genruntimeconfig.cache
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/TipoDateTime1/obj/Debug/net8.0/ref/TipoDateTime1.dll

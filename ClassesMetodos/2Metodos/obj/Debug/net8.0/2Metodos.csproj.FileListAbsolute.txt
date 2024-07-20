@@ -1,0 +1,14 @@
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/2Metodos/bin/Debug/net8.0/2Metodos
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/2Metodos/bin/Debug/net8.0/2Metodos.deps.json
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/2Metodos/bin/Debug/net8.0/2Metodos.runtimeconfig.json
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/2Metodos/bin/Debug/net8.0/2Metodos.dll
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/2Metodos/bin/Debug/net8.0/2Metodos.pdb
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/2Metodos/obj/Debug/net8.0/2Metodos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/2Metodos/obj/Debug/net8.0/2Metodos.AssemblyInfoInputs.cache
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/2Metodos/obj/Debug/net8.0/2Metodos.AssemblyInfo.cs
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/2Metodos/obj/Debug/net8.0/2Metodos.csproj.CoreCompileInputs.cache
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/2Metodos/obj/Debug/net8.0/2Metodos.dll
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/2Metodos/obj/Debug/net8.0/refint/2Metodos.dll
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/2Metodos/obj/Debug/net8.0/2Metodos.pdb
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/2Metodos/obj/Debug/net8.0/2Metodos.genruntimeconfig.cache
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/2Metodos/obj/Debug/net8.0/ref/2Metodos.dll

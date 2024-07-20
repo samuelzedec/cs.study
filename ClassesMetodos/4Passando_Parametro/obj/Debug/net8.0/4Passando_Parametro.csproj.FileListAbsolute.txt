@@ -1,0 +1,14 @@
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/4Passando_Parametro/bin/Debug/net8.0/4Passando_Parametro
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/4Passando_Parametro/bin/Debug/net8.0/4Passando_Parametro.deps.json
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/4Passando_Parametro/bin/Debug/net8.0/4Passando_Parametro.runtimeconfig.json
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/4Passando_Parametro/bin/Debug/net8.0/4Passando_Parametro.dll
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/4Passando_Parametro/bin/Debug/net8.0/4Passando_Parametro.pdb
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/4Passando_Parametro/obj/Debug/net8.0/4Passando_Parametro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/4Passando_Parametro/obj/Debug/net8.0/4Passando_Parametro.AssemblyInfoInputs.cache
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/4Passando_Parametro/obj/Debug/net8.0/4Passando_Parametro.AssemblyInfo.cs
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/4Passando_Parametro/obj/Debug/net8.0/4Passando_Parametro.csproj.CoreCompileInputs.cache
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/4Passando_Parametro/obj/Debug/net8.0/4Passando_Parametro.dll
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/4Passando_Parametro/obj/Debug/net8.0/refint/4Passando_Parametro.dll
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/4Passando_Parametro/obj/Debug/net8.0/4Passando_Parametro.pdb
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/4Passando_Parametro/obj/Debug/net8.0/4Passando_Parametro.genruntimeconfig.cache
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/4Passando_Parametro/obj/Debug/net8.0/ref/4Passando_Parametro.dll

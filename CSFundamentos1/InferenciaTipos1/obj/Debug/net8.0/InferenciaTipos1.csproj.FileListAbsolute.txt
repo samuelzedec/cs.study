@@ -1,0 +1,14 @@
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/InferenciaTipos1/bin/Debug/net8.0/InferenciaTipos1
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/InferenciaTipos1/bin/Debug/net8.0/InferenciaTipos1.deps.json
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/InferenciaTipos1/bin/Debug/net8.0/InferenciaTipos1.runtimeconfig.json
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/InferenciaTipos1/bin/Debug/net8.0/InferenciaTipos1.dll
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/InferenciaTipos1/bin/Debug/net8.0/InferenciaTipos1.pdb
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/InferenciaTipos1/obj/Debug/net8.0/InferenciaTipos1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/InferenciaTipos1/obj/Debug/net8.0/InferenciaTipos1.AssemblyInfoInputs.cache
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/InferenciaTipos1/obj/Debug/net8.0/InferenciaTipos1.AssemblyInfo.cs
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/InferenciaTipos1/obj/Debug/net8.0/InferenciaTipos1.csproj.CoreCompileInputs.cache
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/InferenciaTipos1/obj/Debug/net8.0/InferenciaTipos1.dll
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/InferenciaTipos1/obj/Debug/net8.0/refint/InferenciaTipos1.dll
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/InferenciaTipos1/obj/Debug/net8.0/InferenciaTipos1.pdb
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/InferenciaTipos1/obj/Debug/net8.0/InferenciaTipos1.genruntimeconfig.cache
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/InferenciaTipos1/obj/Debug/net8.0/ref/InferenciaTipos1.dll

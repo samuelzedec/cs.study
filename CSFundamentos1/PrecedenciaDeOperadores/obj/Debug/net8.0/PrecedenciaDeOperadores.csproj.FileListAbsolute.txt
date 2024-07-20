@@ -1,0 +1,14 @@
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/PrecedenciaDeOperadores/bin/Debug/net8.0/PrecedenciaDeOperadores
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/PrecedenciaDeOperadores/bin/Debug/net8.0/PrecedenciaDeOperadores.deps.json
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/PrecedenciaDeOperadores/bin/Debug/net8.0/PrecedenciaDeOperadores.runtimeconfig.json
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/PrecedenciaDeOperadores/bin/Debug/net8.0/PrecedenciaDeOperadores.dll
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/PrecedenciaDeOperadores/bin/Debug/net8.0/PrecedenciaDeOperadores.pdb
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/PrecedenciaDeOperadores/obj/Debug/net8.0/PrecedenciaDeOperadores.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/PrecedenciaDeOperadores/obj/Debug/net8.0/PrecedenciaDeOperadores.AssemblyInfoInputs.cache
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/PrecedenciaDeOperadores/obj/Debug/net8.0/PrecedenciaDeOperadores.AssemblyInfo.cs
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/PrecedenciaDeOperadores/obj/Debug/net8.0/PrecedenciaDeOperadores.csproj.CoreCompileInputs.cache
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/PrecedenciaDeOperadores/obj/Debug/net8.0/PrecedenciaDeOperadores.dll
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/PrecedenciaDeOperadores/obj/Debug/net8.0/refint/PrecedenciaDeOperadores.dll
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/PrecedenciaDeOperadores/obj/Debug/net8.0/PrecedenciaDeOperadores.pdb
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/PrecedenciaDeOperadores/obj/Debug/net8.0/PrecedenciaDeOperadores.genruntimeconfig.cache
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/PrecedenciaDeOperadores/obj/Debug/net8.0/ref/PrecedenciaDeOperadores.dll

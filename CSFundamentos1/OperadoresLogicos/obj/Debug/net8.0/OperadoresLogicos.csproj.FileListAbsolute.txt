@@ -1,0 +1,14 @@
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadoresLogicos/bin/Debug/net8.0/OperadoresLogicos
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadoresLogicos/bin/Debug/net8.0/OperadoresLogicos.deps.json
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadoresLogicos/bin/Debug/net8.0/OperadoresLogicos.runtimeconfig.json
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadoresLogicos/bin/Debug/net8.0/OperadoresLogicos.dll
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadoresLogicos/bin/Debug/net8.0/OperadoresLogicos.pdb
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadoresLogicos/obj/Debug/net8.0/OperadoresLogicos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadoresLogicos/obj/Debug/net8.0/OperadoresLogicos.AssemblyInfoInputs.cache
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadoresLogicos/obj/Debug/net8.0/OperadoresLogicos.AssemblyInfo.cs
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadoresLogicos/obj/Debug/net8.0/OperadoresLogicos.csproj.CoreCompileInputs.cache
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadoresLogicos/obj/Debug/net8.0/OperadoresLogicos.dll
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadoresLogicos/obj/Debug/net8.0/refint/OperadoresLogicos.dll
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadoresLogicos/obj/Debug/net8.0/OperadoresLogicos.pdb
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadoresLogicos/obj/Debug/net8.0/OperadoresLogicos.genruntimeconfig.cache
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadoresLogicos/obj/Debug/net8.0/ref/OperadoresLogicos.dll

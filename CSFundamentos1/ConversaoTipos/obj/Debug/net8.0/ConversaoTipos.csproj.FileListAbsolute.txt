@@ -1,0 +1,14 @@
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/ConversaoTipos/bin/Debug/net8.0/ConversaoTipos
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/ConversaoTipos/bin/Debug/net8.0/ConversaoTipos.deps.json
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/ConversaoTipos/bin/Debug/net8.0/ConversaoTipos.runtimeconfig.json
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/ConversaoTipos/bin/Debug/net8.0/ConversaoTipos.dll
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/ConversaoTipos/bin/Debug/net8.0/ConversaoTipos.pdb
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/ConversaoTipos/obj/Debug/net8.0/ConversaoTipos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/ConversaoTipos/obj/Debug/net8.0/ConversaoTipos.AssemblyInfoInputs.cache
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/ConversaoTipos/obj/Debug/net8.0/ConversaoTipos.AssemblyInfo.cs
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/ConversaoTipos/obj/Debug/net8.0/ConversaoTipos.csproj.CoreCompileInputs.cache
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/ConversaoTipos/obj/Debug/net8.0/ConversaoTipos.dll
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/ConversaoTipos/obj/Debug/net8.0/refint/ConversaoTipos.dll
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/ConversaoTipos/obj/Debug/net8.0/ConversaoTipos.pdb
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/ConversaoTipos/obj/Debug/net8.0/ConversaoTipos.genruntimeconfig.cache
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/ConversaoTipos/obj/Debug/net8.0/ref/ConversaoTipos.dll

@@ -1,0 +1,14 @@
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/8Estrutura_for/bin/Debug/net8.0/8Estrutura_for
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/8Estrutura_for/bin/Debug/net8.0/8Estrutura_for.deps.json
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/8Estrutura_for/bin/Debug/net8.0/8Estrutura_for.runtimeconfig.json
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/8Estrutura_for/bin/Debug/net8.0/8Estrutura_for.dll
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/8Estrutura_for/bin/Debug/net8.0/8Estrutura_for.pdb
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/8Estrutura_for/obj/Debug/net8.0/8Estrutura_for.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/8Estrutura_for/obj/Debug/net8.0/8Estrutura_for.AssemblyInfoInputs.cache
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/8Estrutura_for/obj/Debug/net8.0/8Estrutura_for.AssemblyInfo.cs
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/8Estrutura_for/obj/Debug/net8.0/8Estrutura_for.csproj.CoreCompileInputs.cache
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/8Estrutura_for/obj/Debug/net8.0/8Estrutura_for.dll
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/8Estrutura_for/obj/Debug/net8.0/refint/8Estrutura_for.dll
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/8Estrutura_for/obj/Debug/net8.0/8Estrutura_for.pdb
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/8Estrutura_for/obj/Debug/net8.0/8Estrutura_for.genruntimeconfig.cache
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/8Estrutura_for/obj/Debug/net8.0/ref/8Estrutura_for.dll

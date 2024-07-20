@@ -1,0 +1,14 @@
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/9Instrucao_break_continue/bin/Debug/net8.0/9Instrucao_break_continue
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/9Instrucao_break_continue/bin/Debug/net8.0/9Instrucao_break_continue.deps.json
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/9Instrucao_break_continue/bin/Debug/net8.0/9Instrucao_break_continue.runtimeconfig.json
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/9Instrucao_break_continue/bin/Debug/net8.0/9Instrucao_break_continue.dll
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/9Instrucao_break_continue/bin/Debug/net8.0/9Instrucao_break_continue.pdb
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/9Instrucao_break_continue/obj/Debug/net8.0/9Instrucao_break_continue.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/9Instrucao_break_continue/obj/Debug/net8.0/9Instrucao_break_continue.AssemblyInfoInputs.cache
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/9Instrucao_break_continue/obj/Debug/net8.0/9Instrucao_break_continue.AssemblyInfo.cs
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/9Instrucao_break_continue/obj/Debug/net8.0/9Instrucao_break_continue.csproj.CoreCompileInputs.cache
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/9Instrucao_break_continue/obj/Debug/net8.0/9Instrucao_break_continue.dll
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/9Instrucao_break_continue/obj/Debug/net8.0/refint/9Instrucao_break_continue.dll
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/9Instrucao_break_continue/obj/Debug/net8.0/9Instrucao_break_continue.pdb
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/9Instrucao_break_continue/obj/Debug/net8.0/9Instrucao_break_continue.genruntimeconfig.cache
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/9Instrucao_break_continue/obj/Debug/net8.0/ref/9Instrucao_break_continue.dll

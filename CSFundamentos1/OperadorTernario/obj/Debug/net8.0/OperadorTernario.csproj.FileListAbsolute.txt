@@ -1,0 +1,14 @@
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadorTernario/bin/Debug/net8.0/OperadorTernario
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadorTernario/bin/Debug/net8.0/OperadorTernario.deps.json
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadorTernario/bin/Debug/net8.0/OperadorTernario.runtimeconfig.json
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadorTernario/bin/Debug/net8.0/OperadorTernario.dll
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadorTernario/bin/Debug/net8.0/OperadorTernario.pdb
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadorTernario/obj/Debug/net8.0/OperadorTernario.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadorTernario/obj/Debug/net8.0/OperadorTernario.AssemblyInfoInputs.cache
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadorTernario/obj/Debug/net8.0/OperadorTernario.AssemblyInfo.cs
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadorTernario/obj/Debug/net8.0/OperadorTernario.csproj.CoreCompileInputs.cache
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadorTernario/obj/Debug/net8.0/OperadorTernario.dll
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadorTernario/obj/Debug/net8.0/refint/OperadorTernario.dll
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadorTernario/obj/Debug/net8.0/OperadorTernario.pdb
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadorTernario/obj/Debug/net8.0/OperadorTernario.genruntimeconfig.cache
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadorTernario/obj/Debug/net8.0/ref/OperadorTernario.dll

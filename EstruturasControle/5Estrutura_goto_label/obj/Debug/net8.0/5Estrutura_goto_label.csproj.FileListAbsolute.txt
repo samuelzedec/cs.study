@@ -1,0 +1,14 @@
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/5Estrutura_goto_label/bin/Debug/net8.0/5Estrutura_goto_label
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/5Estrutura_goto_label/bin/Debug/net8.0/5Estrutura_goto_label.deps.json
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/5Estrutura_goto_label/bin/Debug/net8.0/5Estrutura_goto_label.runtimeconfig.json
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/5Estrutura_goto_label/bin/Debug/net8.0/5Estrutura_goto_label.dll
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/5Estrutura_goto_label/bin/Debug/net8.0/5Estrutura_goto_label.pdb
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/5Estrutura_goto_label/obj/Debug/net8.0/5Estrutura_goto_label.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/5Estrutura_goto_label/obj/Debug/net8.0/5Estrutura_goto_label.AssemblyInfoInputs.cache
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/5Estrutura_goto_label/obj/Debug/net8.0/5Estrutura_goto_label.AssemblyInfo.cs
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/5Estrutura_goto_label/obj/Debug/net8.0/5Estrutura_goto_label.csproj.CoreCompileInputs.cache
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/5Estrutura_goto_label/obj/Debug/net8.0/5Estrutura_goto_label.dll
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/5Estrutura_goto_label/obj/Debug/net8.0/refint/5Estrutura_goto_label.dll
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/5Estrutura_goto_label/obj/Debug/net8.0/5Estrutura_goto_label.pdb
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/5Estrutura_goto_label/obj/Debug/net8.0/5Estrutura_goto_label.genruntimeconfig.cache
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/5Estrutura_goto_label/obj/Debug/net8.0/ref/5Estrutura_goto_label.dll

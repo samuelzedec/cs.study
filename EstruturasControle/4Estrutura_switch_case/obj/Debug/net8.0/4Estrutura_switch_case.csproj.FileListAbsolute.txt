@@ -1,0 +1,14 @@
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/4Estrutura_switch_case/bin/Debug/net8.0/4Estrutura_switch_case
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/4Estrutura_switch_case/bin/Debug/net8.0/4Estrutura_switch_case.deps.json
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/4Estrutura_switch_case/bin/Debug/net8.0/4Estrutura_switch_case.runtimeconfig.json
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/4Estrutura_switch_case/bin/Debug/net8.0/4Estrutura_switch_case.dll
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/4Estrutura_switch_case/bin/Debug/net8.0/4Estrutura_switch_case.pdb
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/4Estrutura_switch_case/obj/Debug/net8.0/4Estrutura_switch_case.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/4Estrutura_switch_case/obj/Debug/net8.0/4Estrutura_switch_case.AssemblyInfoInputs.cache
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/4Estrutura_switch_case/obj/Debug/net8.0/4Estrutura_switch_case.AssemblyInfo.cs
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/4Estrutura_switch_case/obj/Debug/net8.0/4Estrutura_switch_case.csproj.CoreCompileInputs.cache
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/4Estrutura_switch_case/obj/Debug/net8.0/4Estrutura_switch_case.dll
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/4Estrutura_switch_case/obj/Debug/net8.0/refint/4Estrutura_switch_case.dll
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/4Estrutura_switch_case/obj/Debug/net8.0/4Estrutura_switch_case.pdb
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/4Estrutura_switch_case/obj/Debug/net8.0/4Estrutura_switch_case.genruntimeconfig.cache
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/4Estrutura_switch_case/obj/Debug/net8.0/ref/4Estrutura_switch_case.dll

@@ -1,0 +1,14 @@
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/NullableTypes1/bin/Debug/net8.0/NullableTypes1
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/NullableTypes1/bin/Debug/net8.0/NullableTypes1.deps.json
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/NullableTypes1/bin/Debug/net8.0/NullableTypes1.runtimeconfig.json
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/NullableTypes1/bin/Debug/net8.0/NullableTypes1.dll
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/NullableTypes1/bin/Debug/net8.0/NullableTypes1.pdb
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/NullableTypes1/obj/Debug/net8.0/NullableTypes1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/NullableTypes1/obj/Debug/net8.0/NullableTypes1.AssemblyInfoInputs.cache
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/NullableTypes1/obj/Debug/net8.0/NullableTypes1.AssemblyInfo.cs
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/NullableTypes1/obj/Debug/net8.0/NullableTypes1.csproj.CoreCompileInputs.cache
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/NullableTypes1/obj/Debug/net8.0/NullableTypes1.dll
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/NullableTypes1/obj/Debug/net8.0/refint/NullableTypes1.dll
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/NullableTypes1/obj/Debug/net8.0/NullableTypes1.pdb
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/NullableTypes1/obj/Debug/net8.0/NullableTypes1.genruntimeconfig.cache
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/NullableTypes1/obj/Debug/net8.0/ref/NullableTypes1.dll

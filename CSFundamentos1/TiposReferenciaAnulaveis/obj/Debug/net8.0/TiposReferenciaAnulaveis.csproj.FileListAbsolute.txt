@@ -1,0 +1,14 @@
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/TiposReferenciaAnulaveis/bin/Debug/net8.0/TiposReferenciaAnulaveis
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/TiposReferenciaAnulaveis/bin/Debug/net8.0/TiposReferenciaAnulaveis.deps.json
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/TiposReferenciaAnulaveis/bin/Debug/net8.0/TiposReferenciaAnulaveis.runtimeconfig.json
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/TiposReferenciaAnulaveis/bin/Debug/net8.0/TiposReferenciaAnulaveis.dll
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/TiposReferenciaAnulaveis/bin/Debug/net8.0/TiposReferenciaAnulaveis.pdb
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/TiposReferenciaAnulaveis/obj/Debug/net8.0/TiposReferenciaAnulaveis.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/TiposReferenciaAnulaveis/obj/Debug/net8.0/TiposReferenciaAnulaveis.AssemblyInfoInputs.cache
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/TiposReferenciaAnulaveis/obj/Debug/net8.0/TiposReferenciaAnulaveis.AssemblyInfo.cs
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/TiposReferenciaAnulaveis/obj/Debug/net8.0/TiposReferenciaAnulaveis.csproj.CoreCompileInputs.cache
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/TiposReferenciaAnulaveis/obj/Debug/net8.0/TiposReferenciaAnulaveis.dll
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/TiposReferenciaAnulaveis/obj/Debug/net8.0/refint/TiposReferenciaAnulaveis.dll
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/TiposReferenciaAnulaveis/obj/Debug/net8.0/TiposReferenciaAnulaveis.pdb
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/TiposReferenciaAnulaveis/obj/Debug/net8.0/TiposReferenciaAnulaveis.genruntimeconfig.cache
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/TiposReferenciaAnulaveis/obj/Debug/net8.0/ref/TiposReferenciaAnulaveis.dll

@@ -1,0 +1,14 @@
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/2Estrutura_If_else/bin/Debug/net8.0/2Estrutura_If_else
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/2Estrutura_If_else/bin/Debug/net8.0/2Estrutura_If_else.deps.json
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/2Estrutura_If_else/bin/Debug/net8.0/2Estrutura_If_else.runtimeconfig.json
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/2Estrutura_If_else/bin/Debug/net8.0/2Estrutura_If_else.dll
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/2Estrutura_If_else/bin/Debug/net8.0/2Estrutura_If_else.pdb
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/2Estrutura_If_else/obj/Debug/net8.0/2Estrutura_If_else.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/2Estrutura_If_else/obj/Debug/net8.0/2Estrutura_If_else.AssemblyInfoInputs.cache
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/2Estrutura_If_else/obj/Debug/net8.0/2Estrutura_If_else.AssemblyInfo.cs
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/2Estrutura_If_else/obj/Debug/net8.0/2Estrutura_If_else.csproj.CoreCompileInputs.cache
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/2Estrutura_If_else/obj/Debug/net8.0/2Estrutura_If_else.dll
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/2Estrutura_If_else/obj/Debug/net8.0/refint/2Estrutura_If_else.dll
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/2Estrutura_If_else/obj/Debug/net8.0/2Estrutura_If_else.pdb
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/2Estrutura_If_else/obj/Debug/net8.0/2Estrutura_If_else.genruntimeconfig.cache
+/Users/samuelzedec/Documents/cs.study/EstruturasControle/2Estrutura_If_else/obj/Debug/net8.0/ref/2Estrutura_If_else.dll

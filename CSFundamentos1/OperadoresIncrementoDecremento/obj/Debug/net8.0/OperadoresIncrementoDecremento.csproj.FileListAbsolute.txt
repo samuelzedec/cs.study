@@ -1,0 +1,14 @@
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadoresIncrementoDecremento/bin/Debug/net8.0/OperadoresIncrementoDecremento
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadoresIncrementoDecremento/bin/Debug/net8.0/OperadoresIncrementoDecremento.deps.json
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadoresIncrementoDecremento/bin/Debug/net8.0/OperadoresIncrementoDecremento.runtimeconfig.json
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadoresIncrementoDecremento/bin/Debug/net8.0/OperadoresIncrementoDecremento.dll
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadoresIncrementoDecremento/bin/Debug/net8.0/OperadoresIncrementoDecremento.pdb
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadoresIncrementoDecremento/obj/Debug/net8.0/OperadoresIncrementoDecremento.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadoresIncrementoDecremento/obj/Debug/net8.0/OperadoresIncrementoDecremento.AssemblyInfoInputs.cache
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadoresIncrementoDecremento/obj/Debug/net8.0/OperadoresIncrementoDecremento.AssemblyInfo.cs
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadoresIncrementoDecremento/obj/Debug/net8.0/OperadoresIncrementoDecremento.csproj.CoreCompileInputs.cache
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadoresIncrementoDecremento/obj/Debug/net8.0/OperadoresIncrementoDecremento.dll
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadoresIncrementoDecremento/obj/Debug/net8.0/refint/OperadoresIncrementoDecremento.dll
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadoresIncrementoDecremento/obj/Debug/net8.0/OperadoresIncrementoDecremento.pdb
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadoresIncrementoDecremento/obj/Debug/net8.0/OperadoresIncrementoDecremento.genruntimeconfig.cache
+/Users/samuelzedec/Documents/cs.study/CSFundamentos1/OperadoresIncrementoDecremento/obj/Debug/net8.0/ref/OperadoresIncrementoDecremento.dll
