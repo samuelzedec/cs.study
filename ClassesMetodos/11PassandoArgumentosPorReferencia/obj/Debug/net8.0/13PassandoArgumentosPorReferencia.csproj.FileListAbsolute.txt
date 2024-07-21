@@ -1,0 +1,15 @@
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/13PassandoArgumentosPorReferencia/bin/Debug/net8.0/13PassandoArgumentosPorReferencia
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/13PassandoArgumentosPorReferencia/bin/Debug/net8.0/13PassandoArgumentosPorReferencia.deps.json
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/13PassandoArgumentosPorReferencia/bin/Debug/net8.0/13PassandoArgumentosPorReferencia.runtimeconfig.json
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/13PassandoArgumentosPorReferencia/bin/Debug/net8.0/13PassandoArgumentosPorReferencia.dll
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/13PassandoArgumentosPorReferencia/bin/Debug/net8.0/13PassandoArgumentosPorReferencia.pdb
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/13PassandoArgumentosPorReferencia/obj/Debug/net8.0/13PassandoArgumentosPorReferencia.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/13PassandoArgumentosPorReferencia/obj/Debug/net8.0/13PassandoArgumentosPorReferencia.AssemblyInfoInputs.cache
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/13PassandoArgumentosPorReferencia/obj/Debug/net8.0/13PassandoArgumentosPorReferencia.AssemblyInfo.cs
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/13PassandoArgumentosPorReferencia/obj/Debug/net8.0/13PassandoArgumentosPorReferencia.csproj.CoreCompileInputs.cache
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/13PassandoArgumentosPorReferencia/obj/Debug/net8.0/13PassandoArgumentosPorReferencia.sourcelink.json
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/13PassandoArgumentosPorReferencia/obj/Debug/net8.0/13PassandoArgumentosPorReferencia.dll
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/13PassandoArgumentosPorReferencia/obj/Debug/net8.0/refint/13PassandoArgumentosPorReferencia.dll
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/13PassandoArgumentosPorReferencia/obj/Debug/net8.0/13PassandoArgumentosPorReferencia.pdb
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/13PassandoArgumentosPorReferencia/obj/Debug/net8.0/13PassandoArgumentosPorReferencia.genruntimeconfig.cache
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/13PassandoArgumentosPorReferencia/obj/Debug/net8.0/ref/13PassandoArgumentosPorReferencia.dll
