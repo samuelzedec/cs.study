@@ -1,7 +1,7 @@
 ﻿Console.WriteLine("## Passando Parâmetros ##\n");
-Aluno alunos = new();
+Aluno gabriel = new();
 
-alunos.Consultar();
+gabriel.Consultar();
 
 Console.ReadKey();
 
@@ -33,12 +33,12 @@ public class Aluno
     }
 }
 
-public class Curso
+public class Curso 
 {
-    public void Resultado(Aluno aluno) {
-        Console.WriteLine($"\nO aluno {aluno.Nome}, sexo {aluno.Sexo}, com {aluno.Idade} anos");
+    public void Resultado(Aluno gabriel) {
+        Console.WriteLine($"\nO aluno {gabriel.Nome}, sexo {gabriel.Sexo}, com {gabriel.Idade} anos");
 
-        if(aluno.Aprovado == "S" ) {
+        if(gabriel.Aprovado == "S" ) {
             Console.WriteLine("Foi aprovado");
         } else {
             Console.WriteLine("Foi reprovado");

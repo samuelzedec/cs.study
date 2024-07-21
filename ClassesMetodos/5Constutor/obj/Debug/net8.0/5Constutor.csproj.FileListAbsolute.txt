@@ -1,0 +1,15 @@
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/5Constutor/bin/Debug/net8.0/5Constutor
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/5Constutor/bin/Debug/net8.0/5Constutor.deps.json
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/5Constutor/bin/Debug/net8.0/5Constutor.runtimeconfig.json
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/5Constutor/bin/Debug/net8.0/5Constutor.dll
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/5Constutor/bin/Debug/net8.0/5Constutor.pdb
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/5Constutor/obj/Debug/net8.0/5Constutor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/5Constutor/obj/Debug/net8.0/5Constutor.AssemblyInfoInputs.cache
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/5Constutor/obj/Debug/net8.0/5Constutor.AssemblyInfo.cs
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/5Constutor/obj/Debug/net8.0/5Constutor.csproj.CoreCompileInputs.cache
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/5Constutor/obj/Debug/net8.0/5Constutor.sourcelink.json
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/5Constutor/obj/Debug/net8.0/5Constutor.dll
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/5Constutor/obj/Debug/net8.0/refint/5Constutor.dll
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/5Constutor/obj/Debug/net8.0/5Constutor.pdb
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/5Constutor/obj/Debug/net8.0/5Constutor.genruntimeconfig.cache
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/5Constutor/obj/Debug/net8.0/ref/5Constutor.dll

@@ -1,0 +1,15 @@
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/8Metodo_Return/bin/Debug/net8.0/8Metodo_Return
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/8Metodo_Return/bin/Debug/net8.0/8Metodo_Return.deps.json
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/8Metodo_Return/bin/Debug/net8.0/8Metodo_Return.runtimeconfig.json
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/8Metodo_Return/bin/Debug/net8.0/8Metodo_Return.dll
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/8Metodo_Return/bin/Debug/net8.0/8Metodo_Return.pdb
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/8Metodo_Return/obj/Debug/net8.0/8Metodo_Return.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/8Metodo_Return/obj/Debug/net8.0/8Metodo_Return.AssemblyInfoInputs.cache
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/8Metodo_Return/obj/Debug/net8.0/8Metodo_Return.AssemblyInfo.cs
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/8Metodo_Return/obj/Debug/net8.0/8Metodo_Return.csproj.CoreCompileInputs.cache
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/8Metodo_Return/obj/Debug/net8.0/8Metodo_Return.sourcelink.json
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/8Metodo_Return/obj/Debug/net8.0/8Metodo_Return.dll
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/8Metodo_Return/obj/Debug/net8.0/refint/8Metodo_Return.dll
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/8Metodo_Return/obj/Debug/net8.0/8Metodo_Return.pdb
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/8Metodo_Return/obj/Debug/net8.0/8Metodo_Return.genruntimeconfig.cache
+/Users/samuelzedec/Documents/cs.study/ClassesMetodos/8Metodo_Return/obj/Debug/net8.0/ref/8Metodo_Return.dll
