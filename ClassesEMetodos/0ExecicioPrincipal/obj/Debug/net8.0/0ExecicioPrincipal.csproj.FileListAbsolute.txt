@@ -1,0 +1,15 @@
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/0ExecicioPrincipal/bin/Debug/net8.0/0ExecicioPrincipal
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/0ExecicioPrincipal/bin/Debug/net8.0/0ExecicioPrincipal.deps.json
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/0ExecicioPrincipal/bin/Debug/net8.0/0ExecicioPrincipal.runtimeconfig.json
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/0ExecicioPrincipal/bin/Debug/net8.0/0ExecicioPrincipal.dll
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/0ExecicioPrincipal/bin/Debug/net8.0/0ExecicioPrincipal.pdb
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/0ExecicioPrincipal/obj/Debug/net8.0/0ExecicioPrincipal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/0ExecicioPrincipal/obj/Debug/net8.0/0ExecicioPrincipal.AssemblyInfoInputs.cache
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/0ExecicioPrincipal/obj/Debug/net8.0/0ExecicioPrincipal.AssemblyInfo.cs
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/0ExecicioPrincipal/obj/Debug/net8.0/0ExecicioPrincipal.csproj.CoreCompileInputs.cache
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/0ExecicioPrincipal/obj/Debug/net8.0/0ExecicioPrincipal.sourcelink.json
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/0ExecicioPrincipal/obj/Debug/net8.0/0ExecicioPrincipal.dll
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/0ExecicioPrincipal/obj/Debug/net8.0/refint/0ExecicioPrincipal.dll
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/0ExecicioPrincipal/obj/Debug/net8.0/0ExecicioPrincipal.pdb
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/0ExecicioPrincipal/obj/Debug/net8.0/0ExecicioPrincipal.genruntimeconfig.cache
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/0ExecicioPrincipal/obj/Debug/net8.0/ref/0ExecicioPrincipal.dll

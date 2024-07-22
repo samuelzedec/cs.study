@@ -1,0 +1,15 @@
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/12PassandoParametroOut/bin/Debug/net8.0/12PassandoParametroOut
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/12PassandoParametroOut/bin/Debug/net8.0/12PassandoParametroOut.deps.json
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/12PassandoParametroOut/bin/Debug/net8.0/12PassandoParametroOut.runtimeconfig.json
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/12PassandoParametroOut/bin/Debug/net8.0/12PassandoParametroOut.dll
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/12PassandoParametroOut/bin/Debug/net8.0/12PassandoParametroOut.pdb
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/12PassandoParametroOut/obj/Debug/net8.0/12PassandoParametroOut.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/12PassandoParametroOut/obj/Debug/net8.0/12PassandoParametroOut.AssemblyInfoInputs.cache
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/12PassandoParametroOut/obj/Debug/net8.0/12PassandoParametroOut.AssemblyInfo.cs
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/12PassandoParametroOut/obj/Debug/net8.0/12PassandoParametroOut.csproj.CoreCompileInputs.cache
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/12PassandoParametroOut/obj/Debug/net8.0/12PassandoParametroOut.sourcelink.json
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/12PassandoParametroOut/obj/Debug/net8.0/12PassandoParametroOut.dll
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/12PassandoParametroOut/obj/Debug/net8.0/refint/12PassandoParametroOut.dll
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/12PassandoParametroOut/obj/Debug/net8.0/12PassandoParametroOut.pdb
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/12PassandoParametroOut/obj/Debug/net8.0/12PassandoParametroOut.genruntimeconfig.cache
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/12PassandoParametroOut/obj/Debug/net8.0/ref/12PassandoParametroOut.dll

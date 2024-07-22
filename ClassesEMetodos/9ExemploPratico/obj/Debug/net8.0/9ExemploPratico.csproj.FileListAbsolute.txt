@@ -1,0 +1,15 @@
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/9ExemploPratico/bin/Debug/net8.0/9ExemploPratico
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/9ExemploPratico/bin/Debug/net8.0/9ExemploPratico.deps.json
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/9ExemploPratico/bin/Debug/net8.0/9ExemploPratico.runtimeconfig.json
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/9ExemploPratico/bin/Debug/net8.0/9ExemploPratico.dll
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/9ExemploPratico/bin/Debug/net8.0/9ExemploPratico.pdb
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/9ExemploPratico/obj/Debug/net8.0/9ExemploPratico.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/9ExemploPratico/obj/Debug/net8.0/9ExemploPratico.AssemblyInfoInputs.cache
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/9ExemploPratico/obj/Debug/net8.0/9ExemploPratico.AssemblyInfo.cs
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/9ExemploPratico/obj/Debug/net8.0/9ExemploPratico.csproj.CoreCompileInputs.cache
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/9ExemploPratico/obj/Debug/net8.0/9ExemploPratico.sourcelink.json
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/9ExemploPratico/obj/Debug/net8.0/9ExemploPratico.dll
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/9ExemploPratico/obj/Debug/net8.0/refint/9ExemploPratico.dll
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/9ExemploPratico/obj/Debug/net8.0/9ExemploPratico.pdb
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/9ExemploPratico/obj/Debug/net8.0/9ExemploPratico.genruntimeconfig.cache
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/9ExemploPratico/obj/Debug/net8.0/ref/9ExemploPratico.dll

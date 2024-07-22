@@ -28,8 +28,7 @@ public class Cliente
         this.Renda = Renda;
     }
 
-    public Cliente()
-    {}
+    public Cliente() {}
 }
 public class Cadastro
 {

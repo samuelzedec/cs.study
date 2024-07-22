@@ -1,0 +1,15 @@
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/14ParametrosOpcionais/bin/Debug/net8.0/14ParametrosOpcionais
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/14ParametrosOpcionais/bin/Debug/net8.0/14ParametrosOpcionais.deps.json
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/14ParametrosOpcionais/bin/Debug/net8.0/14ParametrosOpcionais.runtimeconfig.json
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/14ParametrosOpcionais/bin/Debug/net8.0/14ParametrosOpcionais.dll
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/14ParametrosOpcionais/bin/Debug/net8.0/14ParametrosOpcionais.pdb
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/14ParametrosOpcionais/obj/Debug/net8.0/14ParametrosOpcionais.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/14ParametrosOpcionais/obj/Debug/net8.0/14ParametrosOpcionais.AssemblyInfoInputs.cache
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/14ParametrosOpcionais/obj/Debug/net8.0/14ParametrosOpcionais.AssemblyInfo.cs
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/14ParametrosOpcionais/obj/Debug/net8.0/14ParametrosOpcionais.csproj.CoreCompileInputs.cache
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/14ParametrosOpcionais/obj/Debug/net8.0/14ParametrosOpcionais.sourcelink.json
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/14ParametrosOpcionais/obj/Debug/net8.0/14ParametrosOpcionais.dll
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/14ParametrosOpcionais/obj/Debug/net8.0/refint/14ParametrosOpcionais.dll
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/14ParametrosOpcionais/obj/Debug/net8.0/14ParametrosOpcionais.pdb
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/14ParametrosOpcionais/obj/Debug/net8.0/14ParametrosOpcionais.genruntimeconfig.cache
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/14ParametrosOpcionais/obj/Debug/net8.0/ref/14ParametrosOpcionais.dll

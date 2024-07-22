@@ -4,13 +4,19 @@
     {
         Console.WriteLine("## Execício ##\n");
 
-        Carro chevrolet = new("Sedan", "Chevrolet", "Onix", 2016, 110);
-        Carro ford = new("SUV", "Ford", "EcoSport", 2018, 120);
+        // Carro chevrolet = new("Sedan", "Chevrolet", "Onix", 2016, 110);
+        // Carro ford = new("SUV", "Ford", "EcoSport", 2018, 120);
+        // chevrolet.Exibir();
+        // chevrolet.Acelerar("Sedan");
+        // ford.Exibir();
 
-        chevrolet.Acelerar("Sedan");
+        int potencia = 500;
+        Carro lamborghini = new("Uracan", "Ford", "Lamborghini", 2022, potencia);
 
-        chevrolet.Exibir();
-        ford.Exibir();
+        lamborghini.Exibir(modelo: lamborghini.Modelo, marca: lamborghini.Marca, montadora: lamborghini.Montadora, potencia: lamborghini.Potencia);
+
+        lamborghini.Exibir(modelo: lamborghini.Modelo, marca: lamborghini.Marca, montadora: lamborghini.Montadora, potencia: lamborghini.Potencia, ano: lamborghini.Ano);
+
     }
 }
 
@@ -51,7 +57,34 @@ public class Carro
         Console.WriteLine($"Potencia: {car.Potencia}\n");
     }
 
+    public void Dados() {
+        Console.WriteLine($"Modelo: {this.Modelo}");
+        Console.WriteLine($"Montadora: {this.Montadora}");
+    }
+
     public void Exibir() {
         Dados(this);
     }
+
+    public int AumentarPotencia(int potencia) {
+        return potencia + 3;
     }
+
+    public void AumentarPotencia(ref int potencia) {
+        potencia += 5;
+    }
+
+    public void AumentarPotenciaVelocidade(ref int potencia, out double velocidade) {
+        velocidade = potencia * 1.75;
+        potencia += 3;
+    }
+
+    public void Exibir(string modelo, string montadora, string marca, int potencia, int ano = 2000) {
+        Console.WriteLine($"Modelo: {modelo}");
+        Console.WriteLine($"Montadora: {montadora}");
+        Console.WriteLine($"Marca: {marca}");
+        Console.WriteLine($"Potencia: {potencia}");
+        Console.WriteLine($"Ano: {ano}\n");
+    }
+
+}
