@@ -1,0 +1,15 @@
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/17ExercicioCampoEstatico/bin/Debug/net8.0/17ExercicioCampoEstatico
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/17ExercicioCampoEstatico/bin/Debug/net8.0/17ExercicioCampoEstatico.deps.json
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/17ExercicioCampoEstatico/bin/Debug/net8.0/17ExercicioCampoEstatico.runtimeconfig.json
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/17ExercicioCampoEstatico/bin/Debug/net8.0/17ExercicioCampoEstatico.dll
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/17ExercicioCampoEstatico/bin/Debug/net8.0/17ExercicioCampoEstatico.pdb
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/17ExercicioCampoEstatico/obj/Debug/net8.0/17ExercicioCampoEstatico.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/17ExercicioCampoEstatico/obj/Debug/net8.0/17ExercicioCampoEstatico.AssemblyInfoInputs.cache
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/17ExercicioCampoEstatico/obj/Debug/net8.0/17ExercicioCampoEstatico.AssemblyInfo.cs
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/17ExercicioCampoEstatico/obj/Debug/net8.0/17ExercicioCampoEstatico.csproj.CoreCompileInputs.cache
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/17ExercicioCampoEstatico/obj/Debug/net8.0/17ExercicioCampoEstatico.sourcelink.json
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/17ExercicioCampoEstatico/obj/Debug/net8.0/17ExercicioCampoEstatico.dll
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/17ExercicioCampoEstatico/obj/Debug/net8.0/refint/17ExercicioCampoEstatico.dll
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/17ExercicioCampoEstatico/obj/Debug/net8.0/17ExercicioCampoEstatico.pdb
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/17ExercicioCampoEstatico/obj/Debug/net8.0/17ExercicioCampoEstatico.genruntimeconfig.cache
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/17ExercicioCampoEstatico/obj/Debug/net8.0/ref/17ExercicioCampoEstatico.dll

@@ -17,6 +17,9 @@
 
         lamborghini.Exibir(modelo: lamborghini.Modelo, marca: lamborghini.Marca, montadora: lamborghini.Montadora, potencia: lamborghini.Potencia, ano: lamborghini.Ano);
 
+        Carro.ObterValorIPVA();
+        Console.WriteLine($"IPVA: {Carro.ValorIpva}");
+
     }
 }
 
@@ -27,6 +30,7 @@ public class Carro
     public string? Marca;
     public int Ano;
     public int Potencia;
+    public static double ValorIpva;
 
     public Carro(string Modelo, string Montadora, string Marca, int Ano, int Potencia) {
         this.Modelo = Modelo;
@@ -85,6 +89,10 @@ public class Carro
         Console.WriteLine($"Marca: {marca}");
         Console.WriteLine($"Potencia: {potencia}");
         Console.WriteLine($"Ano: {ano}\n");
+    }
+
+    public static void ObterValorIPVA() {
+        ValorIpva = 4;
     }
 
 }

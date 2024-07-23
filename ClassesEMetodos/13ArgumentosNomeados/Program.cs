@@ -14,7 +14,8 @@
     }
 }
 
-public class Email() {
+public class Email() 
+{
     public void Exibir(string destino, string titulo, string assunto) {
         Console.WriteLine($"Destino: {destino} \nTitulo: {titulo} \nAssunto: {assunto}");
     }

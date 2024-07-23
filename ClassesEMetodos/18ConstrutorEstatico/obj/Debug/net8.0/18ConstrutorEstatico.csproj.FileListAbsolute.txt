@@ -1,0 +1,15 @@
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/18ConstrutorEstatico/obj/Debug/net8.0/18ConstrutorEstatico.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/18ConstrutorEstatico/obj/Debug/net8.0/18ConstrutorEstatico.AssemblyInfoInputs.cache
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/18ConstrutorEstatico/obj/Debug/net8.0/18ConstrutorEstatico.AssemblyInfo.cs
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/18ConstrutorEstatico/obj/Debug/net8.0/18ConstrutorEstatico.csproj.CoreCompileInputs.cache
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/18ConstrutorEstatico/obj/Debug/net8.0/18ConstrutorEstatico.sourcelink.json
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/18ConstrutorEstatico/bin/Debug/net8.0/18ConstrutorEstatico
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/18ConstrutorEstatico/bin/Debug/net8.0/18ConstrutorEstatico.deps.json
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/18ConstrutorEstatico/bin/Debug/net8.0/18ConstrutorEstatico.runtimeconfig.json
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/18ConstrutorEstatico/bin/Debug/net8.0/18ConstrutorEstatico.dll
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/18ConstrutorEstatico/bin/Debug/net8.0/18ConstrutorEstatico.pdb
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/18ConstrutorEstatico/obj/Debug/net8.0/18ConstrutorEstatico.dll
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/18ConstrutorEstatico/obj/Debug/net8.0/refint/18ConstrutorEstatico.dll
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/18ConstrutorEstatico/obj/Debug/net8.0/18ConstrutorEstatico.pdb
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/18ConstrutorEstatico/obj/Debug/net8.0/18ConstrutorEstatico.genruntimeconfig.cache
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/18ConstrutorEstatico/obj/Debug/net8.0/ref/18ConstrutorEstatico.dll

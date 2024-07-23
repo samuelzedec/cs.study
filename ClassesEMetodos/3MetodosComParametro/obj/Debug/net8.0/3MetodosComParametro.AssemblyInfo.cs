@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("3MetodosComParametro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47d64151b822371a6308603c95e415aef1a2a5e1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fcf999475eff993b466f4cebfa344cf33d661bba")]
 [assembly: System.Reflection.AssemblyProductAttribute("3MetodosComParametro")]
 [assembly: System.Reflection.AssemblyTitleAttribute("3MetodosComParametro")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/16CamposEstaticos/bin/Debug/net8.0/16CamposEstaticos
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/16CamposEstaticos/bin/Debug/net8.0/16CamposEstaticos.deps.json
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/16CamposEstaticos/bin/Debug/net8.0/16CamposEstaticos.runtimeconfig.json
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/16CamposEstaticos/bin/Debug/net8.0/16CamposEstaticos.dll
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/16CamposEstaticos/bin/Debug/net8.0/16CamposEstaticos.pdb
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/16CamposEstaticos/obj/Debug/net8.0/16CamposEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/16CamposEstaticos/obj/Debug/net8.0/16CamposEstaticos.AssemblyInfoInputs.cache
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/16CamposEstaticos/obj/Debug/net8.0/16CamposEstaticos.AssemblyInfo.cs
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/16CamposEstaticos/obj/Debug/net8.0/16CamposEstaticos.csproj.CoreCompileInputs.cache
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/16CamposEstaticos/obj/Debug/net8.0/16CamposEstaticos.sourcelink.json
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/16CamposEstaticos/obj/Debug/net8.0/16CamposEstaticos.dll
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/16CamposEstaticos/obj/Debug/net8.0/refint/16CamposEstaticos.dll
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/16CamposEstaticos/obj/Debug/net8.0/16CamposEstaticos.pdb
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/16CamposEstaticos/obj/Debug/net8.0/16CamposEstaticos.genruntimeconfig.cache
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/16CamposEstaticos/obj/Debug/net8.0/ref/16CamposEstaticos.dll
