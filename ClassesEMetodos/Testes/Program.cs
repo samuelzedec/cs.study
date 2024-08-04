@@ -1,12 +1,17 @@
-﻿Console.WriteLine("## Meus Testes em c# ##\n");
-var testes = new Testes();
+﻿Console.WriteLine("Teste de fatorial");
 
-double quebrado = testes.incrementar(out int valor);
-Console.WriteLine($"{valor} | {quebrado}");
+Console.WriteLine($"fatorial de 0: {Fatorial.FatorialTeste(0)}");
+Fatorial.Hello();
 
-public class Testes {
-    public double incrementar(out int pixel) {
-        pixel = 1 + 1;
-        return 3.5;
+public class Fatorial
+{
+    public static int FatorialTeste(int n)
+    {
+        if(n == 1 || n == 0)
+            return 1;
+
+        return n * FatorialTeste(n - 1);
     }
+
+    public static void Hello() => Console.WriteLine("Hello, World!");
 }

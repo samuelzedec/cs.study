@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{4E734DF0-BE90-4715-A943-92531DFA2095}|Default">
+  <MonoDevelop.Ide.ItemProperties.teste PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EX3/Metodos.cs">
+    <Files>
+      <File FileName="EX3/Program.cs" Line="7" Column="1" />
+      <File FileName="EX3/EmptyClass.cs" Line="18" Column="1" />
+      <File FileName="EX3/Menu.cs" Line="23" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Praticas" expanded="True">
+            <Node name="EX3">
+              <Node name="Metodos.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.EX3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.EX1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.EX2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

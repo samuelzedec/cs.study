@@ -1,0 +1,15 @@
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/25PartialClass/bin/Debug/net8.0/25PartialClass
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/25PartialClass/bin/Debug/net8.0/25PartialClass.deps.json
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/25PartialClass/bin/Debug/net8.0/25PartialClass.runtimeconfig.json
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/25PartialClass/bin/Debug/net8.0/25PartialClass.dll
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/25PartialClass/bin/Debug/net8.0/25PartialClass.pdb
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/25PartialClass/obj/Debug/net8.0/25PartialClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/25PartialClass/obj/Debug/net8.0/25PartialClass.AssemblyInfoInputs.cache
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/25PartialClass/obj/Debug/net8.0/25PartialClass.AssemblyInfo.cs
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/25PartialClass/obj/Debug/net8.0/25PartialClass.csproj.CoreCompileInputs.cache
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/25PartialClass/obj/Debug/net8.0/25PartialClass.sourcelink.json
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/25PartialClass/obj/Debug/net8.0/25PartialClass.dll
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/25PartialClass/obj/Debug/net8.0/refint/25PartialClass.dll
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/25PartialClass/obj/Debug/net8.0/25PartialClass.pdb
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/25PartialClass/obj/Debug/net8.0/25PartialClass.genruntimeconfig.cache
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/25PartialClass/obj/Debug/net8.0/ref/25PartialClass.dll

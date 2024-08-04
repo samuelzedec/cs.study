@@ -1,0 +1,15 @@
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/22ModificadoresAcesso/bin/Debug/net8.0/22ModificadoresAcesso
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/22ModificadoresAcesso/bin/Debug/net8.0/22ModificadoresAcesso.deps.json
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/22ModificadoresAcesso/bin/Debug/net8.0/22ModificadoresAcesso.runtimeconfig.json
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/22ModificadoresAcesso/bin/Debug/net8.0/22ModificadoresAcesso.dll
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/22ModificadoresAcesso/bin/Debug/net8.0/22ModificadoresAcesso.pdb
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/22ModificadoresAcesso/obj/Debug/net8.0/22ModificadoresAcesso.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/22ModificadoresAcesso/obj/Debug/net8.0/22ModificadoresAcesso.AssemblyInfoInputs.cache
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/22ModificadoresAcesso/obj/Debug/net8.0/22ModificadoresAcesso.AssemblyInfo.cs
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/22ModificadoresAcesso/obj/Debug/net8.0/22ModificadoresAcesso.csproj.CoreCompileInputs.cache
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/22ModificadoresAcesso/obj/Debug/net8.0/22ModificadoresAcesso.sourcelink.json
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/22ModificadoresAcesso/obj/Debug/net8.0/22ModificadoresAcesso.dll
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/22ModificadoresAcesso/obj/Debug/net8.0/refint/22ModificadoresAcesso.dll
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/22ModificadoresAcesso/obj/Debug/net8.0/22ModificadoresAcesso.pdb
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/22ModificadoresAcesso/obj/Debug/net8.0/22ModificadoresAcesso.genruntimeconfig.cache
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/22ModificadoresAcesso/obj/Debug/net8.0/ref/22ModificadoresAcesso.dll

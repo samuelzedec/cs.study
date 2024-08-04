@@ -22,7 +22,8 @@ public class Cliente
     public int Idade;
     public decimal Renda;
 
-    public Cliente(string Nome, int Idade, decimal Renda) {
+    public Cliente(string Nome, int Idade, decimal Renda)
+    {
         this.Nome = Nome;
         this.Idade = Idade;
         this.Renda = Renda;
@@ -32,21 +33,25 @@ public class Cliente
 }
 public class Cadastro
 {
-    public Cliente Registar() {
+    public Cliente Registar()
+    {
         Cliente cliente = new("Maria", 23, 3000);
         return cliente;
     }
 
-    public Cliente Registar(Cliente cliente) {
+    public Cliente Registar(Cliente cliente)
+    {
         cliente.Renda = 3500.00m;
         return cliente;
     }
 
-    public void ExibirDados(Cliente cliente) {
+    public void ExibirDados(Cliente cliente)
+    {
         Console.WriteLine($"{cliente.Nome} {cliente.Idade} {cliente.Renda.ToString("c")}");
     }
 
-    public void ExibirDados(string texto, Cliente cliente) {
+    public void ExibirDados(string texto, Cliente cliente)
+    {
         Console.Write($"\n{texto}\t");
         Console.WriteLine($"{cliente.Nome} {cliente.Renda.ToString("c")}");
     }

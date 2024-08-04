@@ -1,0 +1,15 @@
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/20Struct/bin/Debug/net8.0/20Struct
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/20Struct/bin/Debug/net8.0/20Struct.deps.json
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/20Struct/bin/Debug/net8.0/20Struct.runtimeconfig.json
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/20Struct/bin/Debug/net8.0/20Struct.dll
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/20Struct/bin/Debug/net8.0/20Struct.pdb
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/20Struct/obj/Debug/net8.0/20Struct.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/20Struct/obj/Debug/net8.0/20Struct.AssemblyInfoInputs.cache
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/20Struct/obj/Debug/net8.0/20Struct.AssemblyInfo.cs
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/20Struct/obj/Debug/net8.0/20Struct.csproj.CoreCompileInputs.cache
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/20Struct/obj/Debug/net8.0/20Struct.sourcelink.json
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/20Struct/obj/Debug/net8.0/20Struct.dll
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/20Struct/obj/Debug/net8.0/refint/20Struct.dll
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/20Struct/obj/Debug/net8.0/20Struct.pdb
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/20Struct/obj/Debug/net8.0/20Struct.genruntimeconfig.cache
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/20Struct/obj/Debug/net8.0/ref/20Struct.dll

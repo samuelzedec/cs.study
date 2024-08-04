@@ -1,29 +1,37 @@
-﻿<Properties StartupConfiguration="{2CB9EC92-82A1-410C-9AF7-5E0185050734}|Default">
-  <MonoDevelop.Ide.ItemProperties.18ConstrutorEstatico PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.1Classes PreferredExecutionTarget="MonoDevelop.Default" />
+﻿<Properties StartupConfiguration="{EBAA6A69-1C9D-4207-A557-31351569FEAE}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="18ConstrutorEstatico/Pessoa.cs">
+  <MonoDevelop.Ide.ItemProperties.25PartialClass PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Testes PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.18ConstrutorEstatico PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.20Struct PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.22ModificadoresAcesso PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.01Classes PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.19Propriedade PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.24TiposAnonimos PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.21Enum PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.23TryCatch PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Propriedade/Produto.cs">
     <Files>
-      <File FileName="18ConstrutorEstatico/Program.cs" Line="15" Column="2" />
-      <File FileName="18ConstrutorEstatico/Pessoa.cs" Line="23" Column="1" />
+      <File FileName="20Struct/Cliente.cs" />
+      <File FileName="25PartialClass/Program.cs" Line="22" Column="2" />
+      <File FileName="Propriedade/Program.cs" Line="1" Column="1" />
+      <File FileName="Propriedade/Produto.cs" Line="22" Column="14" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="ClassesEMetodos">
-            <Node name="18ConstrutorEstatico" selected="True">
-              <Node name="Dependencies" expanded="True">
-                <Node name="FrameworkReferences" expanded="True" />
-              </Node>
+          <Node name="ClassesEMetodos" expanded="True">
+            <Node name="19Propriedade" expanded="True">
+              <Node name="Produto.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>

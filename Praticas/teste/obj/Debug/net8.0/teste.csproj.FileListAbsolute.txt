@@ -1,0 +1,15 @@
+/Users/samuelzedec/Documents/cs.study/Praticas/teste/bin/Debug/net8.0/teste
+/Users/samuelzedec/Documents/cs.study/Praticas/teste/bin/Debug/net8.0/teste.deps.json
+/Users/samuelzedec/Documents/cs.study/Praticas/teste/bin/Debug/net8.0/teste.runtimeconfig.json
+/Users/samuelzedec/Documents/cs.study/Praticas/teste/bin/Debug/net8.0/teste.dll
+/Users/samuelzedec/Documents/cs.study/Praticas/teste/bin/Debug/net8.0/teste.pdb
+/Users/samuelzedec/Documents/cs.study/Praticas/teste/obj/Debug/net8.0/teste.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelzedec/Documents/cs.study/Praticas/teste/obj/Debug/net8.0/teste.AssemblyInfoInputs.cache
+/Users/samuelzedec/Documents/cs.study/Praticas/teste/obj/Debug/net8.0/teste.AssemblyInfo.cs
+/Users/samuelzedec/Documents/cs.study/Praticas/teste/obj/Debug/net8.0/teste.csproj.CoreCompileInputs.cache
+/Users/samuelzedec/Documents/cs.study/Praticas/teste/obj/Debug/net8.0/teste.sourcelink.json
+/Users/samuelzedec/Documents/cs.study/Praticas/teste/obj/Debug/net8.0/teste.dll
+/Users/samuelzedec/Documents/cs.study/Praticas/teste/obj/Debug/net8.0/refint/teste.dll
+/Users/samuelzedec/Documents/cs.study/Praticas/teste/obj/Debug/net8.0/teste.pdb
+/Users/samuelzedec/Documents/cs.study/Praticas/teste/obj/Debug/net8.0/teste.genruntimeconfig.cache
+/Users/samuelzedec/Documents/cs.study/Praticas/teste/obj/Debug/net8.0/ref/teste.dll

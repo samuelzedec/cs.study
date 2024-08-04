@@ -1,0 +1,15 @@
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/Propriedade/obj/Debug/net8.0/19Propriedade.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/Propriedade/obj/Debug/net8.0/19Propriedade.AssemblyInfoInputs.cache
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/Propriedade/obj/Debug/net8.0/19Propriedade.AssemblyInfo.cs
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/Propriedade/obj/Debug/net8.0/19Propriedade.csproj.CoreCompileInputs.cache
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/Propriedade/obj/Debug/net8.0/19Propriedade.sourcelink.json
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/Propriedade/bin/Debug/net8.0/19Propriedade
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/Propriedade/bin/Debug/net8.0/19Propriedade.deps.json
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/Propriedade/bin/Debug/net8.0/19Propriedade.runtimeconfig.json
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/Propriedade/bin/Debug/net8.0/19Propriedade.dll
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/Propriedade/bin/Debug/net8.0/19Propriedade.pdb
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/Propriedade/obj/Debug/net8.0/19Propriedade.dll
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/Propriedade/obj/Debug/net8.0/refint/19Propriedade.dll
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/Propriedade/obj/Debug/net8.0/19Propriedade.pdb
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/Propriedade/obj/Debug/net8.0/19Propriedade.genruntimeconfig.cache
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/Propriedade/obj/Debug/net8.0/ref/19Propriedade.dll

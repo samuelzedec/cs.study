@@ -1,0 +1,15 @@
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/23TryCatch/bin/Debug/net8.0/23TryCatch
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/23TryCatch/bin/Debug/net8.0/23TryCatch.deps.json
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/23TryCatch/bin/Debug/net8.0/23TryCatch.runtimeconfig.json
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/23TryCatch/bin/Debug/net8.0/23TryCatch.dll
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/23TryCatch/bin/Debug/net8.0/23TryCatch.pdb
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/23TryCatch/obj/Debug/net8.0/23TryCatch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/23TryCatch/obj/Debug/net8.0/23TryCatch.AssemblyInfoInputs.cache
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/23TryCatch/obj/Debug/net8.0/23TryCatch.AssemblyInfo.cs
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/23TryCatch/obj/Debug/net8.0/23TryCatch.csproj.CoreCompileInputs.cache
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/23TryCatch/obj/Debug/net8.0/23TryCatch.sourcelink.json
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/23TryCatch/obj/Debug/net8.0/23TryCatch.dll
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/23TryCatch/obj/Debug/net8.0/refint/23TryCatch.dll
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/23TryCatch/obj/Debug/net8.0/23TryCatch.pdb
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/23TryCatch/obj/Debug/net8.0/23TryCatch.genruntimeconfig.cache
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/23TryCatch/obj/Debug/net8.0/ref/23TryCatch.dll

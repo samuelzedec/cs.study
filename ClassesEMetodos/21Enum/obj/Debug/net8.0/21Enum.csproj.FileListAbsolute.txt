@@ -1,0 +1,15 @@
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/21Enum/bin/Debug/net8.0/21Enum
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/21Enum/bin/Debug/net8.0/21Enum.deps.json
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/21Enum/bin/Debug/net8.0/21Enum.runtimeconfig.json
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/21Enum/bin/Debug/net8.0/21Enum.dll
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/21Enum/bin/Debug/net8.0/21Enum.pdb
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/21Enum/obj/Debug/net8.0/21Enum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/21Enum/obj/Debug/net8.0/21Enum.AssemblyInfoInputs.cache
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/21Enum/obj/Debug/net8.0/21Enum.AssemblyInfo.cs
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/21Enum/obj/Debug/net8.0/21Enum.csproj.CoreCompileInputs.cache
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/21Enum/obj/Debug/net8.0/21Enum.sourcelink.json
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/21Enum/obj/Debug/net8.0/21Enum.dll
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/21Enum/obj/Debug/net8.0/refint/21Enum.dll
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/21Enum/obj/Debug/net8.0/21Enum.pdb
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/21Enum/obj/Debug/net8.0/21Enum.genruntimeconfig.cache
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/21Enum/obj/Debug/net8.0/ref/21Enum.dll

@@ -1,0 +1,15 @@
+/Users/samuelzedec/Documents/cs.study/Praticas/EX3/bin/Debug/net8.0/EX3
+/Users/samuelzedec/Documents/cs.study/Praticas/EX3/bin/Debug/net8.0/EX3.deps.json
+/Users/samuelzedec/Documents/cs.study/Praticas/EX3/bin/Debug/net8.0/EX3.runtimeconfig.json
+/Users/samuelzedec/Documents/cs.study/Praticas/EX3/bin/Debug/net8.0/EX3.dll
+/Users/samuelzedec/Documents/cs.study/Praticas/EX3/bin/Debug/net8.0/EX3.pdb
+/Users/samuelzedec/Documents/cs.study/Praticas/EX3/obj/Debug/net8.0/EX3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelzedec/Documents/cs.study/Praticas/EX3/obj/Debug/net8.0/EX3.AssemblyInfoInputs.cache
+/Users/samuelzedec/Documents/cs.study/Praticas/EX3/obj/Debug/net8.0/EX3.AssemblyInfo.cs
+/Users/samuelzedec/Documents/cs.study/Praticas/EX3/obj/Debug/net8.0/EX3.csproj.CoreCompileInputs.cache
+/Users/samuelzedec/Documents/cs.study/Praticas/EX3/obj/Debug/net8.0/EX3.sourcelink.json
+/Users/samuelzedec/Documents/cs.study/Praticas/EX3/obj/Debug/net8.0/EX3.dll
+/Users/samuelzedec/Documents/cs.study/Praticas/EX3/obj/Debug/net8.0/refint/EX3.dll
+/Users/samuelzedec/Documents/cs.study/Praticas/EX3/obj/Debug/net8.0/EX3.pdb
+/Users/samuelzedec/Documents/cs.study/Praticas/EX3/obj/Debug/net8.0/EX3.genruntimeconfig.cache
+/Users/samuelzedec/Documents/cs.study/Praticas/EX3/obj/Debug/net8.0/ref/EX3.dll

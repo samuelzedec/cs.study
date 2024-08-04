@@ -1,0 +1,15 @@
+/Users/samuelzedec/Documents/cs.study/Praticas/EX2/bin/Debug/net8.0/EX2
+/Users/samuelzedec/Documents/cs.study/Praticas/EX2/bin/Debug/net8.0/EX2.deps.json
+/Users/samuelzedec/Documents/cs.study/Praticas/EX2/bin/Debug/net8.0/EX2.runtimeconfig.json
+/Users/samuelzedec/Documents/cs.study/Praticas/EX2/bin/Debug/net8.0/EX2.dll
+/Users/samuelzedec/Documents/cs.study/Praticas/EX2/bin/Debug/net8.0/EX2.pdb
+/Users/samuelzedec/Documents/cs.study/Praticas/EX2/obj/Debug/net8.0/EX2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelzedec/Documents/cs.study/Praticas/EX2/obj/Debug/net8.0/EX2.AssemblyInfoInputs.cache
+/Users/samuelzedec/Documents/cs.study/Praticas/EX2/obj/Debug/net8.0/EX2.AssemblyInfo.cs
+/Users/samuelzedec/Documents/cs.study/Praticas/EX2/obj/Debug/net8.0/EX2.csproj.CoreCompileInputs.cache
+/Users/samuelzedec/Documents/cs.study/Praticas/EX2/obj/Debug/net8.0/EX2.sourcelink.json
+/Users/samuelzedec/Documents/cs.study/Praticas/EX2/obj/Debug/net8.0/EX2.dll
+/Users/samuelzedec/Documents/cs.study/Praticas/EX2/obj/Debug/net8.0/refint/EX2.dll
+/Users/samuelzedec/Documents/cs.study/Praticas/EX2/obj/Debug/net8.0/EX2.pdb
+/Users/samuelzedec/Documents/cs.study/Praticas/EX2/obj/Debug/net8.0/EX2.genruntimeconfig.cache
+/Users/samuelzedec/Documents/cs.study/Praticas/EX2/obj/Debug/net8.0/ref/EX2.dll

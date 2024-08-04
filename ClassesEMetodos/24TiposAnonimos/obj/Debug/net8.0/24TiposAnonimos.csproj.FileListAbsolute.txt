@@ -1,0 +1,15 @@
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/24TiposAnonimos/bin/Debug/net8.0/24TiposAnonimos
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/24TiposAnonimos/bin/Debug/net8.0/24TiposAnonimos.deps.json
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/24TiposAnonimos/bin/Debug/net8.0/24TiposAnonimos.runtimeconfig.json
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/24TiposAnonimos/bin/Debug/net8.0/24TiposAnonimos.dll
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/24TiposAnonimos/bin/Debug/net8.0/24TiposAnonimos.pdb
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/24TiposAnonimos/obj/Debug/net8.0/24TiposAnonimos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/24TiposAnonimos/obj/Debug/net8.0/24TiposAnonimos.AssemblyInfoInputs.cache
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/24TiposAnonimos/obj/Debug/net8.0/24TiposAnonimos.AssemblyInfo.cs
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/24TiposAnonimos/obj/Debug/net8.0/24TiposAnonimos.csproj.CoreCompileInputs.cache
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/24TiposAnonimos/obj/Debug/net8.0/24TiposAnonimos.sourcelink.json
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/24TiposAnonimos/obj/Debug/net8.0/24TiposAnonimos.dll
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/24TiposAnonimos/obj/Debug/net8.0/refint/24TiposAnonimos.dll
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/24TiposAnonimos/obj/Debug/net8.0/24TiposAnonimos.pdb
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/24TiposAnonimos/obj/Debug/net8.0/24TiposAnonimos.genruntimeconfig.cache
+/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/24TiposAnonimos/obj/Debug/net8.0/ref/24TiposAnonimos.dll

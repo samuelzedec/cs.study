@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/6This/6This.csproj",
-      "projectName": "6This",
-      "projectPath": "/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/6This/6This.csproj",
+      "projectUniqueName": "/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/6This/06This.csproj",
+      "projectName": "06This",
+      "projectPath": "/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/6This/06This.csproj",
       "packagesPath": "/Users/samuelzedec/.nuget/packages/",
       "outputPath": "/Users/samuelzedec/Documents/cs.study/ClassesEMetodos/6This/obj/",
       "projectStyle": "PackageReference",
@@ -39,11 +39,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
