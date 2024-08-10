@@ -1,30 +1,33 @@
-﻿<Properties StartupConfiguration="{4E734DF0-BE90-4715-A943-92531DFA2095}|Default">
-  <MonoDevelop.Ide.ItemProperties.teste PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="EX3/Metodos.cs">
+﻿<Properties StartupConfiguration="{442E40AA-0790-4165-BAE0-7F6F382A277B}|Default">
+  <MonoDevelop.Ide.ItemProperties.EX4 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EX4/Entities/DatabaseTask.cs">
     <Files>
-      <File FileName="EX3/Program.cs" Line="7" Column="1" />
-      <File FileName="EX3/EmptyClass.cs" Line="18" Column="1" />
-      <File FileName="EX3/Menu.cs" Line="23" Column="33" />
+      <File FileName="EX4/Entities/MenuInicial.cs" Line="1" Column="1" />
+      <File FileName="EX4/Entities/TaskMenu.cs" Line="1" Column="1" />
+      <File FileName="EX4/Entities/DatabaseTask.cs" Line="10" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Praticas" expanded="True">
-            <Node name="EX3">
-              <Node name="Metodos.cs" selected="True" />
+            <Node name="EX4" expanded="True">
+              <Node name="Entities" expanded="True">
+                <Node name="DatabaseTask.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.EX3 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.EX1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.EX1 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.teste PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.EX2 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.EX3 PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
