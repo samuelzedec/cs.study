@@ -144,7 +144,7 @@ public partial class Database
         {
             Console.WriteLine("Deseja marca como concluida a task: \n");
 
-            Console.WriteLine($"\nTask: {listaTask[i].Task}");
+            Console.WriteLine($"Task: {listaTask[i].Task}");
             Console.WriteLine($"Data criada: {listaTask[i].Criado.ToLongDateString()}");
             Console.WriteLine($"Entrega: {listaTask[i].Entrega.ToLongDateString()}");
             Console.WriteLine($"Prioridade: {listaTask[i].Prioridade}");
@@ -194,7 +194,7 @@ public partial class Database
         if(i >= 0)
         {
             Console.WriteLine($"\nTask: {listaTask[i].Task}");
-            Console.WriteLine("\nDevs envolvido na task: ");
+            Console.WriteLine("Devs envolvido na task: ");
 
             var equipe = listaTask[i].equipe;
             foreach (var dev in equipe)
@@ -205,7 +205,7 @@ public partial class Database
             int id;
             try
             {
-                Console.Write("Informe o ID do Dev que deseja remover da task: ");
+                Console.Write("\nInforme o ID do Dev que deseja remover da task: ");
                 id = Convert.ToInt32(Console.ReadLine());
             } catch
             {
@@ -238,7 +238,7 @@ public partial class Database
 
         try
         {
-            Console.WriteLine("Informe o código da task: ");
+            Console.Write("Informe o código da task: ");
             code = Convert.ToInt32(Console.ReadLine());
         } catch
         {
