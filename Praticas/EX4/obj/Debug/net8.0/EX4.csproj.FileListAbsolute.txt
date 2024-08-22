@@ -13,3 +13,18 @@
 /Users/samuelzedec/Documents/cs.study/Praticas/EX4/obj/Debug/net8.0/EX4.pdb
 /Users/samuelzedec/Documents/cs.study/Praticas/EX4/obj/Debug/net8.0/EX4.genruntimeconfig.cache
 /Users/samuelzedec/Documents/cs.study/Praticas/EX4/obj/Debug/net8.0/ref/EX4.dll
+C:\Users\Samuel Zedec\Documents\cs.study\Praticas\EX4\bin\Debug\net8.0\EX4.exe
+C:\Users\Samuel Zedec\Documents\cs.study\Praticas\EX4\bin\Debug\net8.0\EX4.deps.json
+C:\Users\Samuel Zedec\Documents\cs.study\Praticas\EX4\bin\Debug\net8.0\EX4.runtimeconfig.json
+C:\Users\Samuel Zedec\Documents\cs.study\Praticas\EX4\bin\Debug\net8.0\EX4.dll
+C:\Users\Samuel Zedec\Documents\cs.study\Praticas\EX4\bin\Debug\net8.0\EX4.pdb
+C:\Users\Samuel Zedec\Documents\cs.study\Praticas\EX4\obj\Debug\net8.0\EX4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\Documents\cs.study\Praticas\EX4\obj\Debug\net8.0\EX4.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\Documents\cs.study\Praticas\EX4\obj\Debug\net8.0\EX4.AssemblyInfo.cs
+C:\Users\Samuel Zedec\Documents\cs.study\Praticas\EX4\obj\Debug\net8.0\EX4.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\Documents\cs.study\Praticas\EX4\obj\Debug\net8.0\EX4.sourcelink.json
+C:\Users\Samuel Zedec\Documents\cs.study\Praticas\EX4\obj\Debug\net8.0\EX4.dll
+C:\Users\Samuel Zedec\Documents\cs.study\Praticas\EX4\obj\Debug\net8.0\refint\EX4.dll
+C:\Users\Samuel Zedec\Documents\cs.study\Praticas\EX4\obj\Debug\net8.0\EX4.pdb
+C:\Users\Samuel Zedec\Documents\cs.study\Praticas\EX4\obj\Debug\net8.0\EX4.genruntimeconfig.cache
+C:\Users\Samuel Zedec\Documents\cs.study\Praticas\EX4\obj\Debug\net8.0\ref\EX4.dll
