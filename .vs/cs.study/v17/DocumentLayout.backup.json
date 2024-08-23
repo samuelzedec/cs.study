@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Samuel Zedec\\Documents\\cs.study\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Samuel Zedec\\Documents\\cs.study\\CSFundamentos1\\ConversaoTipos2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSFundamentos1\\ConversaoTipos2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Samuel Zedec\\Documents\\cs.study\\Praticas\\EX4\\Entities\\DatabaseTask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Praticas\\EX4\\Entities\\DatabaseTask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -27,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Samuel Zedec\\Documents\\cs.study\\CSFundamentos1\\ConversaoTipos2\\Program.cs",
+              "RelativeDocumentMoniker": "CSFundamentos1\\ConversaoTipos2\\Program.cs",
+              "ToolTip": "C:\\Users\\Samuel Zedec\\Documents\\cs.study\\CSFundamentos1\\ConversaoTipos2\\Program.cs",
+              "RelativeToolTip": "CSFundamentos1\\ConversaoTipos2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T19:03:57.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "DatabaseTask.cs",
               "DocumentMoniker": "C:\\Users\\Samuel Zedec\\Documents\\cs.study\\Praticas\\EX4\\Entities\\DatabaseTask.cs",
               "RelativeDocumentMoniker": "Praticas\\EX4\\Entities\\DatabaseTask.cs",
@@ -34,8 +51,7 @@
               "RelativeToolTip": "Praticas\\EX4\\Entities\\DatabaseTask.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAAABkAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T17:57:18.217Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-22T17:57:18.217Z"
             }
           ]
         }
