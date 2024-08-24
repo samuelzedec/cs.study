@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\05_ArraysMultidimensionais\bin\Debug\net8.0\05_ArraysMultidimensionais.exe
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\05_ArraysMultidimensionais\bin\Debug\net8.0\05_ArraysMultidimensionais.deps.json
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\05_ArraysMultidimensionais\bin\Debug\net8.0\05_ArraysMultidimensionais.runtimeconfig.json
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\05_ArraysMultidimensionais\bin\Debug\net8.0\05_ArraysMultidimensionais.dll
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\05_ArraysMultidimensionais\bin\Debug\net8.0\05_ArraysMultidimensionais.pdb
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\05_ArraysMultidimensionais\obj\Debug\net8.0\05_ArraysMultidimensionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\05_ArraysMultidimensionais\obj\Debug\net8.0\05_ArraysMultidimensionais.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\05_ArraysMultidimensionais\obj\Debug\net8.0\05_ArraysMultidimensionais.AssemblyInfo.cs
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\05_ArraysMultidimensionais\obj\Debug\net8.0\05_ArraysMultidimensionais.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\05_ArraysMultidimensionais\obj\Debug\net8.0\05_ArraysMultidimensionais.sourcelink.json
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\05_ArraysMultidimensionais\obj\Debug\net8.0\05_ArraysMultidimensionais.dll
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\05_ArraysMultidimensionais\obj\Debug\net8.0\refint\05_ArraysMultidimensionais.dll
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\05_ArraysMultidimensionais\obj\Debug\net8.0\05_ArraysMultidimensionais.pdb
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\05_ArraysMultidimensionais\obj\Debug\net8.0\05_ArraysMultidimensionais.genruntimeconfig.cache
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\05_ArraysMultidimensionais\obj\Debug\net8.0\ref\05_ArraysMultidimensionais.dll

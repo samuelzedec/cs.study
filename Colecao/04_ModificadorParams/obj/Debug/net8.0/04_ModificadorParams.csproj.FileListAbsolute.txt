@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\04_ModificadorParams\bin\Debug\net8.0\04_ModificadorParams.exe
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\04_ModificadorParams\bin\Debug\net8.0\04_ModificadorParams.deps.json
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\04_ModificadorParams\bin\Debug\net8.0\04_ModificadorParams.runtimeconfig.json
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\04_ModificadorParams\bin\Debug\net8.0\04_ModificadorParams.dll
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\04_ModificadorParams\bin\Debug\net8.0\04_ModificadorParams.pdb
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\04_ModificadorParams\obj\Debug\net8.0\04_ModificadorParams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\04_ModificadorParams\obj\Debug\net8.0\04_ModificadorParams.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\04_ModificadorParams\obj\Debug\net8.0\04_ModificadorParams.AssemblyInfo.cs
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\04_ModificadorParams\obj\Debug\net8.0\04_ModificadorParams.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\04_ModificadorParams\obj\Debug\net8.0\04_ModificadorParams.sourcelink.json
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\04_ModificadorParams\obj\Debug\net8.0\04_ModificadorParams.dll
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\04_ModificadorParams\obj\Debug\net8.0\refint\04_ModificadorParams.dll
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\04_ModificadorParams\obj\Debug\net8.0\04_ModificadorParams.pdb
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\04_ModificadorParams\obj\Debug\net8.0\04_ModificadorParams.genruntimeconfig.cache
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\04_ModificadorParams\obj\Debug\net8.0\ref\04_ModificadorParams.dll
