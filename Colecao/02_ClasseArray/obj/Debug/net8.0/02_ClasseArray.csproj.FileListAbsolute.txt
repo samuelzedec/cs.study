@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\02_ClasseArray\bin\Debug\net8.0\02_ClasseArray.exe
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\02_ClasseArray\bin\Debug\net8.0\02_ClasseArray.deps.json
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\02_ClasseArray\bin\Debug\net8.0\02_ClasseArray.runtimeconfig.json
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\02_ClasseArray\bin\Debug\net8.0\02_ClasseArray.dll
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\02_ClasseArray\bin\Debug\net8.0\02_ClasseArray.pdb
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\02_ClasseArray\obj\Debug\net8.0\02_ClasseArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\02_ClasseArray\obj\Debug\net8.0\02_ClasseArray.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\02_ClasseArray\obj\Debug\net8.0\02_ClasseArray.AssemblyInfo.cs
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\02_ClasseArray\obj\Debug\net8.0\02_ClasseArray.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\02_ClasseArray\obj\Debug\net8.0\02_ClasseArray.sourcelink.json
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\02_ClasseArray\obj\Debug\net8.0\02_ClasseArray.dll
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\02_ClasseArray\obj\Debug\net8.0\refint\02_ClasseArray.dll
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\02_ClasseArray\obj\Debug\net8.0\02_ClasseArray.pdb
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\02_ClasseArray\obj\Debug\net8.0\02_ClasseArray.genruntimeconfig.cache
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\02_ClasseArray\obj\Debug\net8.0\ref\02_ClasseArray.dll

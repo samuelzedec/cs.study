@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\03_Exercicio\bin\Debug\net8.0\03_Exercicio.exe
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\03_Exercicio\bin\Debug\net8.0\03_Exercicio.deps.json
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\03_Exercicio\bin\Debug\net8.0\03_Exercicio.runtimeconfig.json
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\03_Exercicio\bin\Debug\net8.0\03_Exercicio.dll
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\03_Exercicio\bin\Debug\net8.0\03_Exercicio.pdb
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\03_Exercicio\obj\Debug\net8.0\03_Exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\03_Exercicio\obj\Debug\net8.0\03_Exercicio.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\03_Exercicio\obj\Debug\net8.0\03_Exercicio.AssemblyInfo.cs
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\03_Exercicio\obj\Debug\net8.0\03_Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\03_Exercicio\obj\Debug\net8.0\03_Exercicio.sourcelink.json
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\03_Exercicio\obj\Debug\net8.0\03_Exercicio.dll
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\03_Exercicio\obj\Debug\net8.0\refint\03_Exercicio.dll
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\03_Exercicio\obj\Debug\net8.0\03_Exercicio.pdb
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\03_Exercicio\obj\Debug\net8.0\03_Exercicio.genruntimeconfig.cache
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\03_Exercicio\obj\Debug\net8.0\ref\03_Exercicio.dll
