@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\12_Indexadores\bin\Debug\net8.0\12_Indexadores.exe
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\12_Indexadores\bin\Debug\net8.0\12_Indexadores.deps.json
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\12_Indexadores\bin\Debug\net8.0\12_Indexadores.runtimeconfig.json
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\12_Indexadores\bin\Debug\net8.0\12_Indexadores.dll
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\12_Indexadores\bin\Debug\net8.0\12_Indexadores.pdb
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\12_Indexadores\obj\Debug\net8.0\12_Indexadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\12_Indexadores\obj\Debug\net8.0\12_Indexadores.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\12_Indexadores\obj\Debug\net8.0\12_Indexadores.AssemblyInfo.cs
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\12_Indexadores\obj\Debug\net8.0\12_Indexadores.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\12_Indexadores\obj\Debug\net8.0\12_Indexadores.sourcelink.json
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\12_Indexadores\obj\Debug\net8.0\12_Indexadores.dll
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\12_Indexadores\obj\Debug\net8.0\refint\12_Indexadores.dll
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\12_Indexadores\obj\Debug\net8.0\12_Indexadores.pdb
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\12_Indexadores\obj\Debug\net8.0\12_Indexadores.genruntimeconfig.cache
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\12_Indexadores\obj\Debug\net8.0\ref\12_Indexadores.dll

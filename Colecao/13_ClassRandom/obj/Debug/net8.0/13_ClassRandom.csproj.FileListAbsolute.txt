@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\13_ClassRandom\bin\Debug\net8.0\13_ClassRandom.exe
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\13_ClassRandom\bin\Debug\net8.0\13_ClassRandom.deps.json
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\13_ClassRandom\bin\Debug\net8.0\13_ClassRandom.runtimeconfig.json
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\13_ClassRandom\bin\Debug\net8.0\13_ClassRandom.dll
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\13_ClassRandom\bin\Debug\net8.0\13_ClassRandom.pdb
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\13_ClassRandom\obj\Debug\net8.0\13_ClassRandom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\13_ClassRandom\obj\Debug\net8.0\13_ClassRandom.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\13_ClassRandom\obj\Debug\net8.0\13_ClassRandom.AssemblyInfo.cs
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\13_ClassRandom\obj\Debug\net8.0\13_ClassRandom.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\13_ClassRandom\obj\Debug\net8.0\13_ClassRandom.sourcelink.json
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\13_ClassRandom\obj\Debug\net8.0\13_ClassRandom.dll
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\13_ClassRandom\obj\Debug\net8.0\refint\13_ClassRandom.dll
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\13_ClassRandom\obj\Debug\net8.0\13_ClassRandom.pdb
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\13_ClassRandom\obj\Debug\net8.0\13_ClassRandom.genruntimeconfig.cache
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\13_ClassRandom\obj\Debug\net8.0\ref\13_ClassRandom.dll

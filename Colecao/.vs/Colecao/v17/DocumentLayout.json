@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Samuel Zedec\\Documents\\cs.study\\Colecao\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4148FA02-ECAE-4726-8034-D36BD8488E0B}|10_ IEnumerable\\10_ IEnumerable.csproj|c:\\users\\samuel zedec\\documents\\cs.study\\colecao\\10_ ienumerable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4148FA02-ECAE-4726-8034-D36BD8488E0B}|10_ IEnumerable\\10_ IEnumerable.csproj|solutionrelative:10_ ienumerable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0FAD53A3-31C1-4B2A-849E-0D38B7A9807D}|09_MetodosFind\\09_MetodosFind.csproj|c:\\users\\samuel zedec\\documents\\cs.study\\colecao\\09_metodosfind\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FAD53A3-31C1-4B2A-849E-0D38B7A9807D}|09_MetodosFind\\09_MetodosFind.csproj|solutionrelative:09_metodosfind\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{270AE367-AE74-462B-97EB-5540B5E35D3F}|08_List\\08_List.csproj|c:\\users\\samuel zedec\\documents\\cs.study\\colecao\\08_list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{270AE367-AE74-462B-97EB-5540B5E35D3F}|08_List\\08_List.csproj|solutionrelative:08_list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A19A178-507C-4A60-9A69-53AF9E15A9C3}|04_ModificadorParams\\04_ModificadorParams.csproj|c:\\users\\samuel zedec\\documents\\cs.study\\colecao\\04_modificadorparams\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A19A178-507C-4A60-9A69-53AF9E15A9C3}|04_ModificadorParams\\04_ModificadorParams.csproj|solutionrelative:04_modificadorparams\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81ED2126-9EF8-44FE-A1D2-D94446824C9B}|13_ClassRandom\\13_ClassRandom.csproj|c:\\users\\samuel zedec\\documents\\cs.study\\colecao\\13_classrandom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81ED2126-9EF8-44FE-A1D2-D94446824C9B}|13_ClassRandom\\13_ClassRandom.csproj|solutionrelative:13_classrandom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,62 +14,27 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Samuel Zedec\\Documents\\cs.study\\Colecao\\10_ IEnumerable\\Program.cs",
-              "RelativeDocumentMoniker": "10_ IEnumerable\\Program.cs",
-              "ToolTip": "C:\\Users\\Samuel Zedec\\Documents\\cs.study\\Colecao\\10_ IEnumerable\\Program.cs",
-              "RelativeToolTip": "10_ IEnumerable\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAANAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Samuel Zedec\\Documents\\cs.study\\Colecao\\13_ClassRandom\\Program.cs",
+              "RelativeDocumentMoniker": "13_ClassRandom\\Program.cs",
+              "ToolTip": "C:\\Users\\Samuel Zedec\\Documents\\cs.study\\Colecao\\13_ClassRandom\\Program.cs",
+              "RelativeToolTip": "13_ClassRandom\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T00:04:21.591Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Samuel Zedec\\Documents\\cs.study\\Colecao\\09_MetodosFind\\Program.cs",
-              "RelativeDocumentMoniker": "09_MetodosFind\\Program.cs",
-              "ToolTip": "C:\\Users\\Samuel Zedec\\Documents\\cs.study\\Colecao\\09_MetodosFind\\Program.cs",
-              "RelativeToolTip": "09_MetodosFind\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T23:41:15.656Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Samuel Zedec\\Documents\\cs.study\\Colecao\\04_ModificadorParams\\Program.cs",
-              "RelativeDocumentMoniker": "04_ModificadorParams\\Program.cs",
-              "ToolTip": "C:\\Users\\Samuel Zedec\\Documents\\cs.study\\Colecao\\04_ModificadorParams\\Program.cs",
-              "RelativeToolTip": "04_ModificadorParams\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T23:31:02.525Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Samuel Zedec\\Documents\\cs.study\\Colecao\\08_List\\Program.cs",
-              "RelativeDocumentMoniker": "08_List\\Program.cs",
-              "ToolTip": "C:\\Users\\Samuel Zedec\\Documents\\cs.study\\Colecao\\08_List\\Program.cs",
-              "RelativeToolTip": "08_List\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T20:22:14.685Z",
+              "WhenOpened": "2024-08-25T16:13:57.281Z",
               "EditorCaption": ""
             }
           ]
