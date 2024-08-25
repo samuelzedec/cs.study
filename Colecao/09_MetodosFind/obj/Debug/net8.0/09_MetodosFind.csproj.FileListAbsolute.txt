@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\09_MetodosFind\bin\Debug\net8.0\09_MetodosFind.exe
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\09_MetodosFind\bin\Debug\net8.0\09_MetodosFind.deps.json
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\09_MetodosFind\bin\Debug\net8.0\09_MetodosFind.runtimeconfig.json
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\09_MetodosFind\bin\Debug\net8.0\09_MetodosFind.dll
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\09_MetodosFind\bin\Debug\net8.0\09_MetodosFind.pdb
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\09_MetodosFind\obj\Debug\net8.0\09_MetodosFind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\09_MetodosFind\obj\Debug\net8.0\09_MetodosFind.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\09_MetodosFind\obj\Debug\net8.0\09_MetodosFind.AssemblyInfo.cs
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\09_MetodosFind\obj\Debug\net8.0\09_MetodosFind.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\09_MetodosFind\obj\Debug\net8.0\09_MetodosFind.sourcelink.json
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\09_MetodosFind\obj\Debug\net8.0\09_MetodosFind.dll
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\09_MetodosFind\obj\Debug\net8.0\refint\09_MetodosFind.dll
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\09_MetodosFind\obj\Debug\net8.0\09_MetodosFind.pdb
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\09_MetodosFind\obj\Debug\net8.0\09_MetodosFind.genruntimeconfig.cache
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\09_MetodosFind\obj\Debug\net8.0\ref\09_MetodosFind.dll

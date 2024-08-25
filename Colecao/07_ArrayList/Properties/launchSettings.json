@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "07_ArrayList": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\08_List\bin\Debug\net8.0\08_List.exe
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\08_List\bin\Debug\net8.0\08_List.deps.json
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\08_List\bin\Debug\net8.0\08_List.runtimeconfig.json
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\08_List\bin\Debug\net8.0\08_List.dll
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\08_List\bin\Debug\net8.0\08_List.pdb
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\08_List\obj\Debug\net8.0\08_List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\08_List\obj\Debug\net8.0\08_List.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\08_List\obj\Debug\net8.0\08_List.AssemblyInfo.cs
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\08_List\obj\Debug\net8.0\08_List.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\08_List\obj\Debug\net8.0\08_List.sourcelink.json
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\08_List\obj\Debug\net8.0\08_List.dll
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\08_List\obj\Debug\net8.0\refint\08_List.dll
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\08_List\obj\Debug\net8.0\08_List.pdb
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\08_List\obj\Debug\net8.0\08_List.genruntimeconfig.cache
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\08_List\obj\Debug\net8.0\ref\08_List.dll

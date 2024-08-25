@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\07_ArrayList\bin\Debug\net8.0\07_ArrayList.exe
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\07_ArrayList\bin\Debug\net8.0\07_ArrayList.deps.json
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\07_ArrayList\bin\Debug\net8.0\07_ArrayList.runtimeconfig.json
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\07_ArrayList\bin\Debug\net8.0\07_ArrayList.dll
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\07_ArrayList\bin\Debug\net8.0\07_ArrayList.pdb
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\07_ArrayList\obj\Debug\net8.0\07_ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\07_ArrayList\obj\Debug\net8.0\07_ArrayList.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\07_ArrayList\obj\Debug\net8.0\07_ArrayList.AssemblyInfo.cs
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\07_ArrayList\obj\Debug\net8.0\07_ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\07_ArrayList\obj\Debug\net8.0\07_ArrayList.sourcelink.json
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\07_ArrayList\obj\Debug\net8.0\07_ArrayList.dll
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\07_ArrayList\obj\Debug\net8.0\refint\07_ArrayList.dll
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\07_ArrayList\obj\Debug\net8.0\07_ArrayList.pdb
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\07_ArrayList\obj\Debug\net8.0\07_ArrayList.genruntimeconfig.cache
+C:\Users\Samuel Zedec\Documents\cs.study\Colecao\07_ArrayList\obj\Debug\net8.0\ref\07_ArrayList.dll
