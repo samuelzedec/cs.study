@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\02_Herenca_Modificador\bin\Debug\net8.0\02_Herenca_Modificador.exe
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\02_Herenca_Modificador\bin\Debug\net8.0\02_Herenca_Modificador.deps.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\02_Herenca_Modificador\bin\Debug\net8.0\02_Herenca_Modificador.runtimeconfig.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\02_Herenca_Modificador\bin\Debug\net8.0\02_Herenca_Modificador.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\02_Herenca_Modificador\bin\Debug\net8.0\02_Herenca_Modificador.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\02_Herenca_Modificador\obj\Debug\net8.0\02_Herenca_Modificador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\02_Herenca_Modificador\obj\Debug\net8.0\02_Herenca_Modificador.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\02_Herenca_Modificador\obj\Debug\net8.0\02_Herenca_Modificador.AssemblyInfo.cs
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\02_Herenca_Modificador\obj\Debug\net8.0\02_Herenca_Modificador.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\02_Herenca_Modificador\obj\Debug\net8.0\02_Herenca_Modificador.sourcelink.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\02_Herenca_Modificador\obj\Debug\net8.0\02_Herenca_Modificador.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\02_Herenca_Modificador\obj\Debug\net8.0\refint\02_Herenca_Modificador.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\02_Herenca_Modificador\obj\Debug\net8.0\02_Herenca_Modificador.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\02_Herenca_Modificador\obj\Debug\net8.0\02_Herenca_Modificador.genruntimeconfig.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\02_Herenca_Modificador\obj\Debug\net8.0\ref\02_Herenca_Modificador.dll

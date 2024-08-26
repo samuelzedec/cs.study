@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\03_Herenca_Construtores\bin\Debug\net8.0\03_Herenca_Construtores.exe
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\03_Herenca_Construtores\bin\Debug\net8.0\03_Herenca_Construtores.deps.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\03_Herenca_Construtores\bin\Debug\net8.0\03_Herenca_Construtores.runtimeconfig.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\03_Herenca_Construtores\bin\Debug\net8.0\03_Herenca_Construtores.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\03_Herenca_Construtores\bin\Debug\net8.0\03_Herenca_Construtores.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\03_Herenca_Construtores\obj\Debug\net8.0\03_Herenca_Construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\03_Herenca_Construtores\obj\Debug\net8.0\03_Herenca_Construtores.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\03_Herenca_Construtores\obj\Debug\net8.0\03_Herenca_Construtores.AssemblyInfo.cs
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\03_Herenca_Construtores\obj\Debug\net8.0\03_Herenca_Construtores.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\03_Herenca_Construtores\obj\Debug\net8.0\03_Herenca_Construtores.sourcelink.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\03_Herenca_Construtores\obj\Debug\net8.0\03_Herenca_Construtores.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\03_Herenca_Construtores\obj\Debug\net8.0\refint\03_Herenca_Construtores.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\03_Herenca_Construtores\obj\Debug\net8.0\03_Herenca_Construtores.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\03_Herenca_Construtores\obj\Debug\net8.0\03_Herenca_Construtores.genruntimeconfig.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\03_Herenca_Construtores\obj\Debug\net8.0\ref\03_Herenca_Construtores.dll

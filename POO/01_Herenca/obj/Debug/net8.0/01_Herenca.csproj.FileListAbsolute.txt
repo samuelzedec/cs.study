@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\01_Herenca\bin\Debug\net8.0\01_Herenca.exe
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\01_Herenca\bin\Debug\net8.0\01_Herenca.deps.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\01_Herenca\bin\Debug\net8.0\01_Herenca.runtimeconfig.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\01_Herenca\bin\Debug\net8.0\01_Herenca.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\01_Herenca\bin\Debug\net8.0\01_Herenca.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\01_Herenca\obj\Debug\net8.0\01_Herenca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\01_Herenca\obj\Debug\net8.0\01_Herenca.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\01_Herenca\obj\Debug\net8.0\01_Herenca.AssemblyInfo.cs
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\01_Herenca\obj\Debug\net8.0\01_Herenca.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\01_Herenca\obj\Debug\net8.0\01_Herenca.sourcelink.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\01_Herenca\obj\Debug\net8.0\01_Herenca.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\01_Herenca\obj\Debug\net8.0\refint\01_Herenca.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\01_Herenca\obj\Debug\net8.0\01_Herenca.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\01_Herenca\obj\Debug\net8.0\01_Herenca.genruntimeconfig.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\01_Herenca\obj\Debug\net8.0\ref\01_Herenca.dll
