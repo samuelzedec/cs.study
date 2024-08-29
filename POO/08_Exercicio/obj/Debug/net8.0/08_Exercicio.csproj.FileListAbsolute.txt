@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\08_Exercicio\bin\Debug\net8.0\08_Exercicio.exe
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\08_Exercicio\bin\Debug\net8.0\08_Exercicio.deps.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\08_Exercicio\bin\Debug\net8.0\08_Exercicio.runtimeconfig.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\08_Exercicio\bin\Debug\net8.0\08_Exercicio.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\08_Exercicio\bin\Debug\net8.0\08_Exercicio.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\08_Exercicio\obj\Debug\net8.0\08_Exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\08_Exercicio\obj\Debug\net8.0\08_Exercicio.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\08_Exercicio\obj\Debug\net8.0\08_Exercicio.AssemblyInfo.cs
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\08_Exercicio\obj\Debug\net8.0\08_Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\08_Exercicio\obj\Debug\net8.0\08_Exercicio.sourcelink.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\08_Exercicio\obj\Debug\net8.0\08_Exercicio.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\08_Exercicio\obj\Debug\net8.0\refint\08_Exercicio.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\08_Exercicio\obj\Debug\net8.0\08_Exercicio.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\08_Exercicio\obj\Debug\net8.0\08_Exercicio.genruntimeconfig.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\08_Exercicio\obj\Debug\net8.0\ref\08_Exercicio.dll

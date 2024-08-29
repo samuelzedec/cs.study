@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Samuel Zedec\\OneDrive\\Documentos\\cs.study\\POO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F624B7E3-42A6-4634-AD54-DF6EDBC97C74}|04_Herenca_Object\\04_Herenca_Object.csproj|c:\\users\\samuel zedec\\onedrive\\documentos\\cs.study\\poo\\04_herenca_object\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F624B7E3-42A6-4634-AD54-DF6EDBC97C74}|04_Herenca_Object\\04_Herenca_Object.csproj|solutionrelative:04_herenca_object\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E312F674-ED2E-4098-89B0-BABB92FCF8D0}|08_Exercicio\\08_Exercicio.csproj|c:\\users\\samuel zedec\\onedrive\\documentos\\cs.study\\poo\\08_exercicio\\usermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E312F674-ED2E-4098-89B0-BABB92FCF8D0}|08_Exercicio\\08_Exercicio.csproj|solutionrelative:08_exercicio\\usermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{316DAB5A-9566-4169-B6D9-53F05808F7A8}|03_Herenca_Construtores\\03_Herenca_Construtores.csproj|c:\\users\\samuel zedec\\onedrive\\documentos\\cs.study\\poo\\03_herenca_construtores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{316DAB5A-9566-4169-B6D9-53F05808F7A8}|03_Herenca_Construtores\\03_Herenca_Construtores.csproj|solutionrelative:03_herenca_construtores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E312F674-ED2E-4098-89B0-BABB92FCF8D0}|08_Exercicio\\08_Exercicio.csproj|c:\\users\\samuel zedec\\onedrive\\documentos\\cs.study\\poo\\08_exercicio\\initialmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E312F674-ED2E-4098-89B0-BABB92FCF8D0}|08_Exercicio\\08_Exercicio.csproj|solutionrelative:08_exercicio\\initialmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E312F674-ED2E-4098-89B0-BABB92FCF8D0}|08_Exercicio\\08_Exercicio.csproj|c:\\users\\samuel zedec\\onedrive\\documentos\\cs.study\\poo\\08_exercicio\\homemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E312F674-ED2E-4098-89B0-BABB92FCF8D0}|08_Exercicio\\08_Exercicio.csproj|solutionrelative:08_exercicio\\homemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E312F674-ED2E-4098-89B0-BABB92FCF8D0}|08_Exercicio\\08_Exercicio.csproj|c:\\users\\samuel zedec\\onedrive\\documentos\\cs.study\\poo\\08_exercicio\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E312F674-ED2E-4098-89B0-BABB92FCF8D0}|08_Exercicio\\08_Exercicio.csproj|solutionrelative:08_exercicio\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E312F674-ED2E-4098-89B0-BABB92FCF8D0}|08_Exercicio\\08_Exercicio.csproj|c:\\users\\samuel zedec\\onedrive\\documentos\\cs.study\\poo\\08_exercicio\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E312F674-ED2E-4098-89B0-BABB92FCF8D0}|08_Exercicio\\08_Exercicio.csproj|solutionrelative:08_exercicio\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +30,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Samuel Zedec\\OneDrive\\Documentos\\cs.study\\POO\\08_Exercicio\\User.cs",
+              "RelativeDocumentMoniker": "08_Exercicio\\User.cs",
+              "ToolTip": "C:\\Users\\Samuel Zedec\\OneDrive\\Documentos\\cs.study\\POO\\08_Exercicio\\User.cs",
+              "RelativeToolTip": "08_Exercicio\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T12:13:49.91Z",
+              "IsPinned": true
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -30,28 +55,51 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Samuel Zedec\\OneDrive\\Documentos\\cs.study\\POO\\04_Herenca_Object\\Program.cs",
-              "RelativeDocumentMoniker": "04_Herenca_Object\\Program.cs",
-              "ToolTip": "C:\\Users\\Samuel Zedec\\OneDrive\\Documentos\\cs.study\\POO\\04_Herenca_Object\\Program.cs*",
-              "RelativeToolTip": "04_Herenca_Object\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Samuel Zedec\\OneDrive\\Documentos\\cs.study\\POO\\08_Exercicio\\BankAccount.cs",
+              "RelativeDocumentMoniker": "08_Exercicio\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\Samuel Zedec\\OneDrive\\Documentos\\cs.study\\POO\\08_Exercicio\\BankAccount.cs",
+              "RelativeToolTip": "08_Exercicio\\BankAccount.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAABAwH4AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T23:09:29.8Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-29T19:19:57.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Samuel Zedec\\OneDrive\\Documentos\\cs.study\\POO\\08_Exercicio\\HomeMenu.cs",
+              "RelativeDocumentMoniker": "08_Exercicio\\HomeMenu.cs",
+              "ToolTip": "C:\\Users\\Samuel Zedec\\OneDrive\\Documentos\\cs.study\\POO\\08_Exercicio\\HomeMenu.cs",
+              "RelativeToolTip": "08_Exercicio\\HomeMenu.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T19:17:39.814Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Samuel Zedec\\OneDrive\\Documentos\\cs.study\\POO\\03_Herenca_Construtores\\Program.cs",
-              "RelativeDocumentMoniker": "03_Herenca_Construtores\\Program.cs",
-              "ToolTip": "C:\\Users\\Samuel Zedec\\OneDrive\\Documentos\\cs.study\\POO\\03_Herenca_Construtores\\Program.cs",
-              "RelativeToolTip": "03_Herenca_Construtores\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAowAAAAAA0AAAAAAAAAA==",
+              "Title": "InitialMethod.cs",
+              "DocumentMoniker": "C:\\Users\\Samuel Zedec\\OneDrive\\Documentos\\cs.study\\POO\\08_Exercicio\\InitialMethod.cs",
+              "RelativeDocumentMoniker": "08_Exercicio\\InitialMethod.cs",
+              "ToolTip": "C:\\Users\\Samuel Zedec\\OneDrive\\Documentos\\cs.study\\POO\\08_Exercicio\\InitialMethod.cs",
+              "RelativeToolTip": "08_Exercicio\\InitialMethod.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAA8wFkAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T22:52:45.907Z",
+              "WhenOpened": "2024-08-29T19:16:19.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Samuel Zedec\\OneDrive\\Documentos\\cs.study\\POO\\08_Exercicio\\UserMenu.cs",
+              "RelativeDocumentMoniker": "08_Exercicio\\UserMenu.cs",
+              "ToolTip": "C:\\Users\\Samuel Zedec\\OneDrive\\Documentos\\cs.study\\POO\\08_Exercicio\\UserMenu.cs",
+              "RelativeToolTip": "08_Exercicio\\UserMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T18:16:48.725Z",
               "EditorCaption": ""
             }
           ]
