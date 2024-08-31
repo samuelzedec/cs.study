@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\10_Upcasting_Downcasting\bin\Debug\net8.0\10_Upcasting_Downcasting.exe
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\10_Upcasting_Downcasting\bin\Debug\net8.0\10_Upcasting_Downcasting.deps.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\10_Upcasting_Downcasting\bin\Debug\net8.0\10_Upcasting_Downcasting.runtimeconfig.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\10_Upcasting_Downcasting\bin\Debug\net8.0\10_Upcasting_Downcasting.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\10_Upcasting_Downcasting\bin\Debug\net8.0\10_Upcasting_Downcasting.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\10_Upcasting_Downcasting\obj\Debug\net8.0\10_Upcasting_Downcasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\10_Upcasting_Downcasting\obj\Debug\net8.0\10_Upcasting_Downcasting.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\10_Upcasting_Downcasting\obj\Debug\net8.0\10_Upcasting_Downcasting.AssemblyInfo.cs
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\10_Upcasting_Downcasting\obj\Debug\net8.0\10_Upcasting_Downcasting.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\10_Upcasting_Downcasting\obj\Debug\net8.0\10_Upcasting_Downcasting.sourcelink.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\10_Upcasting_Downcasting\obj\Debug\net8.0\10_Upcasting_Downcasting.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\10_Upcasting_Downcasting\obj\Debug\net8.0\refint\10_Upcasting_Downcasting.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\10_Upcasting_Downcasting\obj\Debug\net8.0\10_Upcasting_Downcasting.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\10_Upcasting_Downcasting\obj\Debug\net8.0\10_Upcasting_Downcasting.genruntimeconfig.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\10_Upcasting_Downcasting\obj\Debug\net8.0\ref\10_Upcasting_Downcasting.dll

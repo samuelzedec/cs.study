@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\12_Modificadro_Abstract\bin\Debug\net8.0\12_Modificadro_Abstract.exe
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\12_Modificadro_Abstract\bin\Debug\net8.0\12_Modificadro_Abstract.deps.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\12_Modificadro_Abstract\bin\Debug\net8.0\12_Modificadro_Abstract.runtimeconfig.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\12_Modificadro_Abstract\bin\Debug\net8.0\12_Modificadro_Abstract.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\12_Modificadro_Abstract\bin\Debug\net8.0\12_Modificadro_Abstract.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\12_Modificadro_Abstract\obj\Debug\net8.0\12_Modificadro_Abstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\12_Modificadro_Abstract\obj\Debug\net8.0\12_Modificadro_Abstract.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\12_Modificadro_Abstract\obj\Debug\net8.0\12_Modificadro_Abstract.AssemblyInfo.cs
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\12_Modificadro_Abstract\obj\Debug\net8.0\12_Modificadro_Abstract.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\12_Modificadro_Abstract\obj\Debug\net8.0\12_Modificadro_Abstract.sourcelink.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\12_Modificadro_Abstract\obj\Debug\net8.0\12_Modificadro_Abstract.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\12_Modificadro_Abstract\obj\Debug\net8.0\refint\12_Modificadro_Abstract.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\12_Modificadro_Abstract\obj\Debug\net8.0\12_Modificadro_Abstract.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\12_Modificadro_Abstract\obj\Debug\net8.0\12_Modificadro_Abstract.genruntimeconfig.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\12_Modificadro_Abstract\obj\Debug\net8.0\ref\12_Modificadro_Abstract.dll

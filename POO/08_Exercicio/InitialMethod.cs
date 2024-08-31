@@ -116,6 +116,5 @@ internal partial class Home
             Console.WriteLine("ID não encontrado no datababe do banco. \nPressione Enter para continuar...");
             Console.ReadKey();
         }
-
     }
 }

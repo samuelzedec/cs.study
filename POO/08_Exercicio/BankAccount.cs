@@ -82,6 +82,7 @@ internal class SavingsAccount : CurrentAccount
                 Console.ReadKey();
             } else
             {
+                Console.Clear();
                 Console.Write("Saldo Sacado com sucesso! \nPressione Enter para continuar...");
                 money -= amount;
                 Console.ReadKey();
@@ -135,6 +136,7 @@ internal class InvestmentAccount : CurrentAccount
             }
             else
             {
+                Console.Clear();
                 Console.Write("Saldo Sacado com sucesso! \nPressione Enter para continuar...");
                 money -= amount + (amount - 0.001m);
                 Console.ReadKey();

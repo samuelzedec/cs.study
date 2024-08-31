@@ -3,24 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Samuel Zedec\\OneDrive\\Documentos\\cs.study\\POO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E312F674-ED2E-4098-89B0-BABB92FCF8D0}|08_Exercicio\\08_Exercicio.csproj|c:\\users\\samuel zedec\\onedrive\\documentos\\cs.study\\poo\\08_exercicio\\usermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E312F674-ED2E-4098-89B0-BABB92FCF8D0}|08_Exercicio\\08_Exercicio.csproj|solutionrelative:08_exercicio\\usermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6AE74BE9-50C0-41F2-A96B-D53D01CDDFD8}|12_Modificadro_Abstract\\12_Modificadro_Abstract.csproj|c:\\users\\samuel zedec\\onedrive\\documentos\\cs.study\\poo\\12_modificadro_abstract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AE74BE9-50C0-41F2-A96B-D53D01CDDFD8}|12_Modificadro_Abstract\\12_Modificadro_Abstract.csproj|solutionrelative:12_modificadro_abstract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E312F674-ED2E-4098-89B0-BABB92FCF8D0}|08_Exercicio\\08_Exercicio.csproj|c:\\users\\samuel zedec\\onedrive\\documentos\\cs.study\\poo\\08_exercicio\\initialmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E312F674-ED2E-4098-89B0-BABB92FCF8D0}|08_Exercicio\\08_Exercicio.csproj|solutionrelative:08_exercicio\\initialmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6AE74BE9-50C0-41F2-A96B-D53D01CDDFD8}|12_Modificadro_Abstract\\12_Modificadro_Abstract.csproj|c:\\users\\samuel zedec\\onedrive\\documentos\\cs.study\\poo\\12_modificadro_abstract\\forma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AE74BE9-50C0-41F2-A96B-D53D01CDDFD8}|12_Modificadro_Abstract\\12_Modificadro_Abstract.csproj|solutionrelative:12_modificadro_abstract\\forma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E312F674-ED2E-4098-89B0-BABB92FCF8D0}|08_Exercicio\\08_Exercicio.csproj|c:\\users\\samuel zedec\\onedrive\\documentos\\cs.study\\poo\\08_exercicio\\homemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E312F674-ED2E-4098-89B0-BABB92FCF8D0}|08_Exercicio\\08_Exercicio.csproj|solutionrelative:08_exercicio\\homemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E312F674-ED2E-4098-89B0-BABB92FCF8D0}|08_Exercicio\\08_Exercicio.csproj|c:\\users\\samuel zedec\\onedrive\\documentos\\cs.study\\poo\\08_exercicio\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E312F674-ED2E-4098-89B0-BABB92FCF8D0}|08_Exercicio\\08_Exercicio.csproj|solutionrelative:08_exercicio\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E312F674-ED2E-4098-89B0-BABB92FCF8D0}|08_Exercicio\\08_Exercicio.csproj|c:\\users\\samuel zedec\\onedrive\\documentos\\cs.study\\poo\\08_exercicio\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E312F674-ED2E-4098-89B0-BABB92FCF8D0}|08_Exercicio\\08_Exercicio.csproj|solutionrelative:08_exercicio\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6AE74BE9-50C0-41F2-A96B-D53D01CDDFD8}|12_Modificadro_Abstract\\12_Modificadro_Abstract.csproj|c:\\users\\samuel zedec\\onedrive\\documentos\\cs.study\\poo\\12_modificadro_abstract\\quadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AE74BE9-50C0-41F2-A96B-D53D01CDDFD8}|12_Modificadro_Abstract\\12_Modificadro_Abstract.csproj|solutionrelative:12_modificadro_abstract\\quadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,21 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Samuel Zedec\\OneDrive\\Documentos\\cs.study\\POO\\08_Exercicio\\User.cs",
-              "RelativeDocumentMoniker": "08_Exercicio\\User.cs",
-              "ToolTip": "C:\\Users\\Samuel Zedec\\OneDrive\\Documentos\\cs.study\\POO\\08_Exercicio\\User.cs",
-              "RelativeToolTip": "08_Exercicio\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T12:13:49.91Z",
-              "IsPinned": true
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -55,51 +34,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BankAccount.cs",
-              "DocumentMoniker": "C:\\Users\\Samuel Zedec\\OneDrive\\Documentos\\cs.study\\POO\\08_Exercicio\\BankAccount.cs",
-              "RelativeDocumentMoniker": "08_Exercicio\\BankAccount.cs",
-              "ToolTip": "C:\\Users\\Samuel Zedec\\OneDrive\\Documentos\\cs.study\\POO\\08_Exercicio\\BankAccount.cs",
-              "RelativeToolTip": "08_Exercicio\\BankAccount.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAABAwH4AAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T19:19:57.958Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "HomeMenu.cs",
-              "DocumentMoniker": "C:\\Users\\Samuel Zedec\\OneDrive\\Documentos\\cs.study\\POO\\08_Exercicio\\HomeMenu.cs",
-              "RelativeDocumentMoniker": "08_Exercicio\\HomeMenu.cs",
-              "ToolTip": "C:\\Users\\Samuel Zedec\\OneDrive\\Documentos\\cs.study\\POO\\08_Exercicio\\HomeMenu.cs",
-              "RelativeToolTip": "08_Exercicio\\HomeMenu.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAZAAAAAAAAAA==",
+              "Title": "Quadrado.cs",
+              "DocumentMoniker": "C:\\Users\\Samuel Zedec\\OneDrive\\Documentos\\cs.study\\POO\\12_Modificadro_Abstract\\Quadrado.cs",
+              "RelativeDocumentMoniker": "12_Modificadro_Abstract\\Quadrado.cs",
+              "ToolTip": "C:\\Users\\Samuel Zedec\\OneDrive\\Documentos\\cs.study\\POO\\12_Modificadro_Abstract\\Quadrado.cs",
+              "RelativeToolTip": "12_Modificadro_Abstract\\Quadrado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T19:17:39.814Z"
+              "WhenOpened": "2024-08-31T15:05:58.046Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "InitialMethod.cs",
-              "DocumentMoniker": "C:\\Users\\Samuel Zedec\\OneDrive\\Documentos\\cs.study\\POO\\08_Exercicio\\InitialMethod.cs",
-              "RelativeDocumentMoniker": "08_Exercicio\\InitialMethod.cs",
-              "ToolTip": "C:\\Users\\Samuel Zedec\\OneDrive\\Documentos\\cs.study\\POO\\08_Exercicio\\InitialMethod.cs",
-              "RelativeToolTip": "08_Exercicio\\InitialMethod.cs",
-              "ViewState": "AgIAAFkAAAAAAAAAAAA8wFkAAAAfAAAAAAAAAA==",
+              "Title": "Forma.cs",
+              "DocumentMoniker": "C:\\Users\\Samuel Zedec\\OneDrive\\Documentos\\cs.study\\POO\\12_Modificadro_Abstract\\Forma.cs",
+              "RelativeDocumentMoniker": "12_Modificadro_Abstract\\Forma.cs",
+              "ToolTip": "C:\\Users\\Samuel Zedec\\OneDrive\\Documentos\\cs.study\\POO\\12_Modificadro_Abstract\\Forma.cs",
+              "RelativeToolTip": "12_Modificadro_Abstract\\Forma.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T19:16:19.304Z"
+              "WhenOpened": "2024-08-31T15:02:34.6Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UserMenu.cs",
-              "DocumentMoniker": "C:\\Users\\Samuel Zedec\\OneDrive\\Documentos\\cs.study\\POO\\08_Exercicio\\UserMenu.cs",
-              "RelativeDocumentMoniker": "08_Exercicio\\UserMenu.cs",
-              "ToolTip": "C:\\Users\\Samuel Zedec\\OneDrive\\Documentos\\cs.study\\POO\\08_Exercicio\\UserMenu.cs",
-              "RelativeToolTip": "08_Exercicio\\UserMenu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Samuel Zedec\\OneDrive\\Documentos\\cs.study\\POO\\12_Modificadro_Abstract\\Program.cs",
+              "RelativeDocumentMoniker": "12_Modificadro_Abstract\\Program.cs",
+              "ToolTip": "C:\\Users\\Samuel Zedec\\OneDrive\\Documentos\\cs.study\\POO\\12_Modificadro_Abstract\\Program.cs*",
+              "RelativeToolTip": "12_Modificadro_Abstract\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAB1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T18:16:48.725Z",
+              "WhenOpened": "2024-08-31T14:57:27.571Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\11_Operador_Is_As\bin\Debug\net8.0\11_Operador_Is_As.exe
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\11_Operador_Is_As\bin\Debug\net8.0\11_Operador_Is_As.deps.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\11_Operador_Is_As\bin\Debug\net8.0\11_Operador_Is_As.runtimeconfig.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\11_Operador_Is_As\bin\Debug\net8.0\11_Operador_Is_As.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\11_Operador_Is_As\bin\Debug\net8.0\11_Operador_Is_As.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\11_Operador_Is_As\obj\Debug\net8.0\11_Operador_Is_As.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\11_Operador_Is_As\obj\Debug\net8.0\11_Operador_Is_As.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\11_Operador_Is_As\obj\Debug\net8.0\11_Operador_Is_As.AssemblyInfo.cs
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\11_Operador_Is_As\obj\Debug\net8.0\11_Operador_Is_As.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\11_Operador_Is_As\obj\Debug\net8.0\11_Operador_Is_As.sourcelink.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\11_Operador_Is_As\obj\Debug\net8.0\11_Operador_Is_As.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\11_Operador_Is_As\obj\Debug\net8.0\refint\11_Operador_Is_As.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\11_Operador_Is_As\obj\Debug\net8.0\11_Operador_Is_As.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\11_Operador_Is_As\obj\Debug\net8.0\11_Operador_Is_As.genruntimeconfig.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\11_Operador_Is_As\obj\Debug\net8.0\ref\11_Operador_Is_As.dll
