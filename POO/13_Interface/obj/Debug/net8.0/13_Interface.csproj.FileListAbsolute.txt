@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\13_Interface\bin\Debug\net8.0\13_Interface.exe
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\13_Interface\bin\Debug\net8.0\13_Interface.deps.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\13_Interface\bin\Debug\net8.0\13_Interface.runtimeconfig.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\13_Interface\bin\Debug\net8.0\13_Interface.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\13_Interface\bin\Debug\net8.0\13_Interface.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\13_Interface\obj\Debug\net8.0\13_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\13_Interface\obj\Debug\net8.0\13_Interface.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\13_Interface\obj\Debug\net8.0\13_Interface.AssemblyInfo.cs
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\13_Interface\obj\Debug\net8.0\13_Interface.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\13_Interface\obj\Debug\net8.0\13_Interface.sourcelink.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\13_Interface\obj\Debug\net8.0\13_Interface.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\13_Interface\obj\Debug\net8.0\refint\13_Interface.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\13_Interface\obj\Debug\net8.0\13_Interface.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\13_Interface\obj\Debug\net8.0\13_Interface.genruntimeconfig.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\13_Interface\obj\Debug\net8.0\ref\13_Interface.dll
