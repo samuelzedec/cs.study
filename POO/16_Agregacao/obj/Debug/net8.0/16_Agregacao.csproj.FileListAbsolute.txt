@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\16_Agregacao\bin\Debug\net8.0\16_Agregacao.exe
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\16_Agregacao\bin\Debug\net8.0\16_Agregacao.deps.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\16_Agregacao\bin\Debug\net8.0\16_Agregacao.runtimeconfig.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\16_Agregacao\bin\Debug\net8.0\16_Agregacao.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\16_Agregacao\bin\Debug\net8.0\16_Agregacao.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\16_Agregacao\obj\Debug\net8.0\16_Agregacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\16_Agregacao\obj\Debug\net8.0\16_Agregacao.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\16_Agregacao\obj\Debug\net8.0\16_Agregacao.AssemblyInfo.cs
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\16_Agregacao\obj\Debug\net8.0\16_Agregacao.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\16_Agregacao\obj\Debug\net8.0\16_Agregacao.sourcelink.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\16_Agregacao\obj\Debug\net8.0\16_Agregacao.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\16_Agregacao\obj\Debug\net8.0\refint\16_Agregacao.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\16_Agregacao\obj\Debug\net8.0\16_Agregacao.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\16_Agregacao\obj\Debug\net8.0\16_Agregacao.genruntimeconfig.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\16_Agregacao\obj\Debug\net8.0\ref\16_Agregacao.dll

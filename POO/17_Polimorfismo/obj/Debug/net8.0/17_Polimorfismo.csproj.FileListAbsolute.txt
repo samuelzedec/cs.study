@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\17_Polimorfismo\bin\Debug\net8.0\17_Polimorfismo.exe
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\17_Polimorfismo\bin\Debug\net8.0\17_Polimorfismo.deps.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\17_Polimorfismo\bin\Debug\net8.0\17_Polimorfismo.runtimeconfig.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\17_Polimorfismo\bin\Debug\net8.0\17_Polimorfismo.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\17_Polimorfismo\bin\Debug\net8.0\17_Polimorfismo.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\17_Polimorfismo\obj\Debug\net8.0\17_Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\17_Polimorfismo\obj\Debug\net8.0\17_Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\17_Polimorfismo\obj\Debug\net8.0\17_Polimorfismo.AssemblyInfo.cs
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\17_Polimorfismo\obj\Debug\net8.0\17_Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\17_Polimorfismo\obj\Debug\net8.0\17_Polimorfismo.sourcelink.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\17_Polimorfismo\obj\Debug\net8.0\17_Polimorfismo.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\17_Polimorfismo\obj\Debug\net8.0\refint\17_Polimorfismo.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\17_Polimorfismo\obj\Debug\net8.0\17_Polimorfismo.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\17_Polimorfismo\obj\Debug\net8.0\17_Polimorfismo.genruntimeconfig.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\17_Polimorfismo\obj\Debug\net8.0\ref\17_Polimorfismo.dll

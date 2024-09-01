@@ -3,24 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Samuel Zedec\\OneDrive\\Documentos\\cs.study\\POO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{03A38308-4D00-41DC-B8A1-A236029D32E8}|14_Exercicio\\14_Exercicio.csproj|c:\\users\\samuel zedec\\onedrive\\documentos\\cs.study\\poo\\14_exercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03A38308-4D00-41DC-B8A1-A236029D32E8}|14_Exercicio\\14_Exercicio.csproj|solutionrelative:14_exercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03A38308-4D00-41DC-B8A1-A236029D32E8}|14_Exercicio\\14_Exercicio.csproj|c:\\users\\samuel zedec\\onedrive\\documentos\\cs.study\\poo\\14_exercicio\\isalvar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03A38308-4D00-41DC-B8A1-A236029D32E8}|14_Exercicio\\14_Exercicio.csproj|solutionrelative:14_exercicio\\isalvar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03A38308-4D00-41DC-B8A1-A236029D32E8}|14_Exercicio\\14_Exercicio.csproj|c:\\users\\samuel zedec\\onedrive\\documentos\\cs.study\\poo\\14_exercicio\\salvarxml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03A38308-4D00-41DC-B8A1-A236029D32E8}|14_Exercicio\\14_Exercicio.csproj|solutionrelative:14_exercicio\\salvarxml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03A38308-4D00-41DC-B8A1-A236029D32E8}|14_Exercicio\\14_Exercicio.csproj|c:\\users\\samuel zedec\\onedrive\\documentos\\cs.study\\poo\\14_exercicio\\salvarjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03A38308-4D00-41DC-B8A1-A236029D32E8}|14_Exercicio\\14_Exercicio.csproj|solutionrelative:14_exercicio\\salvarjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03A38308-4D00-41DC-B8A1-A236029D32E8}|14_Exercicio\\14_Exercicio.csproj|c:\\users\\samuel zedec\\onedrive\\documentos\\cs.study\\poo\\14_exercicio\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03A38308-4D00-41DC-B8A1-A236029D32E8}|14_Exercicio\\14_Exercicio.csproj|solutionrelative:14_exercicio\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{58BB2284-1754-45CC-826E-D726DFF66E1C}|17_Polimorfismo\\17_Polimorfismo.csproj|c:\\users\\samuel zedec\\onedrive\\documentos\\cs.study\\poo\\17_polimorfismo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58BB2284-1754-45CC-826E-D726DFF66E1C}|17_Polimorfismo\\17_Polimorfismo.csproj|solutionrelative:17_polimorfismo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Samuel Zedec\\OneDrive\\Documentos\\cs.study\\POO\\17_Polimorfismo\\Program.cs",
+              "RelativeDocumentMoniker": "17_Polimorfismo\\Program.cs",
+              "ToolTip": "C:\\Users\\Samuel Zedec\\OneDrive\\Documentos\\cs.study\\POO\\17_Polimorfismo\\Program.cs",
+              "RelativeToolTip": "17_Polimorfismo\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAywCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T21:23:37.606Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -43,71 +40,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SalvarJSON.cs",
-              "DocumentMoniker": "C:\\Users\\Samuel Zedec\\OneDrive\\Documentos\\cs.study\\POO\\14_Exercicio\\SalvarJSON.cs",
-              "RelativeDocumentMoniker": "14_Exercicio\\SalvarJSON.cs",
-              "ToolTip": "C:\\Users\\Samuel Zedec\\OneDrive\\Documentos\\cs.study\\POO\\14_Exercicio\\SalvarJSON.cs",
-              "RelativeToolTip": "14_Exercicio\\SalvarJSON.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T15:26:11.326Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SalvarXML.cs",
-              "DocumentMoniker": "C:\\Users\\Samuel Zedec\\OneDrive\\Documentos\\cs.study\\POO\\14_Exercicio\\SalvarXML.cs",
-              "RelativeDocumentMoniker": "14_Exercicio\\SalvarXML.cs",
-              "ToolTip": "C:\\Users\\Samuel Zedec\\OneDrive\\Documentos\\cs.study\\POO\\14_Exercicio\\SalvarXML.cs",
-              "RelativeToolTip": "14_Exercicio\\SalvarXML.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T15:19:09.021Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Base.cs",
-              "DocumentMoniker": "C:\\Users\\Samuel Zedec\\OneDrive\\Documentos\\cs.study\\POO\\14_Exercicio\\Base.cs",
-              "RelativeDocumentMoniker": "14_Exercicio\\Base.cs",
-              "ToolTip": "C:\\Users\\Samuel Zedec\\OneDrive\\Documentos\\cs.study\\POO\\14_Exercicio\\Base.cs",
-              "RelativeToolTip": "14_Exercicio\\Base.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T15:00:28.059Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ISalvar.cs",
-              "DocumentMoniker": "C:\\Users\\Samuel Zedec\\OneDrive\\Documentos\\cs.study\\POO\\14_Exercicio\\ISalvar.cs",
-              "RelativeDocumentMoniker": "14_Exercicio\\ISalvar.cs",
-              "ToolTip": "C:\\Users\\Samuel Zedec\\OneDrive\\Documentos\\cs.study\\POO\\14_Exercicio\\ISalvar.cs",
-              "RelativeToolTip": "14_Exercicio\\ISalvar.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T14:54:22.136Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Samuel Zedec\\OneDrive\\Documentos\\cs.study\\POO\\14_Exercicio\\Program.cs",
-              "RelativeDocumentMoniker": "14_Exercicio\\Program.cs",
-              "ToolTip": "C:\\Users\\Samuel Zedec\\OneDrive\\Documentos\\cs.study\\POO\\14_Exercicio\\Program.cs",
-              "RelativeToolTip": "14_Exercicio\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T14:52:12.267Z",
-              "EditorCaption": ""
             }
           ]
         }

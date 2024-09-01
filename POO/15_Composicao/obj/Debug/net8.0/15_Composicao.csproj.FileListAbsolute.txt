@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\15_Composicao\bin\Debug\net8.0\15_Composicao.exe
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\15_Composicao\bin\Debug\net8.0\15_Composicao.deps.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\15_Composicao\bin\Debug\net8.0\15_Composicao.runtimeconfig.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\15_Composicao\bin\Debug\net8.0\15_Composicao.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\15_Composicao\bin\Debug\net8.0\15_Composicao.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\15_Composicao\obj\Debug\net8.0\15_Composicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\15_Composicao\obj\Debug\net8.0\15_Composicao.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\15_Composicao\obj\Debug\net8.0\15_Composicao.AssemblyInfo.cs
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\15_Composicao\obj\Debug\net8.0\15_Composicao.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\15_Composicao\obj\Debug\net8.0\15_Composicao.sourcelink.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\15_Composicao\obj\Debug\net8.0\15_Composicao.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\15_Composicao\obj\Debug\net8.0\refint\15_Composicao.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\15_Composicao\obj\Debug\net8.0\15_Composicao.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\15_Composicao\obj\Debug\net8.0\15_Composicao.genruntimeconfig.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\POO\15_Composicao\obj\Debug\net8.0\ref\15_Composicao.dll

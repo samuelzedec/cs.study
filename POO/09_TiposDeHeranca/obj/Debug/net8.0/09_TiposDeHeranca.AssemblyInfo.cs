@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("09_TiposDeHeranca")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f6951d5abaaa724ba9580a8addf5837d7886c51")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ba68854227c769b15954ead76b2168b166271a7")]
 [assembly: System.Reflection.AssemblyProductAttribute("09_TiposDeHeranca")]
 [assembly: System.Reflection.AssemblyTitleAttribute("09_TiposDeHeranca")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
