@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\01_Generics\bin\Debug\net8.0\01_Generics.exe
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\01_Generics\bin\Debug\net8.0\01_Generics.deps.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\01_Generics\bin\Debug\net8.0\01_Generics.runtimeconfig.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\01_Generics\bin\Debug\net8.0\01_Generics.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\01_Generics\bin\Debug\net8.0\01_Generics.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\01_Generics\obj\Debug\net8.0\01_Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\01_Generics\obj\Debug\net8.0\01_Generics.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\01_Generics\obj\Debug\net8.0\01_Generics.AssemblyInfo.cs
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\01_Generics\obj\Debug\net8.0\01_Generics.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\01_Generics\obj\Debug\net8.0\01_Generics.sourcelink.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\01_Generics\obj\Debug\net8.0\01_Generics.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\01_Generics\obj\Debug\net8.0\refint\01_Generics.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\01_Generics\obj\Debug\net8.0\01_Generics.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\01_Generics\obj\Debug\net8.0\01_Generics.genruntimeconfig.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\01_Generics\obj\Debug\net8.0\ref\01_Generics.dll

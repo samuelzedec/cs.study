@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Samuel Zedec\\Documents\\cs.study\\Praticas\\EX1\\EX1.csproj",
+      "projectUniqueName": "C:\\Users\\Samuel Zedec\\OneDrive\\Documentos\\cs.study\\Praticas\\EX1\\EX1.csproj",
       "projectName": "EX1",
-      "projectPath": "C:\\Users\\Samuel Zedec\\Documents\\cs.study\\Praticas\\EX1\\EX1.csproj",
+      "projectPath": "C:\\Users\\Samuel Zedec\\OneDrive\\Documentos\\cs.study\\Praticas\\EX1\\EX1.csproj",
       "packagesPath": "C:\\Users\\Samuel Zedec\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Samuel Zedec\\Documents\\cs.study\\Praticas\\EX1\\obj\\",
+      "outputPath": "C:\\Users\\Samuel Zedec\\OneDrive\\Documentos\\cs.study\\Praticas\\EX1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

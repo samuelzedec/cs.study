@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\05_Exemplo\bin\Debug\net8.0\05_Exemplo.exe
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\05_Exemplo\bin\Debug\net8.0\05_Exemplo.deps.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\05_Exemplo\bin\Debug\net8.0\05_Exemplo.runtimeconfig.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\05_Exemplo\bin\Debug\net8.0\05_Exemplo.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\05_Exemplo\bin\Debug\net8.0\05_Exemplo.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\05_Exemplo\obj\Debug\net8.0\05_Exemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\05_Exemplo\obj\Debug\net8.0\05_Exemplo.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\05_Exemplo\obj\Debug\net8.0\05_Exemplo.AssemblyInfo.cs
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\05_Exemplo\obj\Debug\net8.0\05_Exemplo.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\05_Exemplo\obj\Debug\net8.0\05_Exemplo.sourcelink.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\05_Exemplo\obj\Debug\net8.0\05_Exemplo.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\05_Exemplo\obj\Debug\net8.0\refint\05_Exemplo.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\05_Exemplo\obj\Debug\net8.0\05_Exemplo.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\05_Exemplo\obj\Debug\net8.0\05_Exemplo.genruntimeconfig.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\05_Exemplo\obj\Debug\net8.0\ref\05_Exemplo.dll

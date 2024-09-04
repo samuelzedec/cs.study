@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\04_GetHashCode_Equals\bin\Debug\net8.0\04_GetHashCode_Equals.exe
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\04_GetHashCode_Equals\bin\Debug\net8.0\04_GetHashCode_Equals.deps.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\04_GetHashCode_Equals\bin\Debug\net8.0\04_GetHashCode_Equals.runtimeconfig.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\04_GetHashCode_Equals\bin\Debug\net8.0\04_GetHashCode_Equals.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\04_GetHashCode_Equals\bin\Debug\net8.0\04_GetHashCode_Equals.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\04_GetHashCode_Equals\obj\Debug\net8.0\04_GetHashCode_Equals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\04_GetHashCode_Equals\obj\Debug\net8.0\04_GetHashCode_Equals.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\04_GetHashCode_Equals\obj\Debug\net8.0\04_GetHashCode_Equals.AssemblyInfo.cs
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\04_GetHashCode_Equals\obj\Debug\net8.0\04_GetHashCode_Equals.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\04_GetHashCode_Equals\obj\Debug\net8.0\04_GetHashCode_Equals.sourcelink.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\04_GetHashCode_Equals\obj\Debug\net8.0\04_GetHashCode_Equals.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\04_GetHashCode_Equals\obj\Debug\net8.0\refint\04_GetHashCode_Equals.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\04_GetHashCode_Equals\obj\Debug\net8.0\04_GetHashCode_Equals.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\04_GetHashCode_Equals\obj\Debug\net8.0\04_GetHashCode_Equals.genruntimeconfig.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\04_GetHashCode_Equals\obj\Debug\net8.0\ref\04_GetHashCode_Equals.dll

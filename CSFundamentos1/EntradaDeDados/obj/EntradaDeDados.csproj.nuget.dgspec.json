@@ -1,26 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "/Users/samuelzedec/Documents/cs.study/CSFundamentos1/EntradaDeDados/EntradaDeDados.csproj": {}
+    "C:\\Users\\Samuel Zedec\\OneDrive\\Documentos\\cs.study\\CSFundamentos1\\EntradaDeDados\\EntradaDeDados.csproj": {}
   },
   "projects": {
-    "/Users/samuelzedec/Documents/cs.study/CSFundamentos1/EntradaDeDados/EntradaDeDados.csproj": {
+    "C:\\Users\\Samuel Zedec\\OneDrive\\Documentos\\cs.study\\CSFundamentos1\\EntradaDeDados\\EntradaDeDados.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/samuelzedec/Documents/cs.study/CSFundamentos1/EntradaDeDados/EntradaDeDados.csproj",
+        "projectUniqueName": "C:\\Users\\Samuel Zedec\\OneDrive\\Documentos\\cs.study\\CSFundamentos1\\EntradaDeDados\\EntradaDeDados.csproj",
         "projectName": "EntradaDeDados",
-        "projectPath": "/Users/samuelzedec/Documents/cs.study/CSFundamentos1/EntradaDeDados/EntradaDeDados.csproj",
-        "packagesPath": "/Users/samuelzedec/.nuget/packages/",
-        "outputPath": "/Users/samuelzedec/Documents/cs.study/CSFundamentos1/EntradaDeDados/obj/",
+        "projectPath": "C:\\Users\\Samuel Zedec\\OneDrive\\Documentos\\cs.study\\CSFundamentos1\\EntradaDeDados\\EntradaDeDados.csproj",
+        "packagesPath": "C:\\Users\\Samuel Zedec\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Samuel Zedec\\OneDrive\\Documentos\\cs.study\\CSFundamentos1\\EntradaDeDados\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/samuelzedec/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Samuel Zedec\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -59,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
