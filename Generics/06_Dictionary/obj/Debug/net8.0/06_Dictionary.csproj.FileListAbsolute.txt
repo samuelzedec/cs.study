@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\06_Dictionary\bin\Debug\net8.0\06_Dictionary.exe
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\06_Dictionary\bin\Debug\net8.0\06_Dictionary.deps.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\06_Dictionary\bin\Debug\net8.0\06_Dictionary.runtimeconfig.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\06_Dictionary\bin\Debug\net8.0\06_Dictionary.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\06_Dictionary\bin\Debug\net8.0\06_Dictionary.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\06_Dictionary\obj\Debug\net8.0\06_Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\06_Dictionary\obj\Debug\net8.0\06_Dictionary.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\06_Dictionary\obj\Debug\net8.0\06_Dictionary.AssemblyInfo.cs
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\06_Dictionary\obj\Debug\net8.0\06_Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\06_Dictionary\obj\Debug\net8.0\06_Dictionary.sourcelink.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\06_Dictionary\obj\Debug\net8.0\06_Dictionary.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\06_Dictionary\obj\Debug\net8.0\refint\06_Dictionary.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\06_Dictionary\obj\Debug\net8.0\06_Dictionary.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\06_Dictionary\obj\Debug\net8.0\06_Dictionary.genruntimeconfig.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\06_Dictionary\obj\Debug\net8.0\ref\06_Dictionary.dll

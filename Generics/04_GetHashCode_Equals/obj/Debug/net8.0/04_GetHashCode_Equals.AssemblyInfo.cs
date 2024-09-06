@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("04_GetHashCode_Equals")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6da68167738bb661d78cb9780bca5252325a857b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+754ae45b5c4720ee5c627e63e467b65ceec54fa8")]
 [assembly: System.Reflection.AssemblyProductAttribute("04_GetHashCode_Equals")]
 [assembly: System.Reflection.AssemblyTitleAttribute("04_GetHashCode_Equals")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

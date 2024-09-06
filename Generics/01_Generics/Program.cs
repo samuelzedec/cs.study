@@ -20,6 +20,7 @@ Console.ReadKey();
 //         Console.WriteLine($"{p1} e {p2} são iguais: {resultado}");
 //     }
 // }
+
 public class Teste<T1, T2>
 {
     public void Comparar(T1 p1, T2 p2)

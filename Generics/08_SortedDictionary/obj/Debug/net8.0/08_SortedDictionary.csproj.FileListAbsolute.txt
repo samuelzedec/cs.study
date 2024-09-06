@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\08_SortedDictionary\bin\Debug\net8.0\08_SortedDictionary.exe
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\08_SortedDictionary\bin\Debug\net8.0\08_SortedDictionary.deps.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\08_SortedDictionary\bin\Debug\net8.0\08_SortedDictionary.runtimeconfig.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\08_SortedDictionary\bin\Debug\net8.0\08_SortedDictionary.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\08_SortedDictionary\bin\Debug\net8.0\08_SortedDictionary.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\08_SortedDictionary\obj\Debug\net8.0\08_SortedDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\08_SortedDictionary\obj\Debug\net8.0\08_SortedDictionary.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\08_SortedDictionary\obj\Debug\net8.0\08_SortedDictionary.AssemblyInfo.cs
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\08_SortedDictionary\obj\Debug\net8.0\08_SortedDictionary.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\08_SortedDictionary\obj\Debug\net8.0\08_SortedDictionary.sourcelink.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\08_SortedDictionary\obj\Debug\net8.0\08_SortedDictionary.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\08_SortedDictionary\obj\Debug\net8.0\refint\08_SortedDictionary.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\08_SortedDictionary\obj\Debug\net8.0\08_SortedDictionary.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\08_SortedDictionary\obj\Debug\net8.0\08_SortedDictionary.genruntimeconfig.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\08_SortedDictionary\obj\Debug\net8.0\ref\08_SortedDictionary.dll
