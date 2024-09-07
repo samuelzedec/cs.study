@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\10_SortedSet\bin\Debug\net8.0\10_SortedSet.exe
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\10_SortedSet\bin\Debug\net8.0\10_SortedSet.deps.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\10_SortedSet\bin\Debug\net8.0\10_SortedSet.runtimeconfig.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\10_SortedSet\bin\Debug\net8.0\10_SortedSet.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\10_SortedSet\bin\Debug\net8.0\10_SortedSet.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\10_SortedSet\obj\Debug\net8.0\10_SortedSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\10_SortedSet\obj\Debug\net8.0\10_SortedSet.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\10_SortedSet\obj\Debug\net8.0\10_SortedSet.AssemblyInfo.cs
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\10_SortedSet\obj\Debug\net8.0\10_SortedSet.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\10_SortedSet\obj\Debug\net8.0\10_SortedSet.sourcelink.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\10_SortedSet\obj\Debug\net8.0\10_SortedSet.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\10_SortedSet\obj\Debug\net8.0\refint\10_SortedSet.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\10_SortedSet\obj\Debug\net8.0\10_SortedSet.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\10_SortedSet\obj\Debug\net8.0\10_SortedSet.genruntimeconfig.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\10_SortedSet\obj\Debug\net8.0\ref\10_SortedSet.dll

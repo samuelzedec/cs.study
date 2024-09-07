@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\09_HashSet\bin\Debug\net8.0\09_HashSet.exe
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\09_HashSet\bin\Debug\net8.0\09_HashSet.deps.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\09_HashSet\bin\Debug\net8.0\09_HashSet.runtimeconfig.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\09_HashSet\bin\Debug\net8.0\09_HashSet.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\09_HashSet\bin\Debug\net8.0\09_HashSet.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\09_HashSet\obj\Debug\net8.0\09_HashSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\09_HashSet\obj\Debug\net8.0\09_HashSet.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\09_HashSet\obj\Debug\net8.0\09_HashSet.AssemblyInfo.cs
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\09_HashSet\obj\Debug\net8.0\09_HashSet.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\09_HashSet\obj\Debug\net8.0\09_HashSet.sourcelink.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\09_HashSet\obj\Debug\net8.0\09_HashSet.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\09_HashSet\obj\Debug\net8.0\refint\09_HashSet.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\09_HashSet\obj\Debug\net8.0\09_HashSet.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\09_HashSet\obj\Debug\net8.0\09_HashSet.genruntimeconfig.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\09_HashSet\obj\Debug\net8.0\ref\09_HashSet.dll

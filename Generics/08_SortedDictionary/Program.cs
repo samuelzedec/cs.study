@@ -12,7 +12,7 @@ SortedDictionary<int, string> brics = new()
 Console.WriteLine("\n-Incluindo o elemento de chave=70 e valor=África do Sul");
 if(!brics.ContainsKey(70)) brics.Add(70, "África do Sul");
 
-Console.WriteLine($"\n-Número de pares de chaves(elementos) no dicionácio: {brics.Count}");
+Console.WriteLine($"\n-Número de pares de chaves(elementos) no dicionário: {brics.Count}");
 
 Console.WriteLine($"\n-Acessando um elemento pela chave -> 20");
 Console.WriteLine($"Chave 20 -> {brics[20]}");
@@ -29,8 +29,14 @@ Console.WriteLine($"Existe o valor: 'Chile'? -> {brics.ContainsValue("Chile")}")
 
 Console.WriteLine("\n-Obtendo o valor da chave 30 usando o TryGetValue");
 if(brics.TryGetValue(30, out string pais))
-    Console.WriteLine($"Valor na cahve 30: {pais}");
+    Console.WriteLine($"Valor na chave 30: {pais}");
 
+var keys = brics.Keys;
+
+foreach (var ky in keys)
+{
+    Console.WriteLine($"Chaves: {ky}");
+}
 
 Console.WriteLine();
 
