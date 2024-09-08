@@ -22,7 +22,7 @@ if (timeMundiais.IsSupersetOf(timeSP)) Console.WriteLine("- timeMundiais é um s
 //Aqui estamos a verificar se há pelo menos 1 elemento do timeRJ no timeMundiais
 if (timeRJ.Overlaps(timeMundiais)) Console.WriteLine("- Pelo menos um time do RJ tem título mundial");
 
-//Aqui estamos a verificar se timeSP e timeRJ contém os mesmos elementos independente da ormdem
+//Aqui estamos a verificar se timeSP e timeRJ contém os mesmos elementos independente da ordem
 if (!timeSP.SetEquals(timeRJ)) Console.WriteLine("- timeSP e timeRJ não contém os mesmos elementos");
 
 //Aqui estamos a unir duas HashSet<T>, sendo assim, timeSP vai conter os elementos de timeRJ e timeBA
@@ -44,7 +44,7 @@ ExibirColecao(timeSP);
 */
 
 Console.WriteLine("\n- Diferença de dois HashSet<T> : timeMundiais e timeSP");
-//Nesse caso ele está a filtrar apenas os elementos q não tiver em ambas colções, sendo assim, o timeMundiais ficará com apenas os elementos q forem diferentes
+//Nesse caso ele está a filtrar apenas os elementos q não tiver em timeSP, sendo assim, o timeMundiais ficará com apenas os elementos q forem diferentes
 /*timeMundiais.ExceptWith(timeSP);
 ExibirColecao(timeMundiais);*/
 //no caso do ExceptWith ele ira-so filtra os times q timeMundiais tem e timeSP não tem

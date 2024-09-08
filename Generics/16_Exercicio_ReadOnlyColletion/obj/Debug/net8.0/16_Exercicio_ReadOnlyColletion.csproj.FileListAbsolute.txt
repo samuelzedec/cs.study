@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\16_Exercicio_ReadOnlyColletion\bin\Debug\net8.0\16_Exercicio_ReadOnlyColletion.exe
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\16_Exercicio_ReadOnlyColletion\bin\Debug\net8.0\16_Exercicio_ReadOnlyColletion.deps.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\16_Exercicio_ReadOnlyColletion\bin\Debug\net8.0\16_Exercicio_ReadOnlyColletion.runtimeconfig.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\16_Exercicio_ReadOnlyColletion\bin\Debug\net8.0\16_Exercicio_ReadOnlyColletion.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\16_Exercicio_ReadOnlyColletion\bin\Debug\net8.0\16_Exercicio_ReadOnlyColletion.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\16_Exercicio_ReadOnlyColletion\obj\Debug\net8.0\16_Exercicio_ReadOnlyColletion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\16_Exercicio_ReadOnlyColletion\obj\Debug\net8.0\16_Exercicio_ReadOnlyColletion.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\16_Exercicio_ReadOnlyColletion\obj\Debug\net8.0\16_Exercicio_ReadOnlyColletion.AssemblyInfo.cs
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\16_Exercicio_ReadOnlyColletion\obj\Debug\net8.0\16_Exercicio_ReadOnlyColletion.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\16_Exercicio_ReadOnlyColletion\obj\Debug\net8.0\16_Exercicio_ReadOnlyColletion.sourcelink.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\16_Exercicio_ReadOnlyColletion\obj\Debug\net8.0\16_Exercicio_ReadOnlyColletion.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\16_Exercicio_ReadOnlyColletion\obj\Debug\net8.0\refint\16_Exercicio_ReadOnlyColletion.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\16_Exercicio_ReadOnlyColletion\obj\Debug\net8.0\16_Exercicio_ReadOnlyColletion.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\16_Exercicio_ReadOnlyColletion\obj\Debug\net8.0\16_Exercicio_ReadOnlyColletion.genruntimeconfig.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\16_Exercicio_ReadOnlyColletion\obj\Debug\net8.0\ref\16_Exercicio_ReadOnlyColletion.dll

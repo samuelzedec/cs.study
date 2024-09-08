@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\13_Queue\bin\Debug\net8.0\13_Queue.exe
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\13_Queue\bin\Debug\net8.0\13_Queue.deps.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\13_Queue\bin\Debug\net8.0\13_Queue.runtimeconfig.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\13_Queue\bin\Debug\net8.0\13_Queue.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\13_Queue\bin\Debug\net8.0\13_Queue.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\13_Queue\obj\Debug\net8.0\13_Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\13_Queue\obj\Debug\net8.0\13_Queue.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\13_Queue\obj\Debug\net8.0\13_Queue.AssemblyInfo.cs
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\13_Queue\obj\Debug\net8.0\13_Queue.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\13_Queue\obj\Debug\net8.0\13_Queue.sourcelink.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\13_Queue\obj\Debug\net8.0\13_Queue.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\13_Queue\obj\Debug\net8.0\refint\13_Queue.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\13_Queue\obj\Debug\net8.0\13_Queue.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\13_Queue\obj\Debug\net8.0\13_Queue.genruntimeconfig.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\13_Queue\obj\Debug\net8.0\ref\13_Queue.dll

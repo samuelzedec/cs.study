@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\15_ReadOnlyCollection\bin\Debug\net8.0\15_ReadOnlyCollection.exe
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\15_ReadOnlyCollection\bin\Debug\net8.0\15_ReadOnlyCollection.deps.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\15_ReadOnlyCollection\bin\Debug\net8.0\15_ReadOnlyCollection.runtimeconfig.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\15_ReadOnlyCollection\bin\Debug\net8.0\15_ReadOnlyCollection.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\15_ReadOnlyCollection\bin\Debug\net8.0\15_ReadOnlyCollection.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\15_ReadOnlyCollection\obj\Debug\net8.0\15_ReadOnlyCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\15_ReadOnlyCollection\obj\Debug\net8.0\15_ReadOnlyCollection.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\15_ReadOnlyCollection\obj\Debug\net8.0\15_ReadOnlyCollection.AssemblyInfo.cs
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\15_ReadOnlyCollection\obj\Debug\net8.0\15_ReadOnlyCollection.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\15_ReadOnlyCollection\obj\Debug\net8.0\15_ReadOnlyCollection.sourcelink.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\15_ReadOnlyCollection\obj\Debug\net8.0\15_ReadOnlyCollection.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\15_ReadOnlyCollection\obj\Debug\net8.0\refint\15_ReadOnlyCollection.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\15_ReadOnlyCollection\obj\Debug\net8.0\15_ReadOnlyCollection.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\15_ReadOnlyCollection\obj\Debug\net8.0\15_ReadOnlyCollection.genruntimeconfig.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\15_ReadOnlyCollection\obj\Debug\net8.0\ref\15_ReadOnlyCollection.dll

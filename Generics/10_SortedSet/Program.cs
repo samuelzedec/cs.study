@@ -9,4 +9,3 @@ static void ExibirElemento<T>(IEnumerable<T> list)
 {
     foreach (var item in list) Console.WriteLine($"Item: {item}");
 }
- 

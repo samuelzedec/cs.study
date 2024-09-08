@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\11_Stack\bin\Debug\net8.0\11_Stack.exe
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\11_Stack\bin\Debug\net8.0\11_Stack.deps.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\11_Stack\bin\Debug\net8.0\11_Stack.runtimeconfig.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\11_Stack\bin\Debug\net8.0\11_Stack.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\11_Stack\bin\Debug\net8.0\11_Stack.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\11_Stack\obj\Debug\net8.0\11_Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\11_Stack\obj\Debug\net8.0\11_Stack.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\11_Stack\obj\Debug\net8.0\11_Stack.AssemblyInfo.cs
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\11_Stack\obj\Debug\net8.0\11_Stack.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\11_Stack\obj\Debug\net8.0\11_Stack.sourcelink.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\11_Stack\obj\Debug\net8.0\11_Stack.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\11_Stack\obj\Debug\net8.0\refint\11_Stack.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\11_Stack\obj\Debug\net8.0\11_Stack.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\11_Stack\obj\Debug\net8.0\11_Stack.genruntimeconfig.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\11_Stack\obj\Debug\net8.0\ref\11_Stack.dll

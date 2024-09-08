@@ -8,32 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Samuel Zedec\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Samuel Zedec\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Samuel Zedec\\Documents\\cs.study\\Colecao\\08_List\\08_List.csproj",
+      "projectUniqueName": "C:\\Users\\Samuel Zedec\\OneDrive\\Documentos\\cs.study\\Colecao\\08_List\\08_List.csproj",
       "projectName": "08_List",
-      "projectPath": "C:\\Users\\Samuel Zedec\\Documents\\cs.study\\Colecao\\08_List\\08_List.csproj",
+      "projectPath": "C:\\Users\\Samuel Zedec\\OneDrive\\Documentos\\cs.study\\Colecao\\08_List\\08_List.csproj",
       "packagesPath": "C:\\Users\\Samuel Zedec\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Samuel Zedec\\Documents\\cs.study\\Colecao\\08_List\\obj\\",
+      "outputPath": "C:\\Users\\Samuel Zedec\\OneDrive\\Documentos\\cs.study\\Colecao\\08_List\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Samuel Zedec\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Samuel Zedec\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -72,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

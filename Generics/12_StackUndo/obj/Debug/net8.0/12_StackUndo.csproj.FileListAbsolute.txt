@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\12_StackUndo\bin\Debug\net8.0\12_StackUndo.exe
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\12_StackUndo\bin\Debug\net8.0\12_StackUndo.deps.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\12_StackUndo\bin\Debug\net8.0\12_StackUndo.runtimeconfig.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\12_StackUndo\bin\Debug\net8.0\12_StackUndo.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\12_StackUndo\bin\Debug\net8.0\12_StackUndo.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\12_StackUndo\obj\Debug\net8.0\12_StackUndo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\12_StackUndo\obj\Debug\net8.0\12_StackUndo.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\12_StackUndo\obj\Debug\net8.0\12_StackUndo.AssemblyInfo.cs
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\12_StackUndo\obj\Debug\net8.0\12_StackUndo.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\12_StackUndo\obj\Debug\net8.0\12_StackUndo.sourcelink.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\12_StackUndo\obj\Debug\net8.0\12_StackUndo.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\12_StackUndo\obj\Debug\net8.0\refint\12_StackUndo.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\12_StackUndo\obj\Debug\net8.0\12_StackUndo.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\12_StackUndo\obj\Debug\net8.0\12_StackUndo.genruntimeconfig.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Generics\12_StackUndo\obj\Debug\net8.0\ref\12_StackUndo.dll

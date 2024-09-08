@@ -24,6 +24,7 @@ for (int i = 0; i < numeroSorteado.Length; i++)
     {
         numeroAleatorio = random.Next(1, 61);
     } while(numeroSorteado.Contains(numeroAleatorio));
+    
     numeroSorteado[i] = numeroAleatorio;
     Console.WriteLine(numeroAleatorio);
 } 
