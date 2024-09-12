@@ -1,5 +1,6 @@
 ﻿using System.Collections.ObjectModel;
 using _16_Exercicio_ReadOnlyColletion;
+
 Console.WriteLine("## Exemplo ReadOnlyColletion<T> ##\n");
 
 /*

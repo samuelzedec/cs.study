@@ -1,5 +1,4 @@
 using System.Collections.ObjectModel;
-
 namespace _16_Exercicio_ReadOnlyColletion;
 
 public class GerenciaExoPlanetas
