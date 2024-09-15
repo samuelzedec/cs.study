@@ -1,37 +1,46 @@
-﻿// ReSharper disable once CheckNamespace
-namespace EX6.Public;
-using Message;
-/*
- * Essa parte da classe foi criada para manter as interações direta com o usuário
- */
+﻿namespace EX6.Private;
 
-public partial class Market 
+public static partial class Market
 {
-    //Aqui estou pedindo que o usuario insira o nome do mercado
-    private static void Name()
+    public static void MarketMainMenu()
     {
-        Message.Name();
-        string name = Console.ReadLine() ?? string.Empty; 
-        CheckName(ref name);
-    }
-
-    public static void Menu()
-    {
-        Name();
         char option;
         do
         {
-            Message.MainMenu(MarketName);
-            
-            //Convertendo o char inserido em uma letra maiúscula
+            Message.MarketMainMenu();
             option = Console.ReadKey().KeyChar;
             option = Char.ToUpper(option);
-            
-            //Função para tranferir o usuário para a sua escolha
-            Choice(option);
-            
-        } while (option != 'D');
-
+            ChoiceMarket(option);
+        } while (option != 'F');
     }
-    
+
+    private static void ChoiceMarket(char choice)
+    {
+        switch (choice)
+        {
+            case 'A':
+                AddItemToInventory();
+                break;
+            case 'B':
+                AddCustomer();
+                break;
+            case 'C':
+                ServeCustomer();
+                break;
+            case 'D':
+                SeeBuyers();
+                break;
+            case 'E':
+                ViewProducts();
+                break;
+            case 'F':
+                Message.ToGoBack();
+                break;
+            default:
+                Message.Error();
+                break;
+            
+        }
+    }
+
 }

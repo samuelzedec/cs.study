@@ -1,5 +1,5 @@
-﻿using EX6.Message;
-using EX6.Public;
+﻿using EX6.Private;
+using EX6;
 
-Message.Presentation();
-Market.Menu();
+Message.Beginning(); 
+Market.MarketMainMenu();

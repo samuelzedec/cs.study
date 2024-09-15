@@ -1,47 +1,140 @@
-﻿// ReSharper disable once CheckNamespace
-namespace EX6.Private;
+﻿namespace EX6.Private;
+using EX6;
 using EX6.Product;
-using Message;
 
 public partial class Customer
 {
-    private string Name = string.Empty;
-    private HashSet<Product> Products = new();
+    private string CustomerName = String.Empty;
+    private List<Product> ProductsInCart = new();
+    private readonly SortedDictionary<int, Product> ProductsInStockMarket;
     
-    private void CheckCustomerName(ref string name)
+    public Customer(Dictionary<int, Product> list)
     {
-        while (string.IsNullOrWhiteSpace(name))
-        {
-            Message.CustomerNameError();
-            name = Console.ReadLine() ?? string.Empty;
-        }
-        Name = name;
+        ProductsInStockMarket = new(list);
+    }
+    
+    public Product this[int index] { get { return ProductsInCart[index]; } }
+    public string customerName { get { return CustomerName; } }
+    public int Size { get { return ProductsInCart.Count; } }
+
+    private void AssignName()
+    {
+        Message.CustomerCheckName();
+        var name = Console.ReadLine() ?? String.Empty;
+        CheckName(name);
     }
 
-    private void ChoiceCustomer(char option)
+
+    private void CheckName(string name)
     {
-        switch (option)
+        while (String.IsNullOrWhiteSpace(name))
         {
-            case 'A':
-                MenuPurchase();
-                break;
-            case 'B':
-                RemovePurchase();
-                break;
-            case 'C':
-                Message.ReturnToMainMenu();
-                break;
-            default:
-                Message.Incorrect();
-                break;
+            Message.CustomerCheckNameError();
+            name = Console.ReadLine() ?? String.Empty;
+        }
+
+        CustomerName = name;
+    }
+
+    private void ItemsInCart(out int items)
+    {
+        items = 0;
+        foreach (var item in ProductsInCart) items += item.amount;
+    }
+
+    //Métodos feitos para adicionar item
+    private void AddItemInCart(int code)
+    {
+        if (code == 0)
+        {
+            Message.ToGoBack();
+            return;
+        }
+
+        ProductsInStockMarket.TryGetValue(code, out var item);
+        if (item != null) Found(item);
+        if (item == null) Message.ErrorProduct();
+    }
+
+    private void Found(Product item)
+    {
+        int quantity;
+        Message.AddProduct(item.productName, item.mark, item.price);
+        try
+        {
+            quantity = Convert.ToInt32(Console.ReadLine());
+        }
+        catch
+        {
+            quantity = 0;
+        }
+
+        if (quantity <= 0) return;
+
+        if (!ProductsInCart.Any(x => x.Equals(item)))
+        {
+            item.amount = quantity;
+            ProductsInCart.Add(item);
+        }
+        else
+        {
+            SearchIndex(item, quantity);
         }
     }
 
-    //Método para calcular o total de itens no carrinho do cliente
-    private int ItemsInCart(out int total)
+    private void SearchIndex(Product item, int quantity)
     {
-        total = 0;
-        foreach (var items in Products) total += items.amount;
-        return total;
+        var index = ProductsInCart.FindIndex(x => x.Equals(item));
+        ProductsInCart[index].AddQuantity(quantity);
     }
+    //Termino dos métodos para adicionar item
+
+    //Métodos para remover item
+    private void RemoveItemInCart(int code)
+    {
+        if (code == 0)
+        {
+            Message.ToGoBack();
+            return;
+        }
+
+        ProductsInStockMarket.TryGetValue(code, out var item);
+        if (item != null) RemovingFromCart(item);
+        if (item == null) Message.ErrorProduct();
+    }
+
+    private void RemovingFromCart(Product item)
+    {
+        int quantity;
+        var index = ProductsInCart.FindIndex(x => x.Equals(item));
+        if (index == -1)
+        {
+            Message.ErrorProduct();
+            return;
+        }
+        
+        Message.InfoProduct(ProductsInCart[index].productName, ProductsInCart[index].validity, ProductsInCart[index].amount);
+        try
+        {
+            quantity = Convert.ToInt32(Console.ReadLine());
+        }
+        catch
+        {
+            quantity = 0;
+        }
+        
+        Removing(index, quantity);
+    }
+
+    private void Removing(int index, int quantity)
+    {
+        if (quantity == 0) return;
+        if (quantity > ProductsInCart[index].amount || quantity == ProductsInCart[index].amount)
+        {
+            ProductsInCart.RemoveAt(index);
+            return;
+        }
+        if(quantity < ProductsInCart[index].amount) ProductsInCart[index].RemoveQuantity(quantity);
+    }
+    
 }

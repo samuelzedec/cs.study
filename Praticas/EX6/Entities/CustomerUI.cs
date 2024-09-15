@@ -1,30 +1,85 @@
-﻿// ReSharper disable once CheckNamespace
-namespace EX6.Private;
-using Message;
-
+﻿namespace EX6.Private;
+using EX6;
+using EX6.Product;
 public partial class Customer
 {
-    public void Menu()
+    public void CustomerHomeMenu()
     {
         char option;
-        CustomerName();
-
+        AssignName();
         do
         {
             ItemsInCart(out int items);
-            Message.CustomerMenu(Name, items);
+            Message.CustomerHomeMenu(CustomerName, items);
+            
             option = Console.ReadKey().KeyChar;
-            option = char.ToUpper(option);
+            option = Char.ToUpper(option);
             
-            ChoiceCustomer(option);
-            
+            CustomerChoice(option);
         } while (option != 'C');
     }
 
-    private void CustomerName()
+    private void CustomerChoice(char choice)
     {
-        Message.CustomerName();
-        string name = Console.ReadLine() ?? string.Empty;
-        CheckCustomerName(ref name);
+        switch (choice)
+        {
+            case 'A':
+                AddItems();
+                break;
+            case 'B':
+                QuantityCheck();
+                break;
+            case 'C':
+                Message.ToGoBack();
+                break;
+            default:
+                Message.Error();
+                break;
+        }
+    }
+
+    private void AddItems()
+    {
+        int code;
+        do
+        {
+            Message.ChoiceProducts(ProductsInStockMarket);
+            try
+            {
+                code = Convert.ToInt32(Console.ReadLine());
+            }
+            catch
+            {
+                code = 0;
+            }
+            AddItemInCart(code);
+        } while (code != 0);
+    }
+
+    private void QuantityCheck()
+    {
+        if(ProductsInCart.Count > 0) RemoveProduct();
+        else Message.ErrorRemove();
+    }
+
+
+    private void RemoveProduct()
+    {
+        var code = 0;
+        do
+        {
+            Message.RemoveItemsInCart(ProductsInCart);
+            try
+            {
+                code = Convert.ToInt32(Console.ReadLine());
+            }
+            catch
+            {
+                code = 0;
+            }
+            
+            RemoveItemInCart(code);
+            
+        } while (code != 0);
     }
 }
