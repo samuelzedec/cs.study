@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\TratamentosDeErros\03_FiltrandoExcecoes\bin\Debug\net9.0\03_FiltrandoExcecoes.exe
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\TratamentosDeErros\03_FiltrandoExcecoes\bin\Debug\net9.0\03_FiltrandoExcecoes.deps.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\TratamentosDeErros\03_FiltrandoExcecoes\bin\Debug\net9.0\03_FiltrandoExcecoes.runtimeconfig.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\TratamentosDeErros\03_FiltrandoExcecoes\bin\Debug\net9.0\03_FiltrandoExcecoes.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\TratamentosDeErros\03_FiltrandoExcecoes\bin\Debug\net9.0\03_FiltrandoExcecoes.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\TratamentosDeErros\03_FiltrandoExcecoes\obj\Debug\net9.0\03_FiltrandoExcecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\TratamentosDeErros\03_FiltrandoExcecoes\obj\Debug\net9.0\03_FiltrandoExcecoes.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\TratamentosDeErros\03_FiltrandoExcecoes\obj\Debug\net9.0\03_FiltrandoExcecoes.AssemblyInfo.cs
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\TratamentosDeErros\03_FiltrandoExcecoes\obj\Debug\net9.0\03_FiltrandoExcecoes.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\TratamentosDeErros\03_FiltrandoExcecoes\obj\Debug\net9.0\03_FiltrandoExcecoes.sourcelink.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\TratamentosDeErros\03_FiltrandoExcecoes\obj\Debug\net9.0\03_FiltrandoExcecoes.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\TratamentosDeErros\03_FiltrandoExcecoes\obj\Debug\net9.0\refint\03_FiltrandoExcecoes.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\TratamentosDeErros\03_FiltrandoExcecoes\obj\Debug\net9.0\03_FiltrandoExcecoes.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\TratamentosDeErros\03_FiltrandoExcecoes\obj\Debug\net9.0\03_FiltrandoExcecoes.genruntimeconfig.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\TratamentosDeErros\03_FiltrandoExcecoes\obj\Debug\net9.0\ref\03_FiltrandoExcecoes.dll

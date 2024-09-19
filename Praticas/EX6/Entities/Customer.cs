@@ -136,5 +136,4 @@ public partial class Customer
         }
         if(quantity < ProductsInCart[index].amount) ProductsInCart[index].RemoveQuantity(quantity);
     }
-    
 }

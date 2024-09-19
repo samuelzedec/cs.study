@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\TratamentosDeErros\05_ExcecoesPersonalizadas\bin\Debug\net9.0\05_ExcecoesPersonalizadas.exe
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\TratamentosDeErros\05_ExcecoesPersonalizadas\bin\Debug\net9.0\05_ExcecoesPersonalizadas.deps.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\TratamentosDeErros\05_ExcecoesPersonalizadas\bin\Debug\net9.0\05_ExcecoesPersonalizadas.runtimeconfig.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\TratamentosDeErros\05_ExcecoesPersonalizadas\bin\Debug\net9.0\05_ExcecoesPersonalizadas.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\TratamentosDeErros\05_ExcecoesPersonalizadas\bin\Debug\net9.0\05_ExcecoesPersonalizadas.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\TratamentosDeErros\05_ExcecoesPersonalizadas\obj\Debug\net9.0\05_ExcecoesPersonalizadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\TratamentosDeErros\05_ExcecoesPersonalizadas\obj\Debug\net9.0\05_ExcecoesPersonalizadas.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\TratamentosDeErros\05_ExcecoesPersonalizadas\obj\Debug\net9.0\05_ExcecoesPersonalizadas.AssemblyInfo.cs
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\TratamentosDeErros\05_ExcecoesPersonalizadas\obj\Debug\net9.0\05_ExcecoesPersonalizadas.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\TratamentosDeErros\05_ExcecoesPersonalizadas\obj\Debug\net9.0\05_ExcecoesPersonalizadas.sourcelink.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\TratamentosDeErros\05_ExcecoesPersonalizadas\obj\Debug\net9.0\05_ExcecoesPersonalizadas.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\TratamentosDeErros\05_ExcecoesPersonalizadas\obj\Debug\net9.0\refint\05_ExcecoesPersonalizadas.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\TratamentosDeErros\05_ExcecoesPersonalizadas\obj\Debug\net9.0\05_ExcecoesPersonalizadas.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\TratamentosDeErros\05_ExcecoesPersonalizadas\obj\Debug\net9.0\05_ExcecoesPersonalizadas.genruntimeconfig.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\TratamentosDeErros\05_ExcecoesPersonalizadas\obj\Debug\net9.0\ref\05_ExcecoesPersonalizadas.dll

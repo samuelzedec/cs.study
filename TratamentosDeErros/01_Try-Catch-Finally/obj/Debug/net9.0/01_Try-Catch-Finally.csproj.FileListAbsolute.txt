@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\TratamentosDeErros\01_Try-Catch-Finally\bin\Debug\net9.0\01_Try-Catch-Finally.exe
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\TratamentosDeErros\01_Try-Catch-Finally\bin\Debug\net9.0\01_Try-Catch-Finally.deps.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\TratamentosDeErros\01_Try-Catch-Finally\bin\Debug\net9.0\01_Try-Catch-Finally.runtimeconfig.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\TratamentosDeErros\01_Try-Catch-Finally\bin\Debug\net9.0\01_Try-Catch-Finally.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\TratamentosDeErros\01_Try-Catch-Finally\bin\Debug\net9.0\01_Try-Catch-Finally.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\TratamentosDeErros\01_Try-Catch-Finally\obj\Debug\net9.0\01_Try-Catch-Finally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\TratamentosDeErros\01_Try-Catch-Finally\obj\Debug\net9.0\01_Try-Catch-Finally.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\TratamentosDeErros\01_Try-Catch-Finally\obj\Debug\net9.0\01_Try-Catch-Finally.AssemblyInfo.cs
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\TratamentosDeErros\01_Try-Catch-Finally\obj\Debug\net9.0\01_Try-Catch-Finally.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\TratamentosDeErros\01_Try-Catch-Finally\obj\Debug\net9.0\01_Try-Catch-Finally.sourcelink.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\TratamentosDeErros\01_Try-Catch-Finally\obj\Debug\net9.0\01_Try-Catch-Finally.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\TratamentosDeErros\01_Try-Catch-Finally\obj\Debug\net9.0\refint\01_Try-Catch-Finally.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\TratamentosDeErros\01_Try-Catch-Finally\obj\Debug\net9.0\01_Try-Catch-Finally.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\TratamentosDeErros\01_Try-Catch-Finally\obj\Debug\net9.0\01_Try-Catch-Finally.genruntimeconfig.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\TratamentosDeErros\01_Try-Catch-Finally\obj\Debug\net9.0\ref\01_Try-Catch-Finally.dll
