@@ -25,12 +25,14 @@ public class BinaryTree
 {
     public void Invert(TreeNode node)
     {
-        if (node == null) throw new Exception("Não é possível continuar!");
+        if (node == null) return;
 
         // Trocar os filhos esquerdo e direito
         TreeNode temp = node.Left;
         node.Left = node.Right;
         node.Right = temp;
+
+        Console.WriteLine("Success");
 
         // Inverter recursivamente os subárvores
         Invert(node.Left);
