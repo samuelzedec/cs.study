@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\02_MulticastDelegate\bin\Debug\net9.0\02_MulticastDelegate.exe
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\02_MulticastDelegate\bin\Debug\net9.0\02_MulticastDelegate.deps.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\02_MulticastDelegate\bin\Debug\net9.0\02_MulticastDelegate.runtimeconfig.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\02_MulticastDelegate\bin\Debug\net9.0\02_MulticastDelegate.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\02_MulticastDelegate\bin\Debug\net9.0\02_MulticastDelegate.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\02_MulticastDelegate\obj\Debug\net9.0\02_MulticastDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\02_MulticastDelegate\obj\Debug\net9.0\02_MulticastDelegate.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\02_MulticastDelegate\obj\Debug\net9.0\02_MulticastDelegate.AssemblyInfo.cs
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\02_MulticastDelegate\obj\Debug\net9.0\02_MulticastDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\02_MulticastDelegate\obj\Debug\net9.0\02_MulticastDelegate.sourcelink.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\02_MulticastDelegate\obj\Debug\net9.0\02_MulticastDelegate.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\02_MulticastDelegate\obj\Debug\net9.0\refint\02_MulticastDelegate.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\02_MulticastDelegate\obj\Debug\net9.0\02_MulticastDelegate.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\02_MulticastDelegate\obj\Debug\net9.0\02_MulticastDelegate.genruntimeconfig.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\02_MulticastDelegate\obj\Debug\net9.0\ref\02_MulticastDelegate.dll

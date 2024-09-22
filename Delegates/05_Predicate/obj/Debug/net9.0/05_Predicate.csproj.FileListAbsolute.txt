@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\05_Predicate\bin\Debug\net9.0\05_Predicate.exe
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\05_Predicate\bin\Debug\net9.0\05_Predicate.deps.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\05_Predicate\bin\Debug\net9.0\05_Predicate.runtimeconfig.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\05_Predicate\bin\Debug\net9.0\05_Predicate.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\05_Predicate\bin\Debug\net9.0\05_Predicate.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\05_Predicate\obj\Debug\net9.0\05_Predicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\05_Predicate\obj\Debug\net9.0\05_Predicate.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\05_Predicate\obj\Debug\net9.0\05_Predicate.AssemblyInfo.cs
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\05_Predicate\obj\Debug\net9.0\05_Predicate.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\05_Predicate\obj\Debug\net9.0\05_Predicate.sourcelink.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\05_Predicate\obj\Debug\net9.0\05_Predicate.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\05_Predicate\obj\Debug\net9.0\refint\05_Predicate.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\05_Predicate\obj\Debug\net9.0\05_Predicate.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\05_Predicate\obj\Debug\net9.0\05_Predicate.genruntimeconfig.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\05_Predicate\obj\Debug\net9.0\ref\05_Predicate.dll

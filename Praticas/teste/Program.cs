@@ -1,57 +1,39 @@
-﻿//Console.WriteLine("Testando lógica em target");
-//int[] nums = { 2, 11, 7, 15, 19 };
+﻿Console.WriteLine("Invertendo um árvore binária");
 
-//Console.WriteLine("Array: { 2, 11, 7, 15, 19 }");
-//Console.Write("Informe um número: ");
-//int num = Convert.ToInt32(Console.ReadLine());
-//bool achado = false;
+TreeNode node = new(1);
+node.Left = new(2);
+node.Right = new(3);
 
-//for(int i = 0; i < nums.Length; i++)
-//{
-//    for(int j = 0; j < nums.Length; j++)
-//    {
-//        if (nums[i] + nums[j] == num)
-//        {
-//            Console.WriteLine($"Indice dos números = [{i}, {j}]");
-//            achado = true;
-//            break;
-//        }
-//    }
+BinaryTree tree = new();
+tree.Invert(node);
 
-//    if(achado) break;
-//}
-
-
-string letra1 = "ABC";
-string letra2 = "ABABABAAB";
-
-string repetido = "";
-
-for (int i = 0; i < letra1.Length; i++)
+public class TreeNode
 {
-    for (int j = 0; j < letra2.Length; j++)
+    public int Value;
+    public TreeNode Left;  // Filho esquerdo
+    public TreeNode Right; // Filho direito
+
+    public TreeNode(int value)
     {
-        char car = '\0';
-        if (letra1[i] == letra2[j])
-        {
-            car = letra1[i];
-            if(!repetido.Contains(car)) {
-                repetido += car;
-            }
-        }
+        Value = value;
+        Left = null;
+        Right = null;
     }
 }
-Console.WriteLine(repetido);
 
-//string palavra = "arara";
-//string inverso = "";
+public class BinaryTree
+{
+    public void Invert(TreeNode node)
+    {
+        if (node == null) throw new Exception("Não é possível continuar!");
 
-//for(int i = palavra.Length - 1; i >= 0; i--)
-//{
-//    inverso += palavra[i];
-//}
+        // Trocar os filhos esquerdo e direito
+        TreeNode temp = node.Left;
+        node.Left = node.Right;
+        node.Right = temp;
 
-//if(palavra == inverso)
-//{
-//    Console.WriteLine("É um palídromo");
-//}
+        // Inverter recursivamente os subárvores
+        Invert(node.Left);
+        Invert(node.Right);
+    }
+}

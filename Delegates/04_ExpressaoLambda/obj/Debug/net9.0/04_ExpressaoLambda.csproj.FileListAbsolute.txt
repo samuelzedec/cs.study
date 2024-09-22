@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\04_ExpressaoLambda\bin\Debug\net9.0\04_ExpressaoLambda.exe
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\04_ExpressaoLambda\bin\Debug\net9.0\04_ExpressaoLambda.deps.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\04_ExpressaoLambda\bin\Debug\net9.0\04_ExpressaoLambda.runtimeconfig.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\04_ExpressaoLambda\bin\Debug\net9.0\04_ExpressaoLambda.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\04_ExpressaoLambda\bin\Debug\net9.0\04_ExpressaoLambda.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\04_ExpressaoLambda\obj\Debug\net9.0\04_ExpressaoLambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\04_ExpressaoLambda\obj\Debug\net9.0\04_ExpressaoLambda.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\04_ExpressaoLambda\obj\Debug\net9.0\04_ExpressaoLambda.AssemblyInfo.cs
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\04_ExpressaoLambda\obj\Debug\net9.0\04_ExpressaoLambda.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\04_ExpressaoLambda\obj\Debug\net9.0\04_ExpressaoLambda.sourcelink.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\04_ExpressaoLambda\obj\Debug\net9.0\04_ExpressaoLambda.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\04_ExpressaoLambda\obj\Debug\net9.0\refint\04_ExpressaoLambda.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\04_ExpressaoLambda\obj\Debug\net9.0\04_ExpressaoLambda.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\04_ExpressaoLambda\obj\Debug\net9.0\04_ExpressaoLambda.genruntimeconfig.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\04_ExpressaoLambda\obj\Debug\net9.0\ref\04_ExpressaoLambda.dll

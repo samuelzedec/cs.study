@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\03_MetodosAnonimos\bin\Debug\net9.0\03_MetodosAnonimos.exe
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\03_MetodosAnonimos\bin\Debug\net9.0\03_MetodosAnonimos.deps.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\03_MetodosAnonimos\bin\Debug\net9.0\03_MetodosAnonimos.runtimeconfig.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\03_MetodosAnonimos\bin\Debug\net9.0\03_MetodosAnonimos.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\03_MetodosAnonimos\bin\Debug\net9.0\03_MetodosAnonimos.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\03_MetodosAnonimos\obj\Debug\net9.0\03_MetodosAnonimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\03_MetodosAnonimos\obj\Debug\net9.0\03_MetodosAnonimos.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\03_MetodosAnonimos\obj\Debug\net9.0\03_MetodosAnonimos.AssemblyInfo.cs
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\03_MetodosAnonimos\obj\Debug\net9.0\03_MetodosAnonimos.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\03_MetodosAnonimos\obj\Debug\net9.0\03_MetodosAnonimos.sourcelink.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\03_MetodosAnonimos\obj\Debug\net9.0\03_MetodosAnonimos.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\03_MetodosAnonimos\obj\Debug\net9.0\refint\03_MetodosAnonimos.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\03_MetodosAnonimos\obj\Debug\net9.0\03_MetodosAnonimos.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\03_MetodosAnonimos\obj\Debug\net9.0\03_MetodosAnonimos.genruntimeconfig.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\03_MetodosAnonimos\obj\Debug\net9.0\ref\03_MetodosAnonimos.dll

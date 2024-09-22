@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\01_Delegates\bin\Debug\net9.0\01_Delegates.exe
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\01_Delegates\bin\Debug\net9.0\01_Delegates.deps.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\01_Delegates\bin\Debug\net9.0\01_Delegates.runtimeconfig.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\01_Delegates\bin\Debug\net9.0\01_Delegates.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\01_Delegates\bin\Debug\net9.0\01_Delegates.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\01_Delegates\obj\Debug\net9.0\01_Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\01_Delegates\obj\Debug\net9.0\01_Delegates.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\01_Delegates\obj\Debug\net9.0\01_Delegates.AssemblyInfo.cs
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\01_Delegates\obj\Debug\net9.0\01_Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\01_Delegates\obj\Debug\net9.0\01_Delegates.sourcelink.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\01_Delegates\obj\Debug\net9.0\01_Delegates.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\01_Delegates\obj\Debug\net9.0\refint\01_Delegates.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\01_Delegates\obj\Debug\net9.0\01_Delegates.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\01_Delegates\obj\Debug\net9.0\01_Delegates.genruntimeconfig.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\01_Delegates\obj\Debug\net9.0\ref\01_Delegates.dll

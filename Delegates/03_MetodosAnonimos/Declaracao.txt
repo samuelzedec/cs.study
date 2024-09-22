@@ -1,0 +1,11 @@
+﻿Console.WriteLine("## Métodos Anônimos ##\n");
+Imprimir imprimir = delegate(int valor) 
+{
+    Console.WriteLine($"valor: {valor}");
+}
+
+imprimir(9);
+Console.ReadKey();
+public delegate void Imprimir(int valor); 
+
+//Isso é uma forma de usar a função anônima sem precisar passar ela como callback de outra função

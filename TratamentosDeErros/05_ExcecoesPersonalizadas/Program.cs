@@ -20,9 +20,6 @@ catch(Exception ex)
     Console.WriteLine(ex.StackTrace);
 }
 
-
-
-
 public class Conta
 {
     public Conta(int numero, string? titular, decimal saldo)
@@ -43,7 +40,7 @@ public class Conta
         return valor;
     }
 
-    public decimal Sacar(decimal valor)
+    public decimal Sacar(decimal valor) 
     {
         Console.WriteLine($"Sacou: {valor}");
         if (Saldo < valor) throw new SaldoInsuficienteException(valor, Saldo);
@@ -52,7 +49,7 @@ public class Conta
         return valor;
     }
 
-    public override string ToString()
+    public override string ToString() 
     {
         return $"Conta : {Numero} : {Titular} - Saldo: {Saldo:C}";
     }
