@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\06_Action\bin\Debug\net9.0\06_Action.exe
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\06_Action\bin\Debug\net9.0\06_Action.deps.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\06_Action\bin\Debug\net9.0\06_Action.runtimeconfig.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\06_Action\bin\Debug\net9.0\06_Action.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\06_Action\bin\Debug\net9.0\06_Action.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\06_Action\obj\Debug\net9.0\06_Action.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\06_Action\obj\Debug\net9.0\06_Action.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\06_Action\obj\Debug\net9.0\06_Action.AssemblyInfo.cs
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\06_Action\obj\Debug\net9.0\06_Action.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\06_Action\obj\Debug\net9.0\06_Action.sourcelink.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\06_Action\obj\Debug\net9.0\06_Action.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\06_Action\obj\Debug\net9.0\refint\06_Action.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\06_Action\obj\Debug\net9.0\06_Action.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\06_Action\obj\Debug\net9.0\06_Action.genruntimeconfig.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\06_Action\obj\Debug\net9.0\ref\06_Action.dll

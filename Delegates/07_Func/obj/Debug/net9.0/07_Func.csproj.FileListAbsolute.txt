@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\07_Func\bin\Debug\net9.0\07_Func.exe
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\07_Func\bin\Debug\net9.0\07_Func.deps.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\07_Func\bin\Debug\net9.0\07_Func.runtimeconfig.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\07_Func\bin\Debug\net9.0\07_Func.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\07_Func\bin\Debug\net9.0\07_Func.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\07_Func\obj\Debug\net9.0\07_Func.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\07_Func\obj\Debug\net9.0\07_Func.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\07_Func\obj\Debug\net9.0\07_Func.AssemblyInfo.cs
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\07_Func\obj\Debug\net9.0\07_Func.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\07_Func\obj\Debug\net9.0\07_Func.sourcelink.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\07_Func\obj\Debug\net9.0\07_Func.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\07_Func\obj\Debug\net9.0\refint\07_Func.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\07_Func\obj\Debug\net9.0\07_Func.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\07_Func\obj\Debug\net9.0\07_Func.genruntimeconfig.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\07_Func\obj\Debug\net9.0\ref\07_Func.dll
