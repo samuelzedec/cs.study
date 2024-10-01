@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\11_TEventHandler\bin\Debug\net9.0\11_TEventHandler.exe
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\11_TEventHandler\bin\Debug\net9.0\11_TEventHandler.deps.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\11_TEventHandler\bin\Debug\net9.0\11_TEventHandler.runtimeconfig.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\11_TEventHandler\bin\Debug\net9.0\11_TEventHandler.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\11_TEventHandler\bin\Debug\net9.0\11_TEventHandler.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\11_TEventHandler\obj\Debug\net9.0\11_TEventHandler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\11_TEventHandler\obj\Debug\net9.0\11_TEventHandler.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\11_TEventHandler\obj\Debug\net9.0\11_TEventHandler.AssemblyInfo.cs
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\11_TEventHandler\obj\Debug\net9.0\11_TEventHandler.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\11_TEventHandler\obj\Debug\net9.0\11_TEventHandler.sourcelink.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\11_TEventHandler\obj\Debug\net9.0\11_TEventHandler.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\11_TEventHandler\obj\Debug\net9.0\refint\11_TEventHandler.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\11_TEventHandler\obj\Debug\net9.0\11_TEventHandler.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\11_TEventHandler\obj\Debug\net9.0\11_TEventHandler.genruntimeconfig.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\11_TEventHandler\obj\Debug\net9.0\ref\11_TEventHandler.dll

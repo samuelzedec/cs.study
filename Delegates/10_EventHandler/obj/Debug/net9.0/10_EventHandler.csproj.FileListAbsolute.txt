@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\10_EventHandler\bin\Debug\net9.0\10_EventHandler.exe
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\10_EventHandler\bin\Debug\net9.0\10_EventHandler.deps.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\10_EventHandler\bin\Debug\net9.0\10_EventHandler.runtimeconfig.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\10_EventHandler\bin\Debug\net9.0\10_EventHandler.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\10_EventHandler\bin\Debug\net9.0\10_EventHandler.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\10_EventHandler\obj\Debug\net9.0\10_EventHandler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\10_EventHandler\obj\Debug\net9.0\10_EventHandler.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\10_EventHandler\obj\Debug\net9.0\10_EventHandler.AssemblyInfo.cs
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\10_EventHandler\obj\Debug\net9.0\10_EventHandler.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\10_EventHandler\obj\Debug\net9.0\10_EventHandler.sourcelink.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\10_EventHandler\obj\Debug\net9.0\10_EventHandler.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\10_EventHandler\obj\Debug\net9.0\refint\10_EventHandler.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\10_EventHandler\obj\Debug\net9.0\10_EventHandler.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\10_EventHandler\obj\Debug\net9.0\10_EventHandler.genruntimeconfig.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\10_EventHandler\obj\Debug\net9.0\ref\10_EventHandler.dll

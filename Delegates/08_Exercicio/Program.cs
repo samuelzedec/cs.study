@@ -6,7 +6,7 @@ List<Person> list = new()
     new Person("Pedro", 25),
     new Person("Carlos", 15),
     new Person("Ana", 17)
-}; 
+};
 
 //Método usado para imprimir os nomes e idades na lista
 Action<List<Person>> view = delegate(List<Person> persons)

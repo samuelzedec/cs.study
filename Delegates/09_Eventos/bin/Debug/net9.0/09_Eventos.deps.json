@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "09_Eventos/1.0.0": {
+        "runtime": {
+          "09_Eventos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "09_Eventos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\13_LINQ\bin\Debug\net9.0\13_LINQ.exe
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\13_LINQ\bin\Debug\net9.0\13_LINQ.deps.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\13_LINQ\bin\Debug\net9.0\13_LINQ.runtimeconfig.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\13_LINQ\bin\Debug\net9.0\13_LINQ.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\13_LINQ\bin\Debug\net9.0\13_LINQ.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\13_LINQ\obj\Debug\net9.0\13_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\13_LINQ\obj\Debug\net9.0\13_LINQ.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\13_LINQ\obj\Debug\net9.0\13_LINQ.AssemblyInfo.cs
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\13_LINQ\obj\Debug\net9.0\13_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\13_LINQ\obj\Debug\net9.0\13_LINQ.sourcelink.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\13_LINQ\obj\Debug\net9.0\13_LINQ.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\13_LINQ\obj\Debug\net9.0\refint\13_LINQ.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\13_LINQ\obj\Debug\net9.0\13_LINQ.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\13_LINQ\obj\Debug\net9.0\13_LINQ.genruntimeconfig.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\13_LINQ\obj\Debug\net9.0\ref\13_LINQ.dll

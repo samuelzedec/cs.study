@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\09_Eventos\bin\Debug\net9.0\09_Eventos.exe
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\09_Eventos\bin\Debug\net9.0\09_Eventos.deps.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\09_Eventos\bin\Debug\net9.0\09_Eventos.runtimeconfig.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\09_Eventos\bin\Debug\net9.0\09_Eventos.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\09_Eventos\bin\Debug\net9.0\09_Eventos.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\09_Eventos\obj\Debug\net9.0\09_Eventos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\09_Eventos\obj\Debug\net9.0\09_Eventos.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\09_Eventos\obj\Debug\net9.0\09_Eventos.AssemblyInfo.cs
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\09_Eventos\obj\Debug\net9.0\09_Eventos.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\09_Eventos\obj\Debug\net9.0\09_Eventos.sourcelink.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\09_Eventos\obj\Debug\net9.0\09_Eventos.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\09_Eventos\obj\Debug\net9.0\refint\09_Eventos.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\09_Eventos\obj\Debug\net9.0\09_Eventos.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\09_Eventos\obj\Debug\net9.0\09_Eventos.genruntimeconfig.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\09_Eventos\obj\Debug\net9.0\ref\09_Eventos.dll

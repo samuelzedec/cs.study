@@ -49,8 +49,5 @@ public class Conta
         return valor;
     }
 
-    public override string ToString() 
-    {
-        return $"Conta : {Numero} : {Titular} - Saldo: {Saldo:C}";
-    }
+    public override string ToString() => $"Conta : {Numero} : {Titular} - Saldo: {Saldo:C}";
 }
