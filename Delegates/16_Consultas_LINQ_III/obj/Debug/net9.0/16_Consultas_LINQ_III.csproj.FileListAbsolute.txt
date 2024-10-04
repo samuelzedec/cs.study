@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\16_Consultas_LINQ_III\bin\Debug\net9.0\16_Consultas_LINQ_III.exe
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\16_Consultas_LINQ_III\bin\Debug\net9.0\16_Consultas_LINQ_III.deps.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\16_Consultas_LINQ_III\bin\Debug\net9.0\16_Consultas_LINQ_III.runtimeconfig.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\16_Consultas_LINQ_III\bin\Debug\net9.0\16_Consultas_LINQ_III.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\16_Consultas_LINQ_III\bin\Debug\net9.0\16_Consultas_LINQ_III.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\16_Consultas_LINQ_III\obj\Debug\net9.0\16_Consultas_LINQ_III.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\16_Consultas_LINQ_III\obj\Debug\net9.0\16_Consultas_LINQ_III.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\16_Consultas_LINQ_III\obj\Debug\net9.0\16_Consultas_LINQ_III.AssemblyInfo.cs
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\16_Consultas_LINQ_III\obj\Debug\net9.0\16_Consultas_LINQ_III.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\16_Consultas_LINQ_III\obj\Debug\net9.0\16_Consultas_LINQ_III.sourcelink.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\16_Consultas_LINQ_III\obj\Debug\net9.0\16_Consultas_LINQ_III.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\16_Consultas_LINQ_III\obj\Debug\net9.0\refint\16_Consultas_LINQ_III.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\16_Consultas_LINQ_III\obj\Debug\net9.0\16_Consultas_LINQ_III.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\16_Consultas_LINQ_III\obj\Debug\net9.0\16_Consultas_LINQ_III.genruntimeconfig.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\16_Consultas_LINQ_III\obj\Debug\net9.0\ref\16_Consultas_LINQ_III.dll

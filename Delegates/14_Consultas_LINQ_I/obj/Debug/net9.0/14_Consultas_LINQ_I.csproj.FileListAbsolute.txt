@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\14_Consultas_LINQ_I\bin\Debug\net9.0\14_Consultas_LINQ_I.exe
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\14_Consultas_LINQ_I\bin\Debug\net9.0\14_Consultas_LINQ_I.deps.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\14_Consultas_LINQ_I\bin\Debug\net9.0\14_Consultas_LINQ_I.runtimeconfig.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\14_Consultas_LINQ_I\bin\Debug\net9.0\14_Consultas_LINQ_I.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\14_Consultas_LINQ_I\bin\Debug\net9.0\14_Consultas_LINQ_I.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\14_Consultas_LINQ_I\obj\Debug\net9.0\14_Consultas_LINQ_I.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\14_Consultas_LINQ_I\obj\Debug\net9.0\14_Consultas_LINQ_I.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\14_Consultas_LINQ_I\obj\Debug\net9.0\14_Consultas_LINQ_I.AssemblyInfo.cs
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\14_Consultas_LINQ_I\obj\Debug\net9.0\14_Consultas_LINQ_I.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\14_Consultas_LINQ_I\obj\Debug\net9.0\14_Consultas_LINQ_I.sourcelink.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\14_Consultas_LINQ_I\obj\Debug\net9.0\14_Consultas_LINQ_I.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\14_Consultas_LINQ_I\obj\Debug\net9.0\refint\14_Consultas_LINQ_I.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\14_Consultas_LINQ_I\obj\Debug\net9.0\14_Consultas_LINQ_I.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\14_Consultas_LINQ_I\obj\Debug\net9.0\14_Consultas_LINQ_I.genruntimeconfig.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\14_Consultas_LINQ_I\obj\Debug\net9.0\ref\14_Consultas_LINQ_I.dll

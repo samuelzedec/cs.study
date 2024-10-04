@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\15_Consultas_LINQ_II\bin\Debug\net9.0\15_Consultas_LINQ_II.exe
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\15_Consultas_LINQ_II\bin\Debug\net9.0\15_Consultas_LINQ_II.deps.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\15_Consultas_LINQ_II\bin\Debug\net9.0\15_Consultas_LINQ_II.runtimeconfig.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\15_Consultas_LINQ_II\bin\Debug\net9.0\15_Consultas_LINQ_II.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\15_Consultas_LINQ_II\bin\Debug\net9.0\15_Consultas_LINQ_II.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\15_Consultas_LINQ_II\obj\Debug\net9.0\15_Consultas_LINQ_II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\15_Consultas_LINQ_II\obj\Debug\net9.0\15_Consultas_LINQ_II.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\15_Consultas_LINQ_II\obj\Debug\net9.0\15_Consultas_LINQ_II.AssemblyInfo.cs
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\15_Consultas_LINQ_II\obj\Debug\net9.0\15_Consultas_LINQ_II.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\15_Consultas_LINQ_II\obj\Debug\net9.0\15_Consultas_LINQ_II.sourcelink.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\15_Consultas_LINQ_II\obj\Debug\net9.0\15_Consultas_LINQ_II.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\15_Consultas_LINQ_II\obj\Debug\net9.0\refint\15_Consultas_LINQ_II.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\15_Consultas_LINQ_II\obj\Debug\net9.0\15_Consultas_LINQ_II.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\15_Consultas_LINQ_II\obj\Debug\net9.0\15_Consultas_LINQ_II.genruntimeconfig.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Delegates\15_Consultas_LINQ_II\obj\Debug\net9.0\ref\15_Consultas_LINQ_II.dll

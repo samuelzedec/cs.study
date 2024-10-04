@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "14_Consultas_LINQ_I/1.0.0": {
+        "runtime": {
+          "14_Consultas_LINQ_I.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "14_Consultas_LINQ_I/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,21 +1,14 @@
 ﻿Console.WriteLine("Invertendo um árvore binária");
 
-TreeNode node = new(1);
-node.Left = new(2);
-node.Right = new(3);
-
-BinaryTree tree = new();
-tree.Invert(node);
-
 public class TreeNode
 {
-    public int Value;
-    public TreeNode Left;  // Filho esquerdo
-    public TreeNode Right; // Filho direito
+    public readonly int Number;
+    public TreeNode Left;
+    public TreeNode Right;
 
-    public TreeNode(int value)
+    public TreeNode(int number)
     {
-        Value = value;
+        Number = number;
         Left = null;
         Right = null;
     }
@@ -23,19 +16,17 @@ public class TreeNode
 
 public class BinaryTree
 {
-    public void Invert(TreeNode node)
+    public static TreeNode Investing(TreeNode tree)
     {
-        if (node == null) return;
+        if (tree is null) return null;
+        
+        TreeNode temp = tree.Right;
+        tree.Right = tree.Left;
+        tree.Left = temp;
+        
+        Investing(tree.Left);
+        Investing(tree.Right);
 
-        // Trocar os filhos esquerdo e direito
-        TreeNode temp = node.Left;
-        node.Left = node.Right;
-        node.Right = temp;
-
-        Console.WriteLine("Success");
-
-        // Inverter recursivamente os subárvores
-        Invert(node.Left);
-        Invert(node.Right);
+        return tree;
     }
 }
