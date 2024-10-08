@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\02_ClasseFileInfo\bin\Debug\net8.0\02_ClasseFileInfo.exe
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\02_ClasseFileInfo\bin\Debug\net8.0\02_ClasseFileInfo.deps.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\02_ClasseFileInfo\bin\Debug\net8.0\02_ClasseFileInfo.runtimeconfig.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\02_ClasseFileInfo\bin\Debug\net8.0\02_ClasseFileInfo.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\02_ClasseFileInfo\bin\Debug\net8.0\02_ClasseFileInfo.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\02_ClasseFileInfo\obj\Debug\net8.0\02_ClasseFileInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\02_ClasseFileInfo\obj\Debug\net8.0\02_ClasseFileInfo.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\02_ClasseFileInfo\obj\Debug\net8.0\02_ClasseFileInfo.AssemblyInfo.cs
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\02_ClasseFileInfo\obj\Debug\net8.0\02_ClasseFileInfo.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\02_ClasseFileInfo\obj\Debug\net8.0\02_ClasseFileInfo.sourcelink.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\02_ClasseFileInfo\obj\Debug\net8.0\02_ClasseFileInfo.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\02_ClasseFileInfo\obj\Debug\net8.0\refint\02_ClasseFileInfo.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\02_ClasseFileInfo\obj\Debug\net8.0\02_ClasseFileInfo.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\02_ClasseFileInfo\obj\Debug\net8.0\02_ClasseFileInfo.genruntimeconfig.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\02_ClasseFileInfo\obj\Debug\net8.0\ref\02_ClasseFileInfo.dll

@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\03_ClasseDirectory\bin\Debug\net8.0\03_ClasseDirectory.exe
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\03_ClasseDirectory\bin\Debug\net8.0\03_ClasseDirectory.deps.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\03_ClasseDirectory\bin\Debug\net8.0\03_ClasseDirectory.runtimeconfig.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\03_ClasseDirectory\bin\Debug\net8.0\03_ClasseDirectory.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\03_ClasseDirectory\bin\Debug\net8.0\03_ClasseDirectory.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\03_ClasseDirectory\obj\Debug\net8.0\03_ClasseDirectory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\03_ClasseDirectory\obj\Debug\net8.0\03_ClasseDirectory.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\03_ClasseDirectory\obj\Debug\net8.0\03_ClasseDirectory.AssemblyInfo.cs
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\03_ClasseDirectory\obj\Debug\net8.0\03_ClasseDirectory.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\03_ClasseDirectory\obj\Debug\net8.0\03_ClasseDirectory.sourcelink.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\03_ClasseDirectory\obj\Debug\net8.0\03_ClasseDirectory.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\03_ClasseDirectory\obj\Debug\net8.0\refint\03_ClasseDirectory.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\03_ClasseDirectory\obj\Debug\net8.0\03_ClasseDirectory.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\03_ClasseDirectory\obj\Debug\net8.0\03_ClasseDirectory.genruntimeconfig.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\03_ClasseDirectory\obj\Debug\net8.0\ref\03_ClasseDirectory.dll

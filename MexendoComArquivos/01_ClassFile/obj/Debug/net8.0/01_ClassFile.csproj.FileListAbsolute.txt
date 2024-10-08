@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\01_ClassFile\bin\Debug\net8.0\01_ClassFile.exe
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\01_ClassFile\bin\Debug\net8.0\01_ClassFile.deps.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\01_ClassFile\bin\Debug\net8.0\01_ClassFile.runtimeconfig.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\01_ClassFile\bin\Debug\net8.0\01_ClassFile.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\01_ClassFile\bin\Debug\net8.0\01_ClassFile.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\01_ClassFile\obj\Debug\net8.0\01_ClassFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\01_ClassFile\obj\Debug\net8.0\01_ClassFile.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\01_ClassFile\obj\Debug\net8.0\01_ClassFile.AssemblyInfo.cs
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\01_ClassFile\obj\Debug\net8.0\01_ClassFile.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\01_ClassFile\obj\Debug\net8.0\01_ClassFile.sourcelink.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\01_ClassFile\obj\Debug\net8.0\01_ClassFile.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\01_ClassFile\obj\Debug\net8.0\refint\01_ClassFile.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\01_ClassFile\obj\Debug\net8.0\01_ClassFile.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\01_ClassFile\obj\Debug\net8.0\01_ClassFile.genruntimeconfig.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\01_ClassFile\obj\Debug\net8.0\ref\01_ClassFile.dll

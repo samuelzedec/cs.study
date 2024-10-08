@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\04_ClasseDirectoryInfo\bin\Debug\net8.0\04_ClasseDirectoryInfo.exe
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\04_ClasseDirectoryInfo\bin\Debug\net8.0\04_ClasseDirectoryInfo.deps.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\04_ClasseDirectoryInfo\bin\Debug\net8.0\04_ClasseDirectoryInfo.runtimeconfig.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\04_ClasseDirectoryInfo\bin\Debug\net8.0\04_ClasseDirectoryInfo.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\04_ClasseDirectoryInfo\bin\Debug\net8.0\04_ClasseDirectoryInfo.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\04_ClasseDirectoryInfo\obj\Debug\net8.0\04_ClasseDirectoryInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\04_ClasseDirectoryInfo\obj\Debug\net8.0\04_ClasseDirectoryInfo.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\04_ClasseDirectoryInfo\obj\Debug\net8.0\04_ClasseDirectoryInfo.AssemblyInfo.cs
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\04_ClasseDirectoryInfo\obj\Debug\net8.0\04_ClasseDirectoryInfo.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\04_ClasseDirectoryInfo\obj\Debug\net8.0\04_ClasseDirectoryInfo.sourcelink.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\04_ClasseDirectoryInfo\obj\Debug\net8.0\04_ClasseDirectoryInfo.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\04_ClasseDirectoryInfo\obj\Debug\net8.0\refint\04_ClasseDirectoryInfo.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\04_ClasseDirectoryInfo\obj\Debug\net8.0\04_ClasseDirectoryInfo.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\04_ClasseDirectoryInfo\obj\Debug\net8.0\04_ClasseDirectoryInfo.genruntimeconfig.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\04_ClasseDirectoryInfo\obj\Debug\net8.0\ref\04_ClasseDirectoryInfo.dll
