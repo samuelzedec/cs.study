@@ -21,8 +21,10 @@ public partial class Database : Handling
             throw new DoesNotExistRepositoryException();
         
         GlobalMessage.ShowAvailable(directories);
-        var choice = Convert.ToInt32(Console.ReadLine()) - 1;
-
+        var validade = int.TryParse(Console.ReadLine(), out int choice);
+        if (!validade) throw new FormatException();
+        --choice;
+        
         if (choice > directories.Length || choice < 0) 
             throw new ErrorMessageInRepository("Não há repositório com essa numeração \u001b[30m(E1001)\u001b[0m");
 
@@ -39,7 +41,7 @@ public partial class Database : Handling
             chosenAction = Console.ReadKey().KeyChar;
             
             HandlingMyExceptions(chosenAction, DirectorySecondaryMenu);
-        } while (chosenAction is not '3');
+        } while (chosenAction is not '4');
     }
 
     public void DirectorySecondaryMenu(char choice)
@@ -47,10 +49,15 @@ public partial class Database : Handling
         switch (choice)
         {
             case '1':
+                ViewFileInformation();
                 break;
             case '2':
+                DeleteFile();
                 break;
             case '3':
+                EditFile();
+                break;
+            case '4':
                 GlobalMessage.BackToMainMenu();
                 break;
             default:
@@ -62,11 +69,42 @@ public partial class Database : Handling
     public void ViewFileInformation()
     {
         var files = Subdirectory.GetFiles();
-        foreach (var file in files)
+        if(files.Length == 0) 
+            throw new ErrorMessageInRepository("Não há arquivos existentes neste diretório \u001b[30m(E1002)\u001b[0m");
+        
+        GlobalMessage.FileSpecifications(files);
+    }
+
+    public void DeleteFile()
+    {
+        var files = Subdirectory.GetFiles();
+        GlobalMessage.ViewFileNames(files);
+        
+        var validate = int.TryParse(Console.ReadLine(), out int fileIndex);
+        if (!validate) throw new FormatException();
+        --fileIndex;
+        
+        if (fileIndex > files.Length || fileIndex < 0) 
+            throw new ErrorMessageInRepository("Não há arquivos com esse índice \u001b[30m(E1003)\u001b[0m");
+        
+        GlobalMessage.Confirmation(files[fileIndex]);
+        
+        Console.WriteLine("\u001b[31mDeseja deletar o arquivo (S/N):\u001b[0m");
+        var choice = Console.ReadKey().KeyChar;
+        choice = char.ToLower(choice);
+
+        if (choice == 's')
         {
-            Console.WriteLine($"Nome do arquivo: {file.Name}" +
-                              $"\nData de crição: {file.LastAccessTime}" +
-                              $"\n");
+            files[fileIndex].Delete();
+            GlobalMessage.SuccessFile();
         }
+        
+        if(choice != 's')
+            throw new ErrorMessageInRepository("Arquivo não excluído! \u001b[30m(E1004)\u001b[0m");
+    }
+
+    public void EditFile()
+    {
+        
     }
 }

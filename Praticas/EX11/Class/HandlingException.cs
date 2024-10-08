@@ -24,6 +24,24 @@ public class Handling
             Console.WriteLine(e.Message);
             GlobalMessage.Continue();
         }
+        catch (ErrorMessageInRepository e) when (e.Message.Contains("E1002"))
+        {
+            Console.Clear();
+            Console.WriteLine(e.Message);
+            GlobalMessage.Continue();
+        }
+        catch (ErrorMessageInRepository e) when (e.Message.Contains("E1003"))
+        {
+            Console.Clear();
+            Console.WriteLine(e.Message);
+            GlobalMessage.Continue();
+        }
+        catch (ErrorMessageInRepository e) when (e.Message.Contains("E1004"))
+        {
+            Console.Clear();
+            Console.WriteLine(e.Message);
+            GlobalMessage.Continue();
+        }
         catch (FormatException)
         {
             Console.Clear();

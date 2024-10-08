@@ -69,9 +69,48 @@ public static class GlobalMessage
     {
         Console.WriteLine($"\u001b[32mCaminho do diretório:\u001b[0m {directoryName}");
         Console.WriteLine("\nInforme o número da opção desejável:");
-        Console.WriteLine("[1] - Ver informações de arquivos");
+        Console.WriteLine("[1] - Ver informações de todos os arquivos");
         Console.WriteLine("[2] - Excluir arquivo");
-        Console.WriteLine("[3] - Voltar ao menu anterior");
+        Console.WriteLine("[3] - Editar arquivo");
+        Console.WriteLine("[5] - Voltar ao menu anterior");
         Console.WriteLine("\n\u001b[32m> \u001b[0m");
+    }
+
+    public static void FileSpecifications(FileInfo[] files)
+    {
+        foreach (var file in files)
+        {
+            Console.Clear();
+            Confirmation(file);
+            Continue();
+        }
+    }
+
+    public static void ViewFileNames(FileInfo[] files)
+    {
+        int num = 1;
+        Console.Clear();
+        foreach (var file in files)
+            Console.WriteLine($"{num}. {file.Name}");
+
+        Console.Write("Informe o índice do arquivo: ");
+    }
+
+    public static void Confirmation(FileInfo file)
+    {
+        Console.Clear();
+        Console.WriteLine("\u001b[31mInformação do arquivo:\u001b[0m\n");
+        Console.WriteLine($"Nome do arquivo: {file.Name}" +
+                          $"\nData de crição: {file.CreationTime}" +
+                          $"\nÚltimo acesso {file.LastAccessTime}" +
+                          $"\nÚltimo modificação: {file.LastWriteTime}" +
+                          $"\nCaminho completo: \u001b[33m{file.FullName}\u001b[0m");
+    }
+
+    public static void SuccessFile()
+    {
+        Console.Clear();
+        Console.WriteLine("\u001b[32mArquivo deletado com sucesso!\u001b[0m");
+        Continue();
     }
 }
