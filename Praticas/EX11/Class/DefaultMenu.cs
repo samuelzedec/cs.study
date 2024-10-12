@@ -17,7 +17,7 @@ public class DefaultMenu : Handling
             userDecision = Console.ReadKey().KeyChar;
             
             HandlingMyExceptions(userDecision, DirectingUserChoice);
-        } while (userDecision is not '6');
+        } while (userDecision is not '4');
     }
     
     private void DirectingUserChoice(char choice)
@@ -28,14 +28,12 @@ public class DefaultMenu : Handling
                 Database.RepositoryAccess();
                 break;
             case '2':
+                Database.CreateRepository();
                 break;
             case '3':
+                Database.DeleteRepository();
                 break;
             case '4':
-                break;
-            case '5':
-                break;
-            case '6':
                 GlobalMessage.EndProgram();
                 break;
             default:

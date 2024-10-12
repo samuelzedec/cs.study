@@ -1,4 +1,6 @@
-﻿namespace Class.MyException;
+﻿using System.Collections;
+
+namespace Class.MyException;
 
 public class DoesNotExistRepositoryException : Exception
 {
@@ -12,4 +14,10 @@ public class ErrorMessageInRepository : Exception
     public readonly string Error;
     public ErrorMessageInRepository(string error) { Error = error; }
     public override string Message => $"\u001b[31m{Error}\u001b[0m";
+}
+
+public class ErrorInRepositoryCreation : Exception
+{
+    public ErrorInRepositoryCreation() {}
+    public override string Message => "\u001b[31mNão foi possiível executar a ação\u001b[0m";  
 }
