@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\07_Exercicio_Stream\bin\Debug\net8.0\07_Exercicio_Stream.exe
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\07_Exercicio_Stream\bin\Debug\net8.0\07_Exercicio_Stream.deps.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\07_Exercicio_Stream\bin\Debug\net8.0\07_Exercicio_Stream.runtimeconfig.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\07_Exercicio_Stream\bin\Debug\net8.0\07_Exercicio_Stream.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\07_Exercicio_Stream\bin\Debug\net8.0\07_Exercicio_Stream.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\07_Exercicio_Stream\obj\Debug\net8.0\07_Exercicio_Stream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\07_Exercicio_Stream\obj\Debug\net8.0\07_Exercicio_Stream.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\07_Exercicio_Stream\obj\Debug\net8.0\07_Exercicio_Stream.AssemblyInfo.cs
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\07_Exercicio_Stream\obj\Debug\net8.0\07_Exercicio_Stream.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\07_Exercicio_Stream\obj\Debug\net8.0\07_Exercicio_Stream.sourcelink.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\07_Exercicio_Stream\obj\Debug\net8.0\07_Exercicio_Stream.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\07_Exercicio_Stream\obj\Debug\net8.0\refint\07_Exercicio_Stream.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\07_Exercicio_Stream\obj\Debug\net8.0\07_Exercicio_Stream.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\07_Exercicio_Stream\obj\Debug\net8.0\07_Exercicio_Stream.genruntimeconfig.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\07_Exercicio_Stream\obj\Debug\net8.0\ref\07_Exercicio_Stream.dll

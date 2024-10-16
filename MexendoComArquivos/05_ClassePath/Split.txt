@@ -1,0 +1,13 @@
+﻿string caminho = @"d:\dados\txt\poesia.txt";
+char dirSeparator = Path.DirectorySeparatorChar;
+
+Console.WriteLine($"O separador de diretório padrão é: {dirSeparator}");
+string[] directories = caminho.Split(dirSeparator);
+/*
+* .Split(): irá retornar um array de strings, particionando a string de acordo
+* com o carater passado no seu parâmetro.
+*/
+
+Console.WriteLine("Os diretórios e arquivo no caminho são:");
+foreach (var directory in directories) 
+    Console.WriteLine(directory);

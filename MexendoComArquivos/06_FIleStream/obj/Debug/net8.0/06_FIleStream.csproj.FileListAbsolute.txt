@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\06_FIleStream\bin\Debug\net8.0\06_FIleStream.exe
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\06_FIleStream\bin\Debug\net8.0\06_FIleStream.deps.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\06_FIleStream\bin\Debug\net8.0\06_FIleStream.runtimeconfig.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\06_FIleStream\bin\Debug\net8.0\06_FIleStream.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\06_FIleStream\bin\Debug\net8.0\06_FIleStream.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\06_FIleStream\obj\Debug\net8.0\06_FIleStream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\06_FIleStream\obj\Debug\net8.0\06_FIleStream.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\06_FIleStream\obj\Debug\net8.0\06_FIleStream.AssemblyInfo.cs
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\06_FIleStream\obj\Debug\net8.0\06_FIleStream.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\06_FIleStream\obj\Debug\net8.0\06_FIleStream.sourcelink.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\06_FIleStream\obj\Debug\net8.0\06_FIleStream.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\06_FIleStream\obj\Debug\net8.0\refint\06_FIleStream.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\06_FIleStream\obj\Debug\net8.0\06_FIleStream.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\06_FIleStream\obj\Debug\net8.0\06_FIleStream.genruntimeconfig.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\MexendoComArquivos\06_FIleStream\obj\Debug\net8.0\ref\06_FIleStream.dll

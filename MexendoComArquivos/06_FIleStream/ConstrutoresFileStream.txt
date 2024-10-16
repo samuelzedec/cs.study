@@ -1,0 +1,40 @@
+﻿Código:
+    FileStream fs3 = new(
+        caminhoArquivo,
+        FileMode.Open,
+        FileAcess.Read,
+        FileShare.Read
+    );
+
+FileMode indica o modo que o arquivo está sendo acessado. E seus métodos são:
+    - Append: Abre o arquivo para gravação, posicionando o ponteiro no final do arquivo. Se o arquivo não existir, ele será criado. Somente a escrita é permitida com este modo.
+    
+    - Create: Cria um novo arquivo. Se o arquivo já existir, ele será sobrescrito (o conteúdo anterior será apagado).
+    
+    - CreateNew: Cria um novo arquivo. Se o arquivo já existir, uma exceção (IOException) será lançada.
+    
+    - Open: Abre um arquivo existente. Se o arquivo não existir, uma exceção (FileNotFoundException) será lançada.
+    
+    - OpenOrCreate: Abre um arquivo se ele existir; caso contrário, cria um novo arquivo.
+    
+    - Truncate: Abre um arquivo existente e reduz seu tamanho para zero, apagando todo o conteúdo. Se o arquivo não existir, uma exceção (FileNotFoundException) será lançada.
+    
+FileAccess define os níveis de acesso permitidos para um arquivo. Seus modos disponíveis são:
+    - Read: Permite somente a leitura do arquivo. Não é possível escrever no arquivo com este nível de acesso.
+  
+    - Write: Permite somente a gravação no arquivo. Não é possível ler o arquivo com este nível de acesso.
+    
+    - ReadWrite: Permite tanto a leitura quanto a gravação no arquivo.
+    
+FileShare especifica o nível de acesso que outros processos têm a um arquivo já aberto. Seus modos disponíveis são:
+    - None: O arquivo não pode ser compartilhado. Qualquer tentativa de outro processo para abrir o arquivo falhará até que ele seja fechado.
+    
+    - Read: Permite que outros processos abram o arquivo para leitura. Não impede que o arquivo seja aberto para leitura por outro processo.
+    
+    - Write: Permite que outros processos abram o arquivo para gravação.
+    
+    - ReadWrite: Permite que outros processos abram o arquivo para leitura e gravação.
+    
+    - Delete: Permite que o arquivo seja excluído por outros processos enquanto ele está aberto.
+    
+    - Inheritable: Permite que um identificador de arquivo seja herdado por processos filhos.

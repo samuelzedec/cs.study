@@ -14,7 +14,7 @@ var resultado =
 
 Exibir(resultado);
 /* 
- * O 'from' está criando uma variável temporária que representa cada elemento da lista nome
+ * O 'from' está criando uma variável temporária que representa cada elemento da lista nomes
  * O 'where' está criando uma condição para filtrar elementos
  * Caso o 'where' retorne true para aquele elemento, o 'select' irá pegar esse elemento e jogar na var resultado
  */ 
