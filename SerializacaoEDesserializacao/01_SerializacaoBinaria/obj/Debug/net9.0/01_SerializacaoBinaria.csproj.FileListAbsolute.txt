@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\01_SerializacaoBinaria\bin\Debug\net9.0\01_SerializacaoBinaria.exe
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\01_SerializacaoBinaria\bin\Debug\net9.0\01_SerializacaoBinaria.deps.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\01_SerializacaoBinaria\bin\Debug\net9.0\01_SerializacaoBinaria.runtimeconfig.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\01_SerializacaoBinaria\bin\Debug\net9.0\01_SerializacaoBinaria.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\01_SerializacaoBinaria\bin\Debug\net9.0\01_SerializacaoBinaria.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\01_SerializacaoBinaria\obj\Debug\net9.0\01_SerializacaoBinaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\01_SerializacaoBinaria\obj\Debug\net9.0\01_SerializacaoBinaria.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\01_SerializacaoBinaria\obj\Debug\net9.0\01_SerializacaoBinaria.AssemblyInfo.cs
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\01_SerializacaoBinaria\obj\Debug\net9.0\01_SerializacaoBinaria.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\01_SerializacaoBinaria\obj\Debug\net9.0\01_SerializacaoBinaria.sourcelink.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\01_SerializacaoBinaria\obj\Debug\net9.0\01_SerializacaoBinaria.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\01_SerializacaoBinaria\obj\Debug\net9.0\refint\01_SerializacaoBinaria.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\01_SerializacaoBinaria\obj\Debug\net9.0\01_SerializacaoBinaria.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\01_SerializacaoBinaria\obj\Debug\net9.0\01_SerializacaoBinaria.genruntimeconfig.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\01_SerializacaoBinaria\obj\Debug\net9.0\ref\01_SerializacaoBinaria.dll

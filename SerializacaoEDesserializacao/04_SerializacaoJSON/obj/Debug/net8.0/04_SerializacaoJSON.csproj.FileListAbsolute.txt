@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\04_SerializacaoJSON\bin\Debug\net8.0\04_SerializacaoJSON.exe
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\04_SerializacaoJSON\bin\Debug\net8.0\04_SerializacaoJSON.deps.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\04_SerializacaoJSON\bin\Debug\net8.0\04_SerializacaoJSON.runtimeconfig.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\04_SerializacaoJSON\bin\Debug\net8.0\04_SerializacaoJSON.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\04_SerializacaoJSON\bin\Debug\net8.0\04_SerializacaoJSON.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\04_SerializacaoJSON\obj\Debug\net8.0\04_SerializacaoJSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\04_SerializacaoJSON\obj\Debug\net8.0\04_SerializacaoJSON.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\04_SerializacaoJSON\obj\Debug\net8.0\04_SerializacaoJSON.AssemblyInfo.cs
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\04_SerializacaoJSON\obj\Debug\net8.0\04_SerializacaoJSON.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\04_SerializacaoJSON\obj\Debug\net8.0\04_SerializacaoJSON.sourcelink.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\04_SerializacaoJSON\obj\Debug\net8.0\04_SerializacaoJSON.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\04_SerializacaoJSON\obj\Debug\net8.0\refint\04_SerializacaoJSON.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\04_SerializacaoJSON\obj\Debug\net8.0\04_SerializacaoJSON.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\04_SerializacaoJSON\obj\Debug\net8.0\04_SerializacaoJSON.genruntimeconfig.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\04_SerializacaoJSON\obj\Debug\net8.0\ref\04_SerializacaoJSON.dll

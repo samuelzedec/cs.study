@@ -1,0 +1,11 @@
+﻿/*foreach (var aluno in listaDeAlunos)
+{
+    using FileStream stream = new(pathJson,
+        //Caso o arquivo exista, iremos adicionar ao final do arquivo, se não iremos criar esse arquivo
+        File.Exists(pathJson) ? FileMode.Append : FileMode.Create,
+        FileAccess.Write);
+    /*
+     * Ao usar o FileMode.Append, no FileAccess so pode ser .Write
+     #1#
+    JsonSerializer.Serialize(stream, aluno);
+}*/

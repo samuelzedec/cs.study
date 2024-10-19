@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\03_DesserializacaoXML\bin\Debug\net8.0\03_DesserializacaoXML.exe
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\03_DesserializacaoXML\bin\Debug\net8.0\03_DesserializacaoXML.deps.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\03_DesserializacaoXML\bin\Debug\net8.0\03_DesserializacaoXML.runtimeconfig.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\03_DesserializacaoXML\bin\Debug\net8.0\03_DesserializacaoXML.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\03_DesserializacaoXML\bin\Debug\net8.0\03_DesserializacaoXML.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\03_DesserializacaoXML\obj\Debug\net8.0\03_DesserializacaoXML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\03_DesserializacaoXML\obj\Debug\net8.0\03_DesserializacaoXML.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\03_DesserializacaoXML\obj\Debug\net8.0\03_DesserializacaoXML.AssemblyInfo.cs
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\03_DesserializacaoXML\obj\Debug\net8.0\03_DesserializacaoXML.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\03_DesserializacaoXML\obj\Debug\net8.0\03_DesserializacaoXML.sourcelink.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\03_DesserializacaoXML\obj\Debug\net8.0\03_DesserializacaoXML.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\03_DesserializacaoXML\obj\Debug\net8.0\refint\03_DesserializacaoXML.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\03_DesserializacaoXML\obj\Debug\net8.0\03_DesserializacaoXML.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\03_DesserializacaoXML\obj\Debug\net8.0\03_DesserializacaoXML.genruntimeconfig.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\03_DesserializacaoXML\obj\Debug\net8.0\ref\03_DesserializacaoXML.dll

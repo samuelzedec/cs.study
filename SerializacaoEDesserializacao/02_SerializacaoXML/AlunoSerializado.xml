@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Aluno xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Age>17</Age>
+  <Id>101</Id>
+  <Name>Maria</Name>
+  <Email>maria@yahoo.com</Email>
+</Aluno>

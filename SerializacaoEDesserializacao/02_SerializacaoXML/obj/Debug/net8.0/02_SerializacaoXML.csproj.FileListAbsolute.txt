@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\02_SerializacaoXML\bin\Debug\net8.0\02_SerializacaoXML.exe
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\02_SerializacaoXML\bin\Debug\net8.0\02_SerializacaoXML.deps.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\02_SerializacaoXML\bin\Debug\net8.0\02_SerializacaoXML.runtimeconfig.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\02_SerializacaoXML\bin\Debug\net8.0\02_SerializacaoXML.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\02_SerializacaoXML\bin\Debug\net8.0\02_SerializacaoXML.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\02_SerializacaoXML\obj\Debug\net8.0\02_SerializacaoXML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\02_SerializacaoXML\obj\Debug\net8.0\02_SerializacaoXML.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\02_SerializacaoXML\obj\Debug\net8.0\02_SerializacaoXML.AssemblyInfo.cs
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\02_SerializacaoXML\obj\Debug\net8.0\02_SerializacaoXML.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\02_SerializacaoXML\obj\Debug\net8.0\02_SerializacaoXML.sourcelink.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\02_SerializacaoXML\obj\Debug\net8.0\02_SerializacaoXML.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\02_SerializacaoXML\obj\Debug\net8.0\refint\02_SerializacaoXML.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\02_SerializacaoXML\obj\Debug\net8.0\02_SerializacaoXML.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\02_SerializacaoXML\obj\Debug\net8.0\02_SerializacaoXML.genruntimeconfig.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\02_SerializacaoXML\obj\Debug\net8.0\ref\02_SerializacaoXML.dll

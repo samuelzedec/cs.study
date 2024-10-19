@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\05_DesserializacaoJSON\bin\Debug\net8.0\05_DesserializacaoJSON.exe
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\05_DesserializacaoJSON\bin\Debug\net8.0\05_DesserializacaoJSON.deps.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\05_DesserializacaoJSON\bin\Debug\net8.0\05_DesserializacaoJSON.runtimeconfig.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\05_DesserializacaoJSON\bin\Debug\net8.0\05_DesserializacaoJSON.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\05_DesserializacaoJSON\bin\Debug\net8.0\05_DesserializacaoJSON.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\05_DesserializacaoJSON\obj\Debug\net8.0\05_DesserializacaoJSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\05_DesserializacaoJSON\obj\Debug\net8.0\05_DesserializacaoJSON.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\05_DesserializacaoJSON\obj\Debug\net8.0\05_DesserializacaoJSON.AssemblyInfo.cs
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\05_DesserializacaoJSON\obj\Debug\net8.0\05_DesserializacaoJSON.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\05_DesserializacaoJSON\obj\Debug\net8.0\05_DesserializacaoJSON.sourcelink.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\05_DesserializacaoJSON\obj\Debug\net8.0\05_DesserializacaoJSON.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\05_DesserializacaoJSON\obj\Debug\net8.0\refint\05_DesserializacaoJSON.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\05_DesserializacaoJSON\obj\Debug\net8.0\05_DesserializacaoJSON.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\05_DesserializacaoJSON\obj\Debug\net8.0\05_DesserializacaoJSON.genruntimeconfig.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\SerializacaoEDesserializacao\05_DesserializacaoJSON\obj\Debug\net8.0\ref\05_DesserializacaoJSON.dll
