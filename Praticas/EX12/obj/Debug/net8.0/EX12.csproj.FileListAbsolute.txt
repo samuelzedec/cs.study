@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Praticas\EX12\bin\Debug\net8.0\EX12.exe
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Praticas\EX12\bin\Debug\net8.0\EX12.deps.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Praticas\EX12\bin\Debug\net8.0\EX12.runtimeconfig.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Praticas\EX12\bin\Debug\net8.0\EX12.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Praticas\EX12\bin\Debug\net8.0\EX12.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Praticas\EX12\obj\Debug\net8.0\EX12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Praticas\EX12\obj\Debug\net8.0\EX12.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Praticas\EX12\obj\Debug\net8.0\EX12.AssemblyInfo.cs
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Praticas\EX12\obj\Debug\net8.0\EX12.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Praticas\EX12\obj\Debug\net8.0\EX12.sourcelink.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Praticas\EX12\obj\Debug\net8.0\EX12.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Praticas\EX12\obj\Debug\net8.0\refint\EX12.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Praticas\EX12\obj\Debug\net8.0\EX12.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Praticas\EX12\obj\Debug\net8.0\EX12.genruntimeconfig.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\Praticas\EX12\obj\Debug\net8.0\ref\EX12.dll

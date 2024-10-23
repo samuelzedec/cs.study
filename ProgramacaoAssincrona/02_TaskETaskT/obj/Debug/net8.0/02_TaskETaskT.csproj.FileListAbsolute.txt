@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\02_TaskETaskT\bin\Debug\net8.0\02_TaskETaskT.exe
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\02_TaskETaskT\bin\Debug\net8.0\02_TaskETaskT.deps.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\02_TaskETaskT\bin\Debug\net8.0\02_TaskETaskT.runtimeconfig.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\02_TaskETaskT\bin\Debug\net8.0\02_TaskETaskT.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\02_TaskETaskT\bin\Debug\net8.0\02_TaskETaskT.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\02_TaskETaskT\obj\Debug\net8.0\02_TaskETaskT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\02_TaskETaskT\obj\Debug\net8.0\02_TaskETaskT.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\02_TaskETaskT\obj\Debug\net8.0\02_TaskETaskT.AssemblyInfo.cs
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\02_TaskETaskT\obj\Debug\net8.0\02_TaskETaskT.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\02_TaskETaskT\obj\Debug\net8.0\02_TaskETaskT.sourcelink.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\02_TaskETaskT\obj\Debug\net8.0\02_TaskETaskT.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\02_TaskETaskT\obj\Debug\net8.0\refint\02_TaskETaskT.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\02_TaskETaskT\obj\Debug\net8.0\02_TaskETaskT.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\02_TaskETaskT\obj\Debug\net8.0\02_TaskETaskT.genruntimeconfig.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\02_TaskETaskT\obj\Debug\net8.0\ref\02_TaskETaskT.dll

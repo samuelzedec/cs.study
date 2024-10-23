@@ -15,15 +15,15 @@ List<Aluno> listaDeAlunos = new()
 
 //Fazendo com XML
 XmlSerializer sxml = new(typeof(List<Aluno>)); 
-//É possível passar uma lista como tipo para a classe XmlSerializer, assim ele irá se preparar para comverter a lista no formato xml
+//É possível passar uma lista como tipo para a classe XmlSerializer,
+//assim ele irá se preparar para comverter a lista no formato xml
 using (StreamWriter write = new(pathXml))
 {
     sxml.Serialize(write, listaDeAlunos);
 }
 
 //Fazendo com JSON
-string lista = JsonSerializer.Serialize(listaDeAlunos);
-//Aqui fazemos a conversão da lista para json e depois adicionamos ela ao arquivo JSON
+string lista = JsonSerializer.Serialize(listaDeAlunos); //Aqui fazemos a conversão da lista para json e depois adicionamos ela ao arquivo JSON
 File.WriteAllText(pathJson, lista);
 
 Console.WriteLine("Success!");
