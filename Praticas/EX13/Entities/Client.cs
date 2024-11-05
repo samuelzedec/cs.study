@@ -1,6 +1,6 @@
 ﻿using Interfaces;
 
-namespace Entities.Menu;
+namespace Entities;
 public class Client : IMandatoryData
 {
     private string _name;
@@ -17,8 +17,8 @@ public class Client : IMandatoryData
         set => _email = value;
     }
 
-    private int _password;
-    public int Password 
+    private string _password;
+    public string Password 
     {
         get => _password;
         set => _password = value;
@@ -32,7 +32,7 @@ public class Client : IMandatoryData
     }
     
     public Client() {}
-    public Client(string name, string email, int password, List<Book> books)
+    public Client(string name, string email, string password, List<Book> books)
     {
         _name = name;
         _email = email;

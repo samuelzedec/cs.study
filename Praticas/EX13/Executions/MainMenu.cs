@@ -1,13 +1,15 @@
-﻿namespace Executions.Menu;
+﻿using Executions.LibraryActions;
 using Message.MainMenu;
 using Message.Global;
 using Enums;
+namespace Executions.Menu;
 
 public static class MainMenu
 {
-    public static void RunMenu()
+    public static async Task RunMenu()
     {
         MainChoice option;
+        await Database.ReturnDataFromTheDatabaseAsync();
         do
         {
             StandardMessages.ToStart();
@@ -30,15 +32,22 @@ public static class MainMenu
         switch(option)
         {
             case MainChoice.AccessAsLibrary:
+                MenuLibrary.Home();
                 break;
             case MainChoice.LoginAsACustomer:
                 break;
             case MainChoice.Close:
-                StandardMessages.Close();
+                Close();
                 break;
             case MainChoice.InvalidValue:
                 GlobalMessages.Invalid();
                 break;
         }
+    }
+
+    private static void Close()
+    {
+        Database.SalveData();
+        StandardMessages.Close();
     }
 }

@@ -9,6 +9,7 @@ public class IncorrectPasswordException : Exception
 
     public void Information()
     {
+        Console.Clear();
         Console.ForegroundColor = ConsoleColor.Red;
         Console.WriteLine(Message);
         Console.ResetColor();

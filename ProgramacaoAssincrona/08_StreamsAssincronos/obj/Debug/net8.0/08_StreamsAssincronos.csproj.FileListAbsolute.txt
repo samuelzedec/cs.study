@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\08_StreamsAssincronos\bin\Debug\net8.0\08_StreamsAssincronos.exe
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\08_StreamsAssincronos\bin\Debug\net8.0\08_StreamsAssincronos.deps.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\08_StreamsAssincronos\bin\Debug\net8.0\08_StreamsAssincronos.runtimeconfig.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\08_StreamsAssincronos\bin\Debug\net8.0\08_StreamsAssincronos.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\08_StreamsAssincronos\bin\Debug\net8.0\08_StreamsAssincronos.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\08_StreamsAssincronos\obj\Debug\net8.0\08_StreamsAssincronos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\08_StreamsAssincronos\obj\Debug\net8.0\08_StreamsAssincronos.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\08_StreamsAssincronos\obj\Debug\net8.0\08_StreamsAssincronos.AssemblyInfo.cs
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\08_StreamsAssincronos\obj\Debug\net8.0\08_StreamsAssincronos.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\08_StreamsAssincronos\obj\Debug\net8.0\08_StreamsAssincronos.sourcelink.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\08_StreamsAssincronos\obj\Debug\net8.0\08_StreamsAssincronos.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\08_StreamsAssincronos\obj\Debug\net8.0\refint\08_StreamsAssincronos.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\08_StreamsAssincronos\obj\Debug\net8.0\08_StreamsAssincronos.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\08_StreamsAssincronos\obj\Debug\net8.0\08_StreamsAssincronos.genruntimeconfig.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\08_StreamsAssincronos\obj\Debug\net8.0\ref\08_StreamsAssincronos.dll

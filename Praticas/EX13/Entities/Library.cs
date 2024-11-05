@@ -1,5 +1,4 @@
-﻿using Entities.Money;
-namespace Entities.Menu;
+﻿namespace Entities;
 
 public class Library
 {
@@ -17,13 +16,6 @@ public class Library
     {
         get => _invoicing;
         set => _invoicing = value;
-    }
-
-    private List<Client> _clients = new();
-    public List<Client> Clients
-    {
-        get => _clients;
-        set => _clients = value;
     }
 
     private List<Book> _books = new();

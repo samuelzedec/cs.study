@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\09_Semaforos\bin\Debug\net8.0\09_Semaforos.exe
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\09_Semaforos\bin\Debug\net8.0\09_Semaforos.deps.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\09_Semaforos\bin\Debug\net8.0\09_Semaforos.runtimeconfig.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\09_Semaforos\bin\Debug\net8.0\09_Semaforos.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\09_Semaforos\bin\Debug\net8.0\09_Semaforos.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\09_Semaforos\obj\Debug\net8.0\09_Semaforos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\09_Semaforos\obj\Debug\net8.0\09_Semaforos.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\09_Semaforos\obj\Debug\net8.0\09_Semaforos.AssemblyInfo.cs
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\09_Semaforos\obj\Debug\net8.0\09_Semaforos.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\09_Semaforos\obj\Debug\net8.0\09_Semaforos.sourcelink.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\09_Semaforos\obj\Debug\net8.0\09_Semaforos.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\09_Semaforos\obj\Debug\net8.0\refint\09_Semaforos.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\09_Semaforos\obj\Debug\net8.0\09_Semaforos.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\09_Semaforos\obj\Debug\net8.0\09_Semaforos.genruntimeconfig.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\09_Semaforos\obj\Debug\net8.0\ref\09_Semaforos.dll

@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\05_TratamentoException\bin\Debug\net8.0\05_TratamentoException.exe
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\05_TratamentoException\bin\Debug\net8.0\05_TratamentoException.deps.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\05_TratamentoException\bin\Debug\net8.0\05_TratamentoException.runtimeconfig.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\05_TratamentoException\bin\Debug\net8.0\05_TratamentoException.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\05_TratamentoException\bin\Debug\net8.0\05_TratamentoException.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\05_TratamentoException\obj\Debug\net8.0\05_TratamentoException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\05_TratamentoException\obj\Debug\net8.0\05_TratamentoException.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\05_TratamentoException\obj\Debug\net8.0\05_TratamentoException.AssemblyInfo.cs
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\05_TratamentoException\obj\Debug\net8.0\05_TratamentoException.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\05_TratamentoException\obj\Debug\net8.0\05_TratamentoException.sourcelink.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\05_TratamentoException\obj\Debug\net8.0\05_TratamentoException.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\05_TratamentoException\obj\Debug\net8.0\refint\05_TratamentoException.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\05_TratamentoException\obj\Debug\net8.0\05_TratamentoException.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\05_TratamentoException\obj\Debug\net8.0\05_TratamentoException.genruntimeconfig.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\05_TratamentoException\obj\Debug\net8.0\ref\05_TratamentoException.dll

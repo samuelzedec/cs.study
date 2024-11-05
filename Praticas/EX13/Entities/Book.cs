@@ -1,4 +1,4 @@
-﻿namespace Entities.Menu;
+﻿namespace Entities;
 
 public class Book
 {

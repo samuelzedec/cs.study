@@ -32,4 +32,15 @@ public class GlobalMessages
         Console.ResetColor();
         Continue();
     }
+
+    public static void GoToBack()
+    {
+        Console.Clear();
+        Console.ForegroundColor = ConsoleColor.Green;
+        Console.WriteLine("Voltando ao menu anterior...");
+        Console.ResetColor();
+        Continue();
+    }
+    
+
 }

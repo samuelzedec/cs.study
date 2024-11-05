@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\04_CancelamentoDeTarefas\bin\Debug\net8.0\04_CancelamentoDeTarefas.exe
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\04_CancelamentoDeTarefas\bin\Debug\net8.0\04_CancelamentoDeTarefas.deps.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\04_CancelamentoDeTarefas\bin\Debug\net8.0\04_CancelamentoDeTarefas.runtimeconfig.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\04_CancelamentoDeTarefas\bin\Debug\net8.0\04_CancelamentoDeTarefas.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\04_CancelamentoDeTarefas\bin\Debug\net8.0\04_CancelamentoDeTarefas.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\04_CancelamentoDeTarefas\obj\Debug\net8.0\04_CancelamentoDeTarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\04_CancelamentoDeTarefas\obj\Debug\net8.0\04_CancelamentoDeTarefas.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\04_CancelamentoDeTarefas\obj\Debug\net8.0\04_CancelamentoDeTarefas.AssemblyInfo.cs
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\04_CancelamentoDeTarefas\obj\Debug\net8.0\04_CancelamentoDeTarefas.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\04_CancelamentoDeTarefas\obj\Debug\net8.0\04_CancelamentoDeTarefas.sourcelink.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\04_CancelamentoDeTarefas\obj\Debug\net8.0\04_CancelamentoDeTarefas.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\04_CancelamentoDeTarefas\obj\Debug\net8.0\refint\04_CancelamentoDeTarefas.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\04_CancelamentoDeTarefas\obj\Debug\net8.0\04_CancelamentoDeTarefas.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\04_CancelamentoDeTarefas\obj\Debug\net8.0\04_CancelamentoDeTarefas.genruntimeconfig.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\04_CancelamentoDeTarefas\obj\Debug\net8.0\ref\04_CancelamentoDeTarefas.dll

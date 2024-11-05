@@ -3,6 +3,9 @@ using CustomExceptions;
 using Enums;
 
 public delegate void CallMethod(MainChoice value);
+public delegate void CallMethodLibrary(ChoiceLibrary value);
+public delegate void CallMethodBook(ChoiceBook value);
+
 public static class HandlingCustomExceptions
 {
     public static void Format(out int option)
@@ -10,13 +13,12 @@ public static class HandlingCustomExceptions
         try
         {
             if (!int.TryParse(Console.ReadLine(), out int value))
-                throw new CustomFormatException("Formato Inválido! Informe outro valor...");
+                throw new FormatException();
 
             option = value;
         }
-        catch (CustomFormatException e)
+        catch (FormatException)
         {
-            e.Information();
             option = 0;
         }
     }
@@ -26,6 +28,38 @@ public static class HandlingCustomExceptions
         try
         {
             method.Invoke(choice);
+        }
+        catch (IncorrectPasswordException e)
+        {
+            e.Information();
+        }
+    }
+    
+    public static void TreatingCases(ChoiceLibrary choice, CallMethodLibrary method)
+    {
+        try
+        {
+            method.Invoke(choice);
+        }
+        catch (EmptyQueueException e)
+        {
+            e.Information();
+        }
+        catch (IncorrectPasswordException e)
+        {
+            e.Information();
+        }
+    }
+    
+    public static void TreatingCases(ChoiceBook choice, CallMethodBook method)
+    {
+        try
+        {
+            method.Invoke(choice);
+        }
+        catch (EmptyQueueException e)
+        {
+            e.Information();
         }
         catch (IncorrectPasswordException e)
         {

@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Samuel Zedec\\OneDrive\\Documentos\\cs.study\\ProgramacaoAssincrona\\04_CancelamentoDeTarefas\\04_CancelamentoDeTarefas.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Samuel Zedec\\OneDrive\\Documentos\\cs.study\\ProgramacaoAssincrona\\04_CancelamentoDeTarefas\\04_CancelamentoDeTarefas.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Samuel Zedec\\OneDrive\\Documentos\\cs.study\\ProgramacaoAssincrona\\04_CancelamentoDeTarefas\\04_CancelamentoDeTarefas.csproj",
+        "projectName": "04_CancelamentoDeTarefas",
+        "projectPath": "C:\\Users\\Samuel Zedec\\OneDrive\\Documentos\\cs.study\\ProgramacaoAssincrona\\04_CancelamentoDeTarefas\\04_CancelamentoDeTarefas.csproj",
+        "packagesPath": "C:\\Users\\Samuel Zedec\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Samuel Zedec\\OneDrive\\Documentos\\cs.study\\ProgramacaoAssincrona\\04_CancelamentoDeTarefas\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Samuel Zedec\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-rc.1.24452.12/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

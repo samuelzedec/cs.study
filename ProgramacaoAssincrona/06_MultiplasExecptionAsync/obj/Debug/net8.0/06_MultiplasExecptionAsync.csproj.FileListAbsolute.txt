@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\06_MultiplasExecptionAsync\bin\Debug\net8.0\06_MultiplasExecptionAsync.exe
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\06_MultiplasExecptionAsync\bin\Debug\net8.0\06_MultiplasExecptionAsync.deps.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\06_MultiplasExecptionAsync\bin\Debug\net8.0\06_MultiplasExecptionAsync.runtimeconfig.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\06_MultiplasExecptionAsync\bin\Debug\net8.0\06_MultiplasExecptionAsync.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\06_MultiplasExecptionAsync\bin\Debug\net8.0\06_MultiplasExecptionAsync.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\06_MultiplasExecptionAsync\obj\Debug\net8.0\06_MultiplasExecptionAsync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\06_MultiplasExecptionAsync\obj\Debug\net8.0\06_MultiplasExecptionAsync.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\06_MultiplasExecptionAsync\obj\Debug\net8.0\06_MultiplasExecptionAsync.AssemblyInfo.cs
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\06_MultiplasExecptionAsync\obj\Debug\net8.0\06_MultiplasExecptionAsync.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\06_MultiplasExecptionAsync\obj\Debug\net8.0\06_MultiplasExecptionAsync.sourcelink.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\06_MultiplasExecptionAsync\obj\Debug\net8.0\06_MultiplasExecptionAsync.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\06_MultiplasExecptionAsync\obj\Debug\net8.0\refint\06_MultiplasExecptionAsync.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\06_MultiplasExecptionAsync\obj\Debug\net8.0\06_MultiplasExecptionAsync.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\06_MultiplasExecptionAsync\obj\Debug\net8.0\06_MultiplasExecptionAsync.genruntimeconfig.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\06_MultiplasExecptionAsync\obj\Debug\net8.0\ref\06_MultiplasExecptionAsync.dll
