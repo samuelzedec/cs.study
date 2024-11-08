@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("06_MultiplasExecptionAsync")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90108629b491ec93022d90f80bf65d95ab536cb4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d69ac9a5384828f70a6cf3cbb6d8fb3e600572d")]
 [assembly: System.Reflection.AssemblyProductAttribute("06_MultiplasExecptionAsync")]
 [assembly: System.Reflection.AssemblyTitleAttribute("06_MultiplasExecptionAsync")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

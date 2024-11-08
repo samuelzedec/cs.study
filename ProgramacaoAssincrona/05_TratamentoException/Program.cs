@@ -19,6 +19,7 @@ static async Task LancaExceptionAsync()
 }*/
 TesteAsync t = new();
 await t.ChamaTarefaAsync();
+Console.WriteLine("\u001b[31mAcho que ocorreu um erro\u001b[0m");
 
 public class TesteAsync
 {

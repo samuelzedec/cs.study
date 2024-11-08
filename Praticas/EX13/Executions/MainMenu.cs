@@ -6,10 +6,10 @@ namespace Executions.Menu;
 
 public static class MainMenu
 {
-    public static async Task RunMenu()
+    public static void RunMenu()
     {
         MainChoice option;
-        await Database.ReturnDataFromTheDatabaseAsync();
+        var task = Task.Run(() => Database.ReturnDataFromTheDatabaseAsync());
         do
         {
             StandardMessages.ToStart();

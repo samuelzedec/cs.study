@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\01_ProgramacaoSincrona\bin\Debug\net8.0\01_ProgramacaoSincrona.exe
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\01_ProgramacaoSincrona\bin\Debug\net8.0\01_ProgramacaoSincrona.deps.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\01_ProgramacaoSincrona\bin\Debug\net8.0\01_ProgramacaoSincrona.runtimeconfig.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\01_ProgramacaoSincrona\bin\Debug\net8.0\01_ProgramacaoSincrona.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\01_ProgramacaoSincrona\bin\Debug\net8.0\01_ProgramacaoSincrona.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\01_ProgramacaoSincrona\obj\Debug\net8.0\01_ProgramacaoSincrona.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\01_ProgramacaoSincrona\obj\Debug\net8.0\01_ProgramacaoSincrona.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\01_ProgramacaoSincrona\obj\Debug\net8.0\01_ProgramacaoSincrona.AssemblyInfo.cs
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\01_ProgramacaoSincrona\obj\Debug\net8.0\01_ProgramacaoSincrona.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\01_ProgramacaoSincrona\obj\Debug\net8.0\01_ProgramacaoSincrona.sourcelink.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\01_ProgramacaoSincrona\obj\Debug\net8.0\01_ProgramacaoSincrona.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\01_ProgramacaoSincrona\obj\Debug\net8.0\refint\01_ProgramacaoSincrona.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\01_ProgramacaoSincrona\obj\Debug\net8.0\01_ProgramacaoSincrona.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\01_ProgramacaoSincrona\obj\Debug\net8.0\01_ProgramacaoSincrona.genruntimeconfig.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\ProgramacaoAssincrona\01_ProgramacaoSincrona\obj\Debug\net8.0\ref\01_ProgramacaoSincrona.dll

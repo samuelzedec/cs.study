@@ -1,5 +1,6 @@
 ﻿Console.WriteLine("## Múltiplas execeções async ##");
 await LancaMultiplasExecoesAsync();
+Console.WriteLine("\u001b[31mAcho que ocorreu um erro\u001b[0m");
 Console.ReadKey();
 
 // static async Task LancaMultiplasExecoesAsync()
