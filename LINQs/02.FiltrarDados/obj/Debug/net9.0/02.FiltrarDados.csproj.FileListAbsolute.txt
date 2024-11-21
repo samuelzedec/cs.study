@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\02.FiltrarDados\bin\Debug\net9.0\02.FiltrarDados.exe
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\02.FiltrarDados\bin\Debug\net9.0\02.FiltrarDados.deps.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\02.FiltrarDados\bin\Debug\net9.0\02.FiltrarDados.runtimeconfig.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\02.FiltrarDados\bin\Debug\net9.0\02.FiltrarDados.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\02.FiltrarDados\bin\Debug\net9.0\02.FiltrarDados.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\02.FiltrarDados\obj\Debug\net9.0\02.FiltrarDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\02.FiltrarDados\obj\Debug\net9.0\02.FiltrarDados.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\02.FiltrarDados\obj\Debug\net9.0\02.FiltrarDados.AssemblyInfo.cs
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\02.FiltrarDados\obj\Debug\net9.0\02.FiltrarDados.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\02.FiltrarDados\obj\Debug\net9.0\02.FiltrarDados.sourcelink.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\02.FiltrarDados\obj\Debug\net9.0\02.FiltrarDados.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\02.FiltrarDados\obj\Debug\net9.0\refint\02.FiltrarDados.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\02.FiltrarDados\obj\Debug\net9.0\02.FiltrarDados.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\02.FiltrarDados\obj\Debug\net9.0\02.FiltrarDados.genruntimeconfig.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\02.FiltrarDados\obj\Debug\net9.0\ref\02.FiltrarDados.dll

@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\01.Syntax\bin\Debug\net9.0\01.Syntax.exe
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\01.Syntax\bin\Debug\net9.0\01.Syntax.deps.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\01.Syntax\bin\Debug\net9.0\01.Syntax.runtimeconfig.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\01.Syntax\bin\Debug\net9.0\01.Syntax.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\01.Syntax\bin\Debug\net9.0\01.Syntax.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\01.Syntax\obj\Debug\net9.0\01.Syntax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\01.Syntax\obj\Debug\net9.0\01.Syntax.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\01.Syntax\obj\Debug\net9.0\01.Syntax.AssemblyInfo.cs
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\01.Syntax\obj\Debug\net9.0\01.Syntax.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\01.Syntax\obj\Debug\net9.0\01.Syntax.sourcelink.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\01.Syntax\obj\Debug\net9.0\01.Syntax.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\01.Syntax\obj\Debug\net9.0\refint\01.Syntax.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\01.Syntax\obj\Debug\net9.0\01.Syntax.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\01.Syntax\obj\Debug\net9.0\01.Syntax.genruntimeconfig.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\01.Syntax\obj\Debug\net9.0\ref\01.Syntax.dll

@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\06.OperadoresDeOrdenação\bin\Debug\net8.0\06.OperadoresDeOrdenação.exe
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\06.OperadoresDeOrdenação\bin\Debug\net8.0\06.OperadoresDeOrdenação.deps.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\06.OperadoresDeOrdenação\bin\Debug\net8.0\06.OperadoresDeOrdenação.runtimeconfig.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\06.OperadoresDeOrdenação\bin\Debug\net8.0\06.OperadoresDeOrdenação.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\06.OperadoresDeOrdenação\bin\Debug\net8.0\06.OperadoresDeOrdenação.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\06.OperadoresDeOrdenação\obj\Debug\net8.0\06.OperadoresDeOrdenação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\06.OperadoresDeOrdenação\obj\Debug\net8.0\06.OperadoresDeOrdenação.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\06.OperadoresDeOrdenação\obj\Debug\net8.0\06.OperadoresDeOrdenação.AssemblyInfo.cs
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\06.OperadoresDeOrdenação\obj\Debug\net8.0\06.OperadoresDeOrdenação.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\06.OperadoresDeOrdenação\obj\Debug\net8.0\06.OperadoresDeOrdenação.sourcelink.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\06.OperadoresDeOrdenação\obj\Debug\net8.0\06.OperadoresDeOrdenação.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\06.OperadoresDeOrdenação\obj\Debug\net8.0\refint\06.OperadoresDeOrdenação.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\06.OperadoresDeOrdenação\obj\Debug\net8.0\06.OperadoresDeOrdenação.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\06.OperadoresDeOrdenação\obj\Debug\net8.0\06.OperadoresDeOrdenação.genruntimeconfig.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\06.OperadoresDeOrdenação\obj\Debug\net8.0\ref\06.OperadoresDeOrdenação.dll

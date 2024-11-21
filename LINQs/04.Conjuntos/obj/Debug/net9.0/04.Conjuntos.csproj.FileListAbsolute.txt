@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\04.Conjuntos\bin\Debug\net9.0\04.Conjuntos.exe
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\04.Conjuntos\bin\Debug\net9.0\04.Conjuntos.deps.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\04.Conjuntos\bin\Debug\net9.0\04.Conjuntos.runtimeconfig.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\04.Conjuntos\bin\Debug\net9.0\04.Conjuntos.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\04.Conjuntos\bin\Debug\net9.0\04.Conjuntos.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\04.Conjuntos\obj\Debug\net9.0\04.Conjuntos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\04.Conjuntos\obj\Debug\net9.0\04.Conjuntos.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\04.Conjuntos\obj\Debug\net9.0\04.Conjuntos.AssemblyInfo.cs
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\04.Conjuntos\obj\Debug\net9.0\04.Conjuntos.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\04.Conjuntos\obj\Debug\net9.0\04.Conjuntos.sourcelink.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\04.Conjuntos\obj\Debug\net9.0\04.Conjuntos.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\04.Conjuntos\obj\Debug\net9.0\refint\04.Conjuntos.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\04.Conjuntos\obj\Debug\net9.0\04.Conjuntos.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\04.Conjuntos\obj\Debug\net9.0\04.Conjuntos.genruntimeconfig.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\04.Conjuntos\obj\Debug\net9.0\ref\04.Conjuntos.dll

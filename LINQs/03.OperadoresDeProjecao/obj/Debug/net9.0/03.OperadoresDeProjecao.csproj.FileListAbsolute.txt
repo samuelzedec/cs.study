@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\03.OperadoresDeProjecao\bin\Debug\net9.0\03.OperadoresDeProjecao.exe
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\03.OperadoresDeProjecao\bin\Debug\net9.0\03.OperadoresDeProjecao.deps.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\03.OperadoresDeProjecao\bin\Debug\net9.0\03.OperadoresDeProjecao.runtimeconfig.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\03.OperadoresDeProjecao\bin\Debug\net9.0\03.OperadoresDeProjecao.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\03.OperadoresDeProjecao\bin\Debug\net9.0\03.OperadoresDeProjecao.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\03.OperadoresDeProjecao\obj\Debug\net9.0\03.OperadoresDeProjecao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\03.OperadoresDeProjecao\obj\Debug\net9.0\03.OperadoresDeProjecao.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\03.OperadoresDeProjecao\obj\Debug\net9.0\03.OperadoresDeProjecao.AssemblyInfo.cs
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\03.OperadoresDeProjecao\obj\Debug\net9.0\03.OperadoresDeProjecao.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\03.OperadoresDeProjecao\obj\Debug\net9.0\03.OperadoresDeProjecao.sourcelink.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\03.OperadoresDeProjecao\obj\Debug\net9.0\03.OperadoresDeProjecao.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\03.OperadoresDeProjecao\obj\Debug\net9.0\refint\03.OperadoresDeProjecao.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\03.OperadoresDeProjecao\obj\Debug\net9.0\03.OperadoresDeProjecao.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\03.OperadoresDeProjecao\obj\Debug\net9.0\03.OperadoresDeProjecao.genruntimeconfig.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\03.OperadoresDeProjecao\obj\Debug\net9.0\ref\03.OperadoresDeProjecao.dll

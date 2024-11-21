@@ -1,0 +1,15 @@
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\05.ConjuntosII\bin\Debug\net8.0\05.ConjuntosII.exe
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\05.ConjuntosII\bin\Debug\net8.0\05.ConjuntosII.deps.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\05.ConjuntosII\bin\Debug\net8.0\05.ConjuntosII.runtimeconfig.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\05.ConjuntosII\bin\Debug\net8.0\05.ConjuntosII.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\05.ConjuntosII\bin\Debug\net8.0\05.ConjuntosII.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\05.ConjuntosII\obj\Debug\net8.0\05.ConjuntosII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\05.ConjuntosII\obj\Debug\net8.0\05.ConjuntosII.AssemblyInfoInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\05.ConjuntosII\obj\Debug\net8.0\05.ConjuntosII.AssemblyInfo.cs
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\05.ConjuntosII\obj\Debug\net8.0\05.ConjuntosII.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\05.ConjuntosII\obj\Debug\net8.0\05.ConjuntosII.sourcelink.json
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\05.ConjuntosII\obj\Debug\net8.0\05.ConjuntosII.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\05.ConjuntosII\obj\Debug\net8.0\refint\05.ConjuntosII.dll
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\05.ConjuntosII\obj\Debug\net8.0\05.ConjuntosII.pdb
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\05.ConjuntosII\obj\Debug\net8.0\05.ConjuntosII.genruntimeconfig.cache
+C:\Users\Samuel Zedec\OneDrive\Documentos\cs.study\LINQs\05.ConjuntosII\obj\Debug\net8.0\ref\05.ConjuntosII.dll
